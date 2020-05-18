@@ -6,13 +6,9 @@ featured-hero-image: "hub/wolsey-door-2.jpg"
 featured-hero-alt: "A sign on a door saying 'Wolsey Room'."
 featured-hero-caption: "The Wolsey Room in the Ipswich Hub."
 header-bg: custom-bg-corporate-green
-jquery: true
-lightbox: true
 ---
 
-<div class="ph2 ph3-ns pv3 bg-near-white">
-
-  <p class="f3">Ipswich County Library’s newly configured hub offers local businesses and groups a range of modern bookable rooms with presentation facilities. All rooms configurable to your needs. <strong>Ipswich County Library, Northgate Street, Ipswich IP1 3DE</strong>.</p>
+Ipswich County Library’s hub offers local businesses and groups a range of modern bookable rooms with presentation facilities. All rooms configurable to your needs. **Ipswich County Library, Northgate Street, Ipswich IP1 3DE**.
 
 </div>
 

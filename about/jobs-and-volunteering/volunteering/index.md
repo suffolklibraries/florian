@@ -5,21 +5,17 @@ hero-image: hero-volunteering.jpg
 hero-alt: Thurston Friends group
 sidebar: volunteering
 breadcrumb: volunteer
+parent: card
 ---
 
-<div class="{% include /c/generic-panel.html %}">
+Volunteers can get involved with Suffolk Libraries in many ways:
 
-<p>Volunteers can get involved with Suffolk Libraries in many ways:</p>
 
-<ul>
-    <li><a href="/volunteer/home-library-service/">Home Library Service</a> - we’re often looking for volunteers to take books to older and disabled people in their own homes.</li>
-    <li>Volunteers support many of our <a href="/events/">events and activities</a>.</li>
-    <li>There are many ways to get involved with our libraries' <a href="/about/legal-information/member-organisations/">Community or 'Friends' groups</a>. You might help with fundraising, running events and community outreach.</li>
-    <li>We need hundreds of volunteers to help with the <a href="/events-activities/summer-holidays/summer-reading-challenge/">Summer Reading Challenge</a>, which runs every year. Look out for information from spring onwards.</li>
-    <li>We're looking for volunteers to help run our <a href="/events-activities/sporting-memories/">Sporting Memories</a> reminiscence sessions at some libraries.</li>
-</ul>
-
-</div>
+- <a href="/volunteer/home-library-service/">Home Library Service</a> - we’re often looking for volunteers to take books to older and disabled people in their own homes.
+- Volunteers support many of our <a href="/events/">events and activities</a>.
+- There are many ways to get involved with our libraries' <a href="/about/legal-information/member-organisations/">Community or 'Friends' groups</a>. You might help with fundraising, running events and community outreach.
+- We need hundreds of volunteers to help with the <a href="/events-activities/summer-holidays/summer-reading-challenge/">Summer Reading Challenge</a>, which runs every year. Look out for information from spring onwards.
+- We're looking for volunteers to help run our <a href="/events-activities/sporting-memories/">Sporting Memories</a> reminiscence sessions at some libraries.
 
 Our volunteers play a vital part in supporting the library service and the services and activities we provide to local people.
 

@@ -1,0 +1,143 @@
+---
+title: Updating your library account
+---
+
+You can change the phone number, email address, notification preferences and PIN on your account by logging in to [our catalogue](https://suffolk.spydus.co.uk/).
+
+Complete this form to change details on your library account.
+
+You can also re-register your library account using this form. Your account expires automatically after 3 years. This helps us keep your information up to date.
+
+You can continue to use our services when this happens, but confirming your details will help us provide a better service.
+
+Fields marked with a <span class="red">*</span> are required.
+
+<form class="pure-form pure-form-stacked pa3 bg-light-gray" netlify name="re-register-library-card" action="/help/updating-your-library-account/confirmation" netlify-honeypot="bot-field">
+
+      <label for="current-name" class="f5 pt2 mb2">Name you have registered with us <span class="red">*</span></label>
+      <input class="border-box w-100" type="text" required name="current-name" id="current-name">
+
+      <label for="new-name" class="f5 pt2 mb2">New name (if applicable) </label>
+      <input class="border-box w-100" type="text" name="new-name" id="new-name">
+
+      <input class="clip" hidden name="subject" type="text" value="Updating your Suffolk Libraries details">
+
+      <label for="title" class="f5 pt2 mb2">Title you have registered with us:</label>
+      <select name="title" id="title">
+        <option value="miss">Miss</option>
+        <option value="mr">Mr</option>
+        <option value="mrs">Mrs</option>
+        <option value="ms">Ms</option>
+        <option value="other">Other</option>
+        <option value="unsure">Unsure</option>
+      </select>
+
+      <label for="other-title" class="f5 pt2 mb2">Please specify title if you selected 'other'</label>
+      <input type="text" name="other-title" id="other-title">
+
+      <label for="new-title" class="f5 pt2 mb2">New title (if applicable) </label>
+      <select name="new-title" id="new-title">
+        <option value="blank"></option>
+        <option value="miss">Miss</option>
+        <option value="mr">Mr</option>
+        <option value="mrs">Mrs</option>
+        <option value="ms">Ms</option>
+        <option value="other">Other</option>
+      </select>
+
+      <label for="other-new-title" class="f5 pt2 mb2">Please specify title if you selected 'other'</label>
+      <input type="text" name="other-new-title" id="other-new-title">
+
+      <label for="number" class="f5 mb2 pt2">Library card number (with no spaces)<br>This is the number across the middle of your library card beginning 20127 <span class="red">*</span></label>
+      <input class="border-box w-100" required type="text" name="number" id="number" minlength="14" maxlength="14">
+
+      <fieldset>
+
+        <legend class="b">Date of birth</legend>
+
+            <label for="day" class="f5 mb2">Day <span class="red">*</span></label>
+            <select required name="day" id="day">
+              <option value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+              <option value="11">11</option>
+              <option value="12">12</option>
+              <option value="13">13</option>
+              <option value="14">14</option>
+              <option value="15">15</option>
+              <option value="16">16</option>
+              <option value="17">17</option>
+              <option value="18">18</option>
+              <option value="19">19</option>
+              <option value="20">20</option>
+              <option value="21">21</option>
+              <option value="22">22</option>
+              <option value="23">23</option>
+              <option value="24">24</option>
+              <option value="25">25</option>
+              <option value="26">26</option>
+              <option value="27">27</option>
+              <option value="28">28</option>
+              <option value="29">29</option>
+              <option value="30">30</option>
+              <option value="31">31</option>
+            </select>
+
+            <label for="month" class="f5 pt2 pt0-l mb2">Month <span class="red">*</span></label>
+            <select required name="month" id="month">
+              <option value="january">January</option>
+              <option value="february">February</option>
+              <option value="march">March</option>
+              <option value="april">April</option>
+              <option value="may">May</option>
+              <option value="june">June</option>
+              <option value="july">July</option>
+              <option value="august">August</option>
+              <option value="september">September</option>
+              <option value="october">October</option>
+              <option value="november">November</option>
+              <option value="december">December</option>
+            </select>
+
+            <label for="year" class="f5 pt2 pt0-l mb2">Year (XXXX, e.g. 1945, 2004) <span class="red">*</span></label>
+            <input required type="text" name="year" id="year" maxlength="4">
+
+      </fieldset>
+
+      <label for="email" class="f5 pt2 mb2">Email <span class="red">*</span></label>
+      <input class="border-box w-100" required type="email" name="email" id="email">
+
+      <label for="address" class="f5 pt2 mb2">Address you have registered with us <span class="red">*</span></label>
+      <textarea name="address" id="address" required class="border-box w-100"></textarea>
+
+      <label for="new-address" class="f5 pt2 mb2">New address (if applicable)</label>
+      <textarea name="new-address" id="new-address" class="border-box w-100"></textarea>
+
+      <label for="phone" class="f5 pt2 mb2">Phone number</label>
+      <input type="tel" name="phone" id="phone">
+
+      <label for="further-info" class="f5 pt2 mb2">Any further information</label>
+      <textarea name="further-info" id="further-info" class="border-box w-100"></textarea>
+
+          <input type="checkbox" name="newsletter" id="newsletter" value="yes" class="fl f4 mt2 mr2">
+          <label for="newsletter" class="f5 fl">Receive our monthly email newsletter?</label>
+
+        <p class="ma0 custom-lh-title"><small>We can send you a monthly email with our latest books, films, DVDs and music. We don't share your email with anyone else and you can unsubscribe at any time.</small>
+
+</form>
+
+Alternatively, you can:
+
+- call customer service on <strong>01473 351249</strong>
+- take your library card to any library in Suffolk
+
+You won’t need to apply for a new library card to re–register.
+
+If you are new to Suffolk Libraries, you can [apply for a new library card](https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/MSGTRN/OPAC/JOIN).
