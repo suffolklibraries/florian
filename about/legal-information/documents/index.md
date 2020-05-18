@@ -4,6 +4,7 @@ layout: sidebar-left
 sidebar: about
 breadcrumb: about
 hnav: about
+excerpt: Annual reviews, board meeting minutes, accounts and other legal documents.
 ---
 ## Annual Reviews
 

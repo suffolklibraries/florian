@@ -1,8 +1,6 @@
 ---
 title: Volunteering for Suffolk's home library service (HLS)
-layout: sidebar-right
-sidebar: volunteering
-breadcrumb: home
+excerpt: "Our home library service is a vital source of social contact – and books! – for hundreds of Suffolk’s most isolated residents."
 ---
 
 Our volunteers work with library staff to regularly visit customers who cannot make it into the library. They provide much needed social interaction and deliver books, CDs, audio books and DVDs.

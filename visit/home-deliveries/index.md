@@ -1,43 +1,19 @@
 ---
-layout: blank
 title: Home Library Service
-breadcrumb: mobiles-home
 ---
 
-{% include hnav-small.html menu="mandh" %}
+**Coronavirus update:** The Home Library Service has been suspended until further notice due to the coronavirus situation.
 
-<article class="ph2 ph3-ns pv3 pv4-l bg-white">
+**<a href="/mobiles-home/home/enquiry/">Complete an enquiry form &rarr;</a>**
 
-	<div class="custom-max-width">
+If health or mobility problems are preventing you or someone you know getting to a branch or mobile library, volunteers from Suffolk Libraries Home Library Service can help.
 
-		{% include breadcrumb.html %}
+The service is free and available from most libraries.
 
-		<h1 class="custom-lh-title f2 pa0 ma0 mb3">Home Library Service</h1>
+Volunteers visit you in your home, discuss which books will interest you (including audio and eBooks) and order them from the library. They then collect the books from the library and deliver them to your door.
+ 
+To find out more about this service:
 
-    <div class="measure">
-
-			<p class="pa3 custom-bg-corporate white"><strong>Coronavirus update: </strong>The Home Library Service has been suspended until further notice due to the coronavirus situation.</p>
-
-			<p><strong><a class="blue" href="/mobiles-home/home/enquiry/">Complete an enquiry form &rarr;</a></strong></p>
-
-      <p>If health or mobility problems are preventing you or someone you know getting to a branch or mobile library, volunteers from Suffolk Libraries Home Library Service can help.</p>
-
-      <p>The service is free and available from most libraries.</p>
-
-      <p>Volunteers visit you in your home, discuss which books will interest you (including audio and eBooks) and order them from the library. They then collect the books from the library and deliver them to your door.</p>
-   
-      <p>To find out more about this service:</p>
-
-      <ul>
-
-        <li><a class="blue" href="/libraries">contact your local library</a></li>
-        <li><a class="blue" href="/mobiles-home/home/enquiry/">complete an enquiry form</a></li>
-        <li>email <strong>hls@suffolklibraries.co.uk</strong></li>
-
-      </ul>
-
-    </div>
-
-  </div>
-
-</article>
+- <a href="/libraries">contact your local library</a>
+- <a href="/mobiles-home/home/enquiry/">complete an enquiry form</a>
+- email **hls@suffolklibraries.co.uk**

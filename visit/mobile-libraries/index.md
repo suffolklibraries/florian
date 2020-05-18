@@ -1,28 +1,14 @@
 ---
-layout: blank
-title: Mobile libraries and home library service
-breadcrumb: home
-sidebar: mobile-home
+title: Mobile libraries
+excerpt: Three mobile libraries covering the whole of Suffolk. Find one near you.
 ---
 
-{% include hnav-small.html menu="mandh" %}
+**The mobile library service is suspended until further notice from the end of Friday 20 March.**
 
-<article class="ph2 ph3-ns pv3 pv4-l bg-white">
+We run three mobile library services across several hundred stops, as well as a home library service for people who cannot reach a library or mobile library stop.
 
-	<div class="custom-max-width">
-
-		{% include breadcrumb.html %}
-
-		<h1 class="custom-lh-title f2 pa0 ma0 mb3">Mobile libraries &amp; home library service</h1>
-
-		<p class="pa3 custom-bg-corporate white"><strong>Coronavirus update:</strong> <br>The mobile library service is suspended until further notice from the end of Friday 20 March.</p>
-
-		<p class="measure f4 ma0">We run three mobile library services across several hundred stops, as well as a home library service for people who cannot reach a library or mobile library stop.</p>
-
-		<ul class="pb3 bb b--light-gray">
-
-			<li><a href="/mobiles-home/using-the-mobile-library-service/" class="blue">Find out how to use the mobile service</a></li>
-			<li><a href="/mobiles-home/home/" class="blue">Find out about the Home Library Service</a></li>
+			- <a href="/mobiles-home/using-the-mobile-library-service/" class="blue">Find out how to use the mobile service</a>
+			- <a href="/mobiles-home/home/" class="blue">Find out about the Home Library Service</a>
 
 		</ul>
 
@@ -30,31 +16,27 @@ sidebar: mobile-home
 
 		<ul class="list ma0 pa0 mv2">
 
-			<li class="dib mr2 mb4"><a class="pa2 ph3 bg-light-gray blue" href="#Amobiles">A</a></li>
-			<li class="dib mr2 mb4"><a class="pa2 ph3 bg-light-gray blue" href="#Bmobiles">B</a></li>
-			<li class="dib mr2 mb4"><a class="pa2 ph3 bg-light-gray blue" href="#Cmobiles">C</a></li>
-			<li class="dib mr2 mb4"><a class="pa2 ph3 bg-light-gray blue" href="#Dmobiles">D</a></li>
-			<li class="dib mr2 mb4"><a class="pa2 ph3 bg-light-gray blue" href="#Emobiles">E</a></li>
-			<li class="dib mr2 mb4"><a class="pa2 ph3 bg-light-gray blue" href="#Fmobiles">F</a></li>
-			<li class="dib mr2 mb4"><a class="pa2 ph3 bg-light-gray blue" href="#Gmobiles">G</a></li>
-			<li class="dib mr2 mb4"><a class="pa2 ph3 bg-light-gray blue" href="#Hmobiles">H</a></li>
-			<li class="dib mr2 mb4"><a class="pa2 ph3 bg-light-gray blue" href="#Imobiles">I</a></li>
-			<li class="dib mr2 mb4"><a class="pa2 ph3 bg-light-gray blue" href="#Kmobiles">K</a></li>
-			<li class="dib mr2 mb4"><a class="pa2 ph3 bg-light-gray blue" href="#Lmobiles">L</a></li>
-			<li class="dib mr2 mb4"><a class="pa2 ph3 bg-light-gray blue" href="#Mmobiles">M</a></li>
-			<li class="dib mr2 mb4"><a class="pa2 ph3 bg-light-gray blue" href="#Nmobiles">N</a></li>
-			<li class="dib mr2 mb4"><a class="pa2 ph3 bg-light-gray blue" href="#Omobiles">O</a></li>
-			<li class="dib mr2 mb4"><a class="pa2 ph3 bg-light-gray blue" href="#Pmobiles">P</a></li>
-			<li class="dib mr2 mb4"><a class="pa2 ph3 bg-light-gray blue" href="#Rmobiles">R</a></li>
-			<li class="dib mr2 mb4"><a class="pa2 ph3 bg-light-gray blue" href="#Smobiles">S</a></li>
-			<li class="dib mr2 mb4"><a class="pa2 ph3 bg-light-gray blue" href="#Tmobiles">T</a></li>
-			<li class="dib mr2 mb4"><a class="pa2 ph3 bg-light-gray blue" href="#Umobiles">U</a></li>
-			<li class="dib mr2 mb4"><a class="pa2 ph3 bg-light-gray blue" href="#Wmobiles">W</a></li>
-			<li class="dib mr2 mb4"><a class="pa2 ph3 bg-light-gray blue" href="#Ymobiles">Y</a></li>
-
-		</ul>
-
-		<div class="custom-dynasearch-block">
+			- <a href="#Amobiles">A</a>
+			- <a href="#Bmobiles">B</a>
+			- <a href="#Cmobiles">C</a>
+			- <a href="#Dmobiles">D</a>
+			- <a href="#Emobiles">E</a>
+			- <a href="#Fmobiles">F</a>
+			- <a href="#Gmobiles">G</a>
+			- <a href="#Hmobiles">H</a>
+			- <a href="#Imobiles">I</a>
+			- <a href="#Kmobiles">K</a>
+			- <a href="#Lmobiles">L</a>
+			- <a href="#Mmobiles">M</a>
+			- <a href="#Nmobiles">N</a>
+			- <a href="#Omobiles">O</a>
+			- <a href="#Pmobiles">P</a>
+			- <a href="#Rmobiles">R</a>
+			- <a href="#Smobiles">S</a>
+			- <a href="#Tmobiles">T</a>
+			- <a href="#Umobiles">U</a>
+			- <a href="#Wmobiles">W</a>
+			- <a href="#Ymobiles">Y</a>
 
 			<table id="mobiles-table" class="pure-table pure-table-bordered mt3">
 			<thead>
@@ -2423,10 +2405,3 @@ sidebar: mobile-home
 			</tr>
 			</tbody>
 			</table>
-
-
-		</div>
-
-	</div>
-
-</article>

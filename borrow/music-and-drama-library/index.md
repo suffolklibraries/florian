@@ -3,6 +3,7 @@ layout: sidebar-right
 title: 'Music &amp; drama library'
 breadcrumb: information-resources
 sidebar: information-resources
+excerpt: Borrow musical scroes and playsets for your group.
 ---
 # Contact details
 

@@ -4,6 +4,7 @@ layout: sidebar-left
 sidebar: about
 breadcrumb: about
 hnav: about
+excerpt: Who sits on the Suffolk Libraries board.
 ---
 Our member organisations elect our board.
 

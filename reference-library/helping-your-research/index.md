@@ -1,22 +1,19 @@
 ---
 layout: sidebar-right
-title: Research &amp; reference
+title: Research &amp; reference resources
 hero-image: hero-information-resources.jpg
 hero-alt: Books in the Northgate Room in Ipswich County Library
 hero-caption: Books in the Northgate Room in Ipswich County Library
 breadcrumb: home
 sidebar: information-resources
+excerpt: Access to Ancestry and Find My Past, full encyclopaedias and hundreds of thousands of academic articles.
 ---
 
-<div class="pa3 custom-bg-corporate white">
+## Ask a Librarian
 
-  <h2 class="f4 custom-lh-title pa0 mt0 mb1">Ask a Librarian</h2>
+Looking for trusted and reliable information on the internet? Our team of information professionals can point you in the right direction.
 
-  <p class="f6 mb0">Looking for trusted and reliable information on the internet? Our team of information professionals can point you in the right direction.</p>
-
-  <p class="mb0"><a href="/research-and-reference/ask-a-librarian/" class="custom-force-white b underline">Ask a Librarian &rarr;</a></p>
-
-</div>
+<a href="/research-and-reference/ask-a-librarian/" class="custom-force-white b underline">Ask a Librarian &rarr;</a>
 
 The following free resources are recommended or provided by Suffolk Libraries.
 

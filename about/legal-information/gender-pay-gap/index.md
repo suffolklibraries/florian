@@ -4,6 +4,7 @@ layout: sidebar-left
 sidebar: about
 breadcrumb: about
 hnav: about
+excerpt: Information on how we pay staff according to their gender.
 ---
 
 As an employer with over 250 staff, Suffolk Libraries is required by law to carry out Gender Pay reporting under the Equality Act 2010 (Gender Pay Gap Information) regulations 2017.

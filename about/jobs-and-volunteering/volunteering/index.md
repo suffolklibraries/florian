@@ -1,11 +1,9 @@
 ---
 title: Volunteering with Suffolk Libraries
-layout: sidebar-right
 hero-image: hero-volunteering.jpg
 hero-alt: Thurston Friends group
-sidebar: volunteering
-breadcrumb: volunteer
 parent: card
+excerpt: There are lots of varied opportunities to volunteer with us, for all ages.
 ---
 
 Volunteers can get involved with Suffolk Libraries in many ways:
