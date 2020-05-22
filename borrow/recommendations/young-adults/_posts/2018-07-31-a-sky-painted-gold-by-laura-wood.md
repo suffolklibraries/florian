@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "A Sky Painted Gold by Laura Wood"
 date: 2018-07-31
 author: amy-rush-da-silva
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>A Sky Painted Gold</cite> is a stunning, addictive read that evokes the glamour and magic of the 1920s."
 featured-image: /images/featured/featured-a-sky-painted-gold.jpg
 featured-alt: "A Sky Painted Gold"

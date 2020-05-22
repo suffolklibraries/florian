@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Unpredictability of Being Human by Linni Ingemundsen"
 date: 2018-04-12
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Unpredictability of Being Human</cite> is a relatively quick read with a quirky, relatable main character."
 featured-image: /images/featured/featured-unpredictability-of-being-human.jpg
 featured-alt: "The Unpredictability of Being Human"

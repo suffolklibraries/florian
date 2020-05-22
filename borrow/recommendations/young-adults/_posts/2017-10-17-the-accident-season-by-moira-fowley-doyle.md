@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Accident Season by Moïra Fowley-Doyle"
 date: 2017-10-17
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>The Accident Season</cite> is a darkly beautiful tale with an ethereal, magical tone, strong narrative and twists that leave you breathless.'
 featured-image: /images/featured/featured-the-accident-season.jpg
 featured-alt: The Accident Season

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Reading Well for mental health
 date: 2018-06-06
 author: alice-violett
-category: health-lists
+category: health
 excerpt: The Reading Agency and Society of Chief Librarians have released a new list of Reading Well books for people with mental health conditions such as depression, anxiety, OCD and eating disorders.
 featured-image: /images/featured/featured-reading-well-mental-health.jpg
 featured-alt: The Sleep Book, A Mindfulness Guide for the Frazzled, Life After Bereavement

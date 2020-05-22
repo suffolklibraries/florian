@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Odd One Out by Nic Stone"
 date: 2019-03-05
 author: lucy-french
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Odd One Out</cite> is a well-written, entertaining, and tender story."
 featured-image: /images/featured/featured-odd-one-out.jpg
 featured-alt: "Odd One Out"

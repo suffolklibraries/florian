@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Smoke Thieves by Sally Green"
 date: 2018-06-26
 author: amy-rush-da-silva
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Smoke Thieves</cite> is a thrilling read with magic, exciting kingdoms, a fast-paced plot and characters you can't help but love."
 featured-image: /images/featured/featured-the-smoke-thieves.jpg
 featured-alt: "The Smoke Thieves"

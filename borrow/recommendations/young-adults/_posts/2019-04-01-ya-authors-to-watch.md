@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Find new favourites among these up-and-coming Young Adult authors"
 date: 2019-04-01
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "We've put together a list of YA authors we think should be better known for Suffolk Libraries Children's Month."
 featured-image: /images/featured/featured-ya-authors-to-watch.jpg
 featured-alt: "The Legend of Sally Jones, We Are All Made of Molecules, For Every One"

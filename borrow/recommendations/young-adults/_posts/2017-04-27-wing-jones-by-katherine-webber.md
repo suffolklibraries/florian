@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Wing Jones by Katherine Webber
 date: 2017-04-27
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: "Emma loved <cite>Wing Jones</cite> and is excited to read Katherine Webber's future work"
 featured-image: /images/featured/featured-wing-jones.jpg
 featured-alt: Wing Jones

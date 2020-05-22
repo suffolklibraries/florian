@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Cure for Dreaming by Cat Winters"
 date: 2018-08-21
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Cure for Dreaming</cite> will appeal to those interested in suffrage, equality, hypnotism and even Dracula."
 featured-image: /images/featured/featured-the-cure-for-dreaming.jpg
 featured-alt: "The Cure for Dreaming"

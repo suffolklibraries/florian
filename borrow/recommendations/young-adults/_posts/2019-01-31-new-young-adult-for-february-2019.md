@@ -3,7 +3,7 @@ layout: sidebar-right
 title: New Young Adult books for February 2019
 date: 2019-01-31
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "New titles from Holly Smale, Chris Ryan, Laura Bates and more"
 featured-image: /images/featured/featured-young-adult-february-2019.jpg
 featured-alt: "Monsters, Watch Us Rise, Siege"

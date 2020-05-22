@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Orphan Monster Spy by Matt Kileen"
 date: 2018-08-02
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Orphan Monster Spy</cite> is a gripping, fast-paced novel with a brilliant main character."
 featured-image: /images/featured/featured-orphan-monster-spy.jpg
 featured-alt: "Orphan Monster Spy"

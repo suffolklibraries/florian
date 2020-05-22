@@ -3,7 +3,7 @@ layout: sidebar-right
 title: A World Without You by Beth Revis
 date: 2017-08-22
 author: amelie-magotte
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>A World Without You</cite> is a beautiful, heartbreaking story of mental illness, love and deceit.'
 featured-image: /images/featured/featured-a-world-without-you.jpg
 featured-alt: A World Without You

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Moxie by Jennifer Mathieu"
 date: 2018-02-06
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Moxie</cite> is a powerful and brilliant book and real call to action."
 featured-image: /images/featured/featured-moxie.jpg
 featured-alt: "Moxie"

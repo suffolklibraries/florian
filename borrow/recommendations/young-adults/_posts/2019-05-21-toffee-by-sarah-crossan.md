@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Toffee by Sarah Crossan"
 date: 2019-05-21
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Toffee</cite> is a quick read that nonetheless stays with you long after you have read the final page."
 featured-image: /images/featured/featured-toffee.jpg
 featured-alt: "Toffee"

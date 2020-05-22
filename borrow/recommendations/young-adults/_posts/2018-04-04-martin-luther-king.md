@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Mark the 50th anniversary of the assassination of Martin Luther King with our favourite BAME authors for young adults
 date: 2018-04-04
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "Iconic civil rights activist Martin Luther King was assassinated 50 years ago this April. In his memory we have compiled a list of outstanding BAME authors of young adult literature."
 featured-image: /images/featured/featured-martin-luther-king-bame.jpg
 featured-alt: "Chasing the Stars, Crossover, Blade and Bone"

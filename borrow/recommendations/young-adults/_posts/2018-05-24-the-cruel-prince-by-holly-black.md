@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Cruel Prince by Holly Black"
 date: 2018-05-24
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Cruel Prince</cite> is intriguing, atmospheric and really dark."
 featured-image: /images/featured/featured-the-cruel-prince.jpg
 featured-alt: "The Cruel Prince"

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: New Young Adult books for July 2019
 date: 2019-06-27
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "New titles from Holly Bourne, Alice Oseman, Patrice Lawrence and more"
 featured-image: /images/featured/featured-young-adult-july-2019.jpg
 featured-alt: "The Kingdom, Arctic Zoo, Rose, Interrupted"

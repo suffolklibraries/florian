@@ -3,12 +3,12 @@ layout: sidebar-right
 title: "Recommended new eBooks for March 2020"
 date: 2020-02-27
 author: lisa-brennan
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "We've listed some of our favourite new eBooks on OverDrive for March to help you choose your next digital read."
 featured-image: /images/featured/featured-elibrary-march-2020.jpg
 featured-alt: "The Mirror and the Light, Riot Baby, Upright Women Wanted"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 ![The Mirror and the Light, Riot Baby, Upright Women Wanted](/images/featured/featured-elibrary-march-2020.jpg)
@@ -17,7 +17,7 @@ We're always adding great titles to our [eLibrary](/elibrary/). We've listed som
 
 See also:
 
-* [Recommended new eAudiobooks &#x23;15](/new-suggestions/elibrary-picks/new-eaudiobooks-15/)
+* [Recommended new eAudiobooks &#x23;15](/new-suggestions/elibrary/new-eaudiobooks-15/)
 * [Freegal music](/elibrary/freegal/)
 * [PressReader newspapers and magazines](/elibrary/press-reader/)
 * [Kanopy classic and indie films and documentaries](/elibrary/kanopy/)

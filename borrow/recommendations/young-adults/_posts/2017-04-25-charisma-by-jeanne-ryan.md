@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Charisma by Jeanne Ryan
 date: 2017-04-25
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: 'Emma found <cite>Charisma</cite> intriguing and enjoyable.'
 featured-image: /images/featured/featured-charisma.jpg
 featured-alt: Charisma

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: New Young Adult books for January 2020
 date: 2019-12-30
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "New titles from Brigid Kemmerer, Adam Silvera, Karen McManus and more"
 featured-image: /images/featured/featured-young-adult-january-2020.jpg
 featured-alt: "The Night Country, Infinity Son, Dragonfly Eyes"

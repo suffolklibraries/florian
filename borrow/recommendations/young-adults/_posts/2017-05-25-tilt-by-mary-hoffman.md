@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Tilt by Mary Hoffman
 date: 2017-05-25
 author: kate-ashton
-category: young-adult
+age-range: young-adult
 excerpt: 'Newmarket Library manager Kate found <cite>Tilt</cite> "an enjoyable and quick read."'
 featured-image: /images/featured/featured-tilt.jpg
 featured-alt: Tilt

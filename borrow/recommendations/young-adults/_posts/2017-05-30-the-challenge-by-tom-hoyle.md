@@ -3,7 +3,7 @@ layout: sidebar-right
 title: The Challenge by Tom Hoyle
 date: 2017-05-30
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>The Challenge</cite> is an edge-of-your-seat thriller "packed full of secrets, dares and danger."'
 featured-image: /images/featured/featured-the-challenge.jpg
 featured-alt: The Challenge

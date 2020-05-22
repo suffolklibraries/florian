@@ -3,7 +3,7 @@ layout: sidebar-right
 title: New Young Adult books for November 2019
 date: 2019-10-30
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "New titles from Maggie Stiefvater, Holly Black, Neal Shusterman and more"
 featured-image: /images/featured/featured-young-adult-november-2019.jpg
 featured-alt: "Cold Falling White, Girls of Storm and Shadow, The Toll"

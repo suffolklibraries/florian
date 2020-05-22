@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "With the Fire on High by Elizabeth Acevedo"
 date: 2020-01-30
 author: rose-gant
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>With the Fire on High</cite> is a wonderful story with a determined and inspiring main character."
 featured-image: /images/featured/featured-with-the-fire-on-high.jpg
 featured-alt: "With the Fire on High"

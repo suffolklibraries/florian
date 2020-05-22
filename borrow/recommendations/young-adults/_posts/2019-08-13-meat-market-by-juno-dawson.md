@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Meat Market by Juno Dawson"
 date: 2019-08-13
 author: rose-gant
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Meat Market</cite> is an addictive and gritty story of the brutality of the fashion and beauty industry.'
 featured-image: /images/featured/featured-meat-market.jpg
 featured-alt: "Meat Market"

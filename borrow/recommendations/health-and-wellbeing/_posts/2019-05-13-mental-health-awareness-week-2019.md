@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Recommended reads for Mental Health Awareness Week 2019
 date: 2019-05-13
 author: brandon-king
-category: health-lists
+category: health
 excerpt: "Mental Health Awareness Week runs from 13 - 19 May 2019. We've picked out some top fiction and non-fiction books to mark the occasion."
 featured-image: /images/featured/featured-mental-health-awareness-2019.jpg
 featured-alt: "How to Survive the End of the World, What the **** is Normal?, The Shock of the Fall"

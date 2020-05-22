@@ -3,7 +3,7 @@ layout: sidebar-right
 title: My Name is Victoria by Lucy Worsley
 date: 2017-09-05
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: 'If you love the history of the monarchy, <cite>My Name is Victoria</cite> promises to be an enjoyable read.'
 featured-image: /images/featured/featured-my-name-is-victoria.jpg
 featured-alt: My Name is Victoria

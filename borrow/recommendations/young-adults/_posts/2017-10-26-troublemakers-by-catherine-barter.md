@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Troublemakers by Catherine Barter"
 date: 2017-10-26
 author: kate-ashton
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Troublemakers</cite> is a very immediate and current novel featuring well-drawn and rounded characters.'
 featured-image: /images/featured/featured-troublemakers.jpg
 featured-alt: Troublemakers

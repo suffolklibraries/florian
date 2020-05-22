@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Stranger by Keren David"
 date: 2018-09-25
 author: amelie-magotte
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Stranger</cite> will keep you hooked right until the last page."
 featured-image: /images/featured/featured-stranger.jpg
 featured-alt: "Stranger"

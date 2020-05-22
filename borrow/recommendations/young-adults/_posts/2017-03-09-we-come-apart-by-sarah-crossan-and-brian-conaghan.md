@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "We Come Apart by Sarah Crossan & Brian Conaghan"
 date: 2017-03-09
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: 'Emma found <cite>We Come Apart</cite> <q>beautifully written, heartbreaking but at the same time wonderful to read.</q>'
 featured-image: /images/featured/featured-we-come-apart.jpg
 featured-alt: We Come Apart

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "This Monstrous Thing by Mackenzi Lee"
 date: 2018-04-10
 author: kate-ashton
-category: young-adult
+age-range: young-adult
 excerpt: "Inspired by <cite>Frankenstein</cite>, <cite>This Monstrous Thing</cite> explores what it is to be human, what makes us human and who the story's real monster is."
 featured-image: /images/featured/featured-this-monstrous-thing.jpg
 featured-alt: "This Monstrous Thing"

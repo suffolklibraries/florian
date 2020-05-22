@@ -3,7 +3,7 @@ layout: sidebar-right
 title: New Young Adult books for March 2020
 date: 2020-02-27
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "New titles from Sara Holland, Alice Hemming, Cassandra Clare and more"
 featured-image: /images/featured/featured-young-adult-march-2020.jpg
 featured-alt: "Only Mostly Devastated, Chain of Gold, Devil, Darling Spy"

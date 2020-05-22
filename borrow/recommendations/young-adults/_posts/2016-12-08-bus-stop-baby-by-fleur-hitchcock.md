@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Bus Stop Baby by Fleur Hitchcock
 date: 2016-12-08
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "A touching story about friendship, family and abandonment for pre-teens."
 featured-image: /images/featured/featured-bus-stop-baby.jpg
 featured-alt: Bus Stop Baby

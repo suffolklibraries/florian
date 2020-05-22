@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Explaining where babies come from"
 date: 2018-06-05
 author: sophie-green
-category: child-family-problems
+category: health
 excerpt: "Books to help explain conception, pregnancy and birth."
 breadcrumb: childrens-ya-books
 meta-description: "Books to help children understand puberty, relationships, sex, pregnancy and birth."

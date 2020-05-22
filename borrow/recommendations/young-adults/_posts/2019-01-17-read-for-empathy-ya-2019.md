@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Find your new favourite book with the 2019 Read for Empathy YA book collection"
 date: 2019-01-17
 author: alice-violett
-category: young-adult
+age-range: young-adult
 excerpt: "Ahead of Empathy Day (11 June 2019), EmpathyLab have put together a collection of YA books that promote empathy and understanding while also being cracking reads. Why not check out one of these brilliant titles?"
 featured-image: /images/featured/featured-empathy-day-secondary-2019.jpg
 featured-alt: "Running on Empty, Mike, A Change is Gonna Come"

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Telling the truth"
 date: 2018-06-05
 author: sophie-green
-category: child-family-problems
+category: health
 excerpt: "Books to help explore the rights and wrongs of making things up."
 breadcrumb: childrens-ya-books
 meta-description: "Books to help children understand the importance of honesty, and how lying, pretending and secrets can hurt others."

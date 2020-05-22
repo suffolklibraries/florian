@@ -3,7 +3,7 @@ layout: sidebar-right
 title: 'The Names They Gave Us by Emery Lord'
 date: 2017-09-21
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>The Names They Gave Us</cite> is a classic summer romance packed full of love, heartache, friends and family from an author to watch.'
 featured-image: /images/featured/featured-the-names-they-gave-us.jpg
 featured-alt: The Names They Gave Us

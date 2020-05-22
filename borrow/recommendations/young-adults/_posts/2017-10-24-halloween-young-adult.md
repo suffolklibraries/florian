@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Celebrate Halloween with some of our favourite scary titles"
 date: 2017-10-24
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: 'Prepare for the scariest night of the year with our pick of the most thrilling supernatural titles.'
 featured-image: /images/featured/featured-halloween-ya.jpg
 featured-alt: "Uncle Montague's Tales of Terror, Long Lankin, The Enemy"

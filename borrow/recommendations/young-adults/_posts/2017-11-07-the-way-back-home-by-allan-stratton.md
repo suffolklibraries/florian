@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Way Back Home by Allan Stratton"
 date: 2017-11-07
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Way Back Home</cite> is a quick read with relatable characters that covers many topics."
 featured-image: /images/featured/featured-the-way-back-home.jpg
 featured-alt: The Way Back Home

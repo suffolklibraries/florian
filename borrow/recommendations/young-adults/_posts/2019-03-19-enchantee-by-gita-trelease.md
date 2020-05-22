@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Enchantée by Gita Trelease"
 date: 2019-03-19
 author: eleanor-easton
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Enchantée</cite> is a glittering, lush tale of magic and court politics."
 featured-image: /images/featured/featured-enchantee.jpg
 featured-alt: "Enchantée"

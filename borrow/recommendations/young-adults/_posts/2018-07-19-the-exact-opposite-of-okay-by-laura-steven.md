@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Exact Opposite of Okay by Laura Steven"
 date: 2018-07-19
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Exact Opposite of Okay</cite> introduces teenage readers to important topics with humour and bold characters."
 featured-image: /images/featured/featured-the-exact-opposite-of-okay.jpg
 featured-alt: "The Exact Opposite of Okay"

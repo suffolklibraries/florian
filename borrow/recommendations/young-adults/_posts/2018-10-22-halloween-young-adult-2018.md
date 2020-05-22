@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Mark Halloween with these monster YA reads"
 date: 2018-10-22
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "This Halloween, we've picked out our favourite monster-themed books for young adults."
 featured-image: /images/featured/featured-halloween-young-adult-2018.jpg
 featured-alt: "Lord Loss, The Monsters We Deserve, Shadow and Bone"

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Floored by various authors"
 date: 2018-10-02
 author: amy-rush-da-silva
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Floored</cite> is unique and heartwarming, with distinctive, realistic characters."
 featured-image: /images/featured/featured-floored.jpg
 featured-alt: "Floored"

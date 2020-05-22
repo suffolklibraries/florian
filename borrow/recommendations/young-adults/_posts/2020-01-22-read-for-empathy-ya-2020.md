@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Find your new favourite book with the 2020 Read for Empathy YA book collection"
 date: 2020-01-22
 author: alice-violett
-category: young-adult
+age-range: young-adult
 excerpt: "Ahead of Empathy Day (9 June 2019), EmpathyLab have put together a collection of YA books that promote empathy and understanding while also being cracking reads. Why not check out one of these brilliant titles?"
 featured-image: /images/featured/featured-empathy-day-secondary-2020.jpg
 featured-alt: "The Unexpected Find, A Story About Cancer (with a happy ending), The Boy Who Steals Houses"

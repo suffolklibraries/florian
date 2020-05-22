@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Getting dressed"
 date: 2018-06-05
 author: sophie-green
-category: child-family-problems
+category: health
 excerpt: "Books to help children learn how dress themselves and make getting dressed more fun."
 breadcrumb: childrens-ya-books
 meta-description: "Books to help children learn how dress themselves and make getting dressed more fun."

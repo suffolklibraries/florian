@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Wave by Paul Dowswell
 date: 2017-05-11
 author: kate-ashton
-category: young-adult
+age-range: young-adult
 excerpt: 'Newmarket Library manager Kate found <cite>Wave</cite> "gripping, devastating, compelling and tragic."'
 featured-image: /images/featured/featured-wave.jpg
 featured-alt: Wave

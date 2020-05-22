@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Staying safe online"
 date: 2018-06-05
 author: sophie-green
-category: child-family-problems
+category: health
 excerpt: "Books to help children stay safe online and talk about any worries they may have about the internet."
 meta-description: "Books to help children stay safe online and talk about their worries about the internet."
 breadcrumb: childrens-ya-books

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "It Only Happens in the Movies by Holly Bourne"
 date: 2018-01-11
 author: kate-ashton
-category: young-adult
+age-range: young-adult
 excerpt: 'Kate found <cite>It Only Happens in the Movies</cite> hilarious, lovely, moving and heartbreaking.'
 featured-image: /images/featured/featured-it-only-happens-in-the-movies.jpg
 featured-alt: It Only Happens in the Movies

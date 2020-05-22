@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Truth About Alice by Jennifer Mathieu"
 date: 2018-07-26
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Truth About Alice</cite> is a short and punchy burst of brilliant feminist YA that every teenager should read."
 featured-image: /images/featured/featured-the-truth-about-alice.jpg
 featured-alt: "The Truth About Alice"

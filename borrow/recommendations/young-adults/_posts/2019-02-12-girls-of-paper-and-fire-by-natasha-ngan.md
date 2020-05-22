@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Girls of Paper and Fire by Natasha Ngan"
 date: 2019-02-12
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Girls of Paper and Fire</cite> is spellbinding and heartbreaking."
 featured-image: /images/featured/featured-girls-of-paper-and-fire.jpg
 featured-alt: "Girls of Paper and Fire"

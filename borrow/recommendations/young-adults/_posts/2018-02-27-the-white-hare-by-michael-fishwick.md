@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The White Hare by Michael Fishwick"
 date: 2018-02-27
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>The White Hare</cite> is a coming-of-age novel that will especially appeal to fans of myth and folklore'
 featured-image: /images/featured/featured-the-white-hare.jpg
 featured-alt: The White Hare

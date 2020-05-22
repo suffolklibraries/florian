@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Changing families"
 date: 2018-06-05
 author: sophie-green
-category: child-family-problems
+category: health
 excerpt: "Books on all different types of family including single-parenting, separation and step-families."
 breadcrumb: childrens-ya-books
 meta-description: "Positive books to help your child deal with separation and divorce and explaining single-parent families, stepfamilies and same-sex parents."

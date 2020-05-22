@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Genuine Fraud by E. Lockhart"
 date: 2017-12-07
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Genuine Fraud</cite> is a great book, full of twists and turns.'
 featured-image: /images/featured/featured-genuine-fraud.jpg
 featured-alt: Genuine Fraud

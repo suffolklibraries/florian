@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Five minutes with... S. M. Wilson"
 date: 2018-09-17
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "Library volunteer Emily meets S. M. Wilson, author of the Extinction Trials series."
 featured-image: /images/featured/featured-s-m-wilson.jpg
 featured-alt: "S. M. Wilson"

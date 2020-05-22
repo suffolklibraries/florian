@@ -3,7 +3,7 @@ layout: sidebar-right
 title: New Young Adult books for June 2019
 date: 2019-05-30
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "New titles from Nikesh Shukla, Cassandra Clare, Brigid Kemmerer and more"
 featured-image: /images/featured/featured-young-adult-june-2019.jpg
 featured-alt: "The Boxer, I Am Not a Number, Perfectly Preventable Deaths"

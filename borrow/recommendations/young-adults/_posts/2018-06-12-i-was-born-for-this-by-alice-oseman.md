@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "I Was Born for This by Alice Oseman"
 date: 2018-06-12
 author: amy-rush-da-silva
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>I Was Born For This</cite> is a beautifully written, very character-driven book that takes you on a very unexpected journey."
 featured-image: /images/featured/featured-i-was-born-for-this.jpg
 featured-alt: "I Was Born for This"

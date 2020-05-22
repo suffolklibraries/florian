@@ -3,7 +3,7 @@ layout: sidebar-right
 title: 'The Reluctant Journal of Henry K. Larsen by Susin Nielsen'
 date: 2017-09-19
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>The Reluctant Journal of Henry K. Larsen</cite> is a great book for anyone experiencing tragedy and what it feels like for those left behind.'
 featured-image: /images/featured/featured-the-reluctant-journal-of-henry-k-larsen.jpg
 featured-alt: The Reluctant Journal of Henry K. Larsen

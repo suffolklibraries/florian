@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "American Panda by Gloria Chao"
 date: 2018-09-06
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>American Panda</cite> is a cute contemporary which is diverse, brilliant and simply lovely."
 featured-image: /images/featured/featured-american-panda.jpg
 featured-alt: "American Panda"

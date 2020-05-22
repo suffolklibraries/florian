@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Recommended Young Adult titles to mark LGBT History Month 2017
 date: 2017-02-09
 author: alice-violett
-category: young-adult
+age-range: young-adult
 excerpt: "To mark LGBT History Month 2017, we've compiled a huge list of LGBT-related titles for young adults"
 featured-image: /images/featured/featured-lgbt-2017.jpg
 featured-alt: Oranges are not The only Fruit, Girl Meets Boy, What We Left Behind, Cruel Summer, Starring Kitty, Aristotle and Dante Discover the Secrets of the Universe, The Big Life, Half Wild

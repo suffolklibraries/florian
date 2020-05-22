@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Mind Games by Teri Terry
 date: 2017-10-24
 author: amelie-magotte
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Mind Games</cite> is an incredible, extremely enthralling book.'
 featured-image: /images/featured/featured-mind-games.jpg
 featured-alt: Mind Games

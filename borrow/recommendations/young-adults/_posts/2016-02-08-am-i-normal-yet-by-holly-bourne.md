@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Am I Normal Yet? by Holly Bourne
 date: 2016-02-08 10:14:08+00:00
 author: matt-shenton
-category: young-adult
+age-range: young-adult
 excerpt: Literacy ambassador Matt Shenton reviews a YA novel addressing OCD.
 breadcrumb: young-adult
 genre: literary-fiction

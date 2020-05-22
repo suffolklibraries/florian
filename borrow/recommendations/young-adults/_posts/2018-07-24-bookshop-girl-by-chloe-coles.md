@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Bookshop Girl by Chloe Coles"
 date: 2018-07-24
 author: amy-rush-da-silva
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Bookshop Girl</cite> is a short, sweet story with a smart and determined main character."
 featured-image: /images/featured/featured-bookshop-girl.jpg
 featured-alt: "Bookshop Girl"

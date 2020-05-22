@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Colour of Shadows by Phyllida Shrimpton"
 date: 2019-07-25
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>The Colour of Shadows</cite> carries important messages and explores homelessness, extended families and loss.'
 featured-image: /images/featured/featured-the-colour-of-shadows.jpg
 featured-alt: "The Colour of Shadows"

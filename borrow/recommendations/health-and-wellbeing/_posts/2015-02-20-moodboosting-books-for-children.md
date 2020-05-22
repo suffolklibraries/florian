@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Moodboosting books for young people 2015
 date: 2015-02-20 12:24:53+00:00
 author: sarah-lungley
-category: health-lists
+category: health
 excerpt: Books for children from our <cite>Moodboosting</cite> collection.
 breadcrumb: health
 sidebar: health

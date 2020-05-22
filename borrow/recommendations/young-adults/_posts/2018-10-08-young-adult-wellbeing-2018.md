@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Look after yourself this Libraries Week with our top YA wellbeing picks"
 date: 2018-10-08
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "Libraries Week runs from 8 - 13 October 2018. As this year's theme is wellbeing, we've put together a list of our favourite comforting and nurturing YA books."
 featured-image: /images/featured/featured-young-adult-wellbeing-2018.jpg
 featured-alt: "Are We All Lemmings and Snowflakes? The Rest of Us Just Live Here, It's All In Your Head"

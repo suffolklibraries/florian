@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Fear and anxiety"
 date: 2018-06-05
 author: sophie-green
-category: child-family-problems
+category: health
 excerpt: "Self-help and story books to help children to talk about their worries, fears and anxieties."
 breadcrumb: childrens-ya-books
 meta-description: "Books to help children dealing experiencing phobias, nervousness, worries and night terrors."

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Dollmaker of Krakow by R. M. Romero, illustrated by Tomislav Tomić"
 date: 2018-01-02
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>The Dollmaker of Krakow</cite> is an astounding, gorgeously-written debut novel.'
 featured-image: /images/featured/featured-dollmaker-of-krakow.jpg
 featured-alt: The Dollmaker of Krakow

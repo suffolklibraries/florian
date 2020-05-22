@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Beautiful by Renée Ahdieh"
 date: 2020-01-07
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Beautiful</cite> is a stunning and sumptuous blend of romance, mystery and the paranormal."
 featured-image: /images/featured/featured-the-beautiful.jpg
 featured-alt: "The Beautiful"

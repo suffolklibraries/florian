@@ -3,7 +3,7 @@ layout: sidebar-right
 title: 'Orbiting Jupiter by Gary D. Schmidt'
 date: 2017-09-12
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Orbiting Jupiter</cite> is a quick read that took Emma on an emotional journey.'
 featured-image: /images/featured/featured-orbiting-jupiter.jpg
 featured-alt: Orbiting Jupiter

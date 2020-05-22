@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Alex, Approximately, by Jenn Bennett"
 date: 2017-12-18
 author: rachael-vickery
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Alex, Approximately</cite> follows a teenage film buff as she rekindles her relationship with her father, forms new friendships and tries to track down a mysterious internet friend over one epic summer."
 featured-image: /images/featured/featured-alex-approximately.jpg
 featured-alt: "Alex, Approximately"

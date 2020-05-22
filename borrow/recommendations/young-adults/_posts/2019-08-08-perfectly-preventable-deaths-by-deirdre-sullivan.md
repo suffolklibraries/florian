@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Perfectly Preventable Deaths by Deirdre Sullivan"
 date: 2019-08-08
 author: amelie-magotte
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Perfectly Preventable Deaths</cite> is thrilling, dark and twisted.'
 featured-image: /images/featured/featured-perfectly-preventable-deaths.jpg
 featured-alt: "Perfectly Preventable Deaths"

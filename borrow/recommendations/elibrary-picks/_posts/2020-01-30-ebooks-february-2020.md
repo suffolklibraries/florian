@@ -3,12 +3,12 @@ layout: sidebar-right
 title: "Recommended new eBooks for February 2020"
 date: 2020-01-30
 author: lisa-brennan
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "We've listed some of our favourite new eBooks on OverDrive for February to help you choose your next digital read."
 featured-image: /images/featured/featured-elibrary-february-2020.jpg
 featured-alt: "Safe as Houses, The Hopes and Triumphs of the Amir Sisters, I'm Not Scared"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 ![Safe as Houses, The Hopes and Triumphs of the Amir Sisters, I'm Not Scared](/images/featured/featured-elibrary-february-2020.jpg)
@@ -17,7 +17,7 @@ We're always adding great titles to our [eLibrary](/elibrary/). We've listed som
 
 See also:
 
-* [Recommended new eAudiobooks &#x23;14](/new-suggestions/elibrary-picks/new-eaudiobooks-14/)
+* [Recommended new eAudiobooks &#x23;14](/new-suggestions/elibrary/new-eaudiobooks-14/)
 * [Freegal music](/elibrary/freegal/)
 * [PressReader newspapers and magazines](/elibrary/press-reader/)
 * [Kanopy classic and indie films and documentaries](/elibrary/kanopy/)

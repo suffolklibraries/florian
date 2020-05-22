@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Big Bones by Laura Dockrill"
 date: 2018-08-30
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Big Bones</cite> is a lovely, light, feel-good romance."
 featured-image: /images/featured/featured-big-bones.jpg
 featured-alt: "Big Bones"

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "One of Us is Lying by Karen M. McManus"
 date: 2017-10-03
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: 'Prepare to get sucked into a tangled web of secrets, lies and betrayal in this gripping debut novel.'
 featured-image: /images/featured/featured-one-of-us-is-lying.jpg
 featured-alt: One of Us is Lying

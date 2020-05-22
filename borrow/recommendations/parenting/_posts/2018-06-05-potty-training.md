@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Potty training"
 date: 2018-06-05
 author: sophie-green
-category: child-family-problems
+category: health
 excerpt: "Funny stories for children and advice for parents to support potty training and dry nights."
 breadcrumb: childrens-ya-books
 meta-description: "Books to help children make the transition from nappy to potty, as well as reassuring titles on bedwetting and accidents."

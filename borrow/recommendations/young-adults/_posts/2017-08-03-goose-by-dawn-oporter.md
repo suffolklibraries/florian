@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Goose by Dawn O'Porter
 date: 2017-08-03
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Goose</cite>, like its predecessor <cite>Paper Aeroplanes</cite>, took Emma on a trip down memory lane'
 featured-image: /images/featured/featured-goose.jpg
 featured-alt: Goose

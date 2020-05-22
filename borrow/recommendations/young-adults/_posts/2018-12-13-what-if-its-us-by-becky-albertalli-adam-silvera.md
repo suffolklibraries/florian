@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "What If It's Us by Becky Albertalli & Adam Silvera"
 date: 2018-12-13
 author: eleanor-easton
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>What If It's Us</cite> is a super cosy, easy read."
 featured-image: /images/featured/featured-what-if-its-us.jpg
 featured-alt: "What If It's Us"

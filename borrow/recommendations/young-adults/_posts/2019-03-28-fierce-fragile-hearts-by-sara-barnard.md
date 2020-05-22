@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Fierce Fragile Hearts by Sara Barnard"
 date: 2019-03-28
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Fierce Fragile Hearts</cite> is a heartbreaking and utterly beautiful story."
 featured-image: /images/featured/featured-fierce-fragile-hearts.jpg
 featured-alt: "Fierce Fragile Hearts"

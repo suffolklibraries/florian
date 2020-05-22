@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Distance Between Me and the Cherry Tree by Paola Peretti & Denise Muir (trans.)"
 date: 2019-02-19
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Distance Between Me and the Cherry Tree</cite> is an adorable and heartbreaking quick read that will stay with you after the last pages have been turned."
 featured-image: /images/featured/featured-the-distance-between-me-and-the-cherry-tree.jpg
 featured-alt: "The Distance Between Me and the Cherry Tree"

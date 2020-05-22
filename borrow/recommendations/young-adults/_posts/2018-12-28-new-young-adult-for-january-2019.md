@@ -3,7 +3,7 @@ layout: sidebar-right
 title: New Young Adult books for January 2019
 date: 2018-12-28
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "New titles from Laure Eve, Leigh Bardugo and Holly Black"
 featured-image: /images/featured/featured-young-adult-january-2019.jpg
 featured-alt: "The Twisted Tree, Kick the Moon, The Wicked King"

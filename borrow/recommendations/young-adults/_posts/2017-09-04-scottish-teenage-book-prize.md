@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Discover something new with the Scottish Teenage Book Prize shortlist
 date: 2017-09-04
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: The Scottish Teenage Book Prize features three finalists and four highly commended titles. Find your next read today!
 featured-image: /images/featured/featured-scottish-teenage-book-prize.jpg
 featured-alt: Welcome to Nowhere, Children of Icarus, The Haunting of Jessop Rise

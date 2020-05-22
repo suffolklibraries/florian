@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Recommended Young Adult titles to mark LGBT History Month 2019
 date: 2019-02-01
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "This LGBT History Month, we've added lots of great new titles to our Young Adult LGBT recommendation list."
 featured-image: /images/featured/featured-lgbt-2019.jpg
 featured-alt: "The Upside of Unrequited, All Out, Trans Global"

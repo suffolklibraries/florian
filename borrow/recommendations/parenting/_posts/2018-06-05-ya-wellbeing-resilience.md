@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Young adults: wellbeing and resilience"
 date: 2018-06-05
 author: sophie-green
-category: child-family-problems
+category: health
 excerpt: "Help and advice on wellbeing and resilience for young adults and teenagers."
 breadcrumb: childrens-ya-books
 meta-description: "Books to help young adults and teenagers deal with emotional issues such as self-esteem, body image, mood swings, stress and relationships."

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Flying Tips for Flightless Birds by Kelly McCaughrain"
 date: 2018-06-05
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Flying Tips for Flightless Birds</cite> is a story about friendship, first love in all its forms, trust and family relationships.'
 featured-image: /images/featured/featured-flying-tips-for-flightless-birds.jpg
 featured-alt: Flying Tips for Flightless Birds

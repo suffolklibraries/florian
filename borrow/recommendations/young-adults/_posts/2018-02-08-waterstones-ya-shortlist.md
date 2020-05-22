@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Find your next YA read on the 2018 Waterstones Children's Book Prize shortlist"
 date: 2018-02-08
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "This year's shortlist features dark, lusciously-illustrated gothic mysteries and unflinching dramas addressing the real-world concerns of young people now."
 featured-image: /images/featured/featured-waterstones-ya-2018.jpg
 featured-alt: The Disappearance, Ink, Thornhill

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Murder in Midwinter by Fleur Hitchcock
 date: 2017-02-21
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: 'Emily recommends <cite>Murder in Midwinter</cite> to pre-teens looking for a taste of mystery and suspense'
 featured-image: /images/featured/featured-murder-in-midwinter.jpg
 featured-alt: Murder in Midwinter

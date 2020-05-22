@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Island by Nicky Singer
 date: 2017-04-20
 author: kate-ashton
-category: young-adult
+age-range: young-adult
 excerpt: "Kate found <cite>Island</cite> a category-defying tale, well worth a read."
 featured-image: /images/featured/featured-island.jpg
 featured-alt: Island

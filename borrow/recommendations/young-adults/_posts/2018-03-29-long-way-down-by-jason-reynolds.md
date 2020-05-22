@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Long Way Down by Jason Reynolds"
 date: 2018-03-29
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Long Way Down</cite> is an unforgettable book that you won’t be able to put down."
 featured-image: /images/featured/featured-long-way-down.jpg
 featured-alt: "Long Way Down"

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Stranger Than Fanfiction by Chris Colfer
 date: 2017-06-13
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Stranger Than Fanfiction</cite> is a humorous and touching exploration of celebrity culture.'
 featured-image: /images/featured/featured-stranger-than-fanfiction.jpg
 featured-alt: Stranger Than Fanfiction

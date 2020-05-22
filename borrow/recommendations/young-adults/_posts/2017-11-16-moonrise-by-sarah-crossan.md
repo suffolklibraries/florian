@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Moonrise by Sarah Crossan"
 date: 2017-11-16
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Moonrise</cite> is a powerful, poignant story that will stay with you long after the final page.'
 featured-image: /images/featured/featured-moonrise.jpg
 featured-alt: Moonrise

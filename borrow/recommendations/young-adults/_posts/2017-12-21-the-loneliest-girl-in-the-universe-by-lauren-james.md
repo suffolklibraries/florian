@@ -3,7 +3,7 @@ layout: sidebar-right
 title: The Loneliest Girl in the Universe by Lauren James
 date: 2017-12-21
 author: amelie-magotte
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>The Loneliest Girl in the Universe</cite> will appeal to fans of science fiction, adventure and romance alike.'
 featured-image: /images/featured/featured-loneliest-girl-in-the-universe.jpg
 featured-alt: I Am Traitor

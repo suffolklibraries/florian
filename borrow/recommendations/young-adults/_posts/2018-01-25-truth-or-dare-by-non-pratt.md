@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Truth or Dare by Non Pratt"
 date: 2018-01-25
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Truth or Dare</cite> is a touching story that deals with catastrophic change, guilt and very immediate and relevant issues.'
 featured-image: /images/featured/featured-truth-or-dare.jpg
 featured-alt: Truth or Dare

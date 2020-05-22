@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Clean by Juno Dawson"
 date: 2018-09-13
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Clean</cite> is a raw, powerful and gritty story."
 featured-image: /images/featured/featured-clean.jpg
 featured-alt: "Clean"

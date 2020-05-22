@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Red Ribbon by Lucy Adlington"
 date: 2018-03-22
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Red Ribbon</cite> is a brilliant story about the power of stories and the cost of survival."
 featured-image: /images/featured/featured-the-red-ribbon.jpg
 featured-alt: "The Red Ribbon"

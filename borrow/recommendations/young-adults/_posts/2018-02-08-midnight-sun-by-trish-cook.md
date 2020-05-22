@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Midnight Sun by Trish Cook"
 date: 2018-02-08
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Midnight Sun</cite> is heartbreaking and wonderful.'
 featured-image: /images/featured/featured-midnight-sun.jpg
 featured-alt: Midnight Sun

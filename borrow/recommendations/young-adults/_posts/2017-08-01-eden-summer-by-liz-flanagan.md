@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Eden Summer by Liz Flanagan
 date: 2017-08-01
 author: ella-gorman
-category: young-adult
+age-range: young-adult
 excerpt: 'Ella found <cite>Eden Summer</cite> an intriguing story that shows the value of true friendship'
 featured-image: /images/featured/featured-eden-summer.jpg
 featured-alt: Eden Summer

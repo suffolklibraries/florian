@@ -3,7 +3,7 @@ layout: sidebar-right
 title: The Curious Incident of the Dog in the Night-time by Mark Haddon
 date: 2017-04-11
 author: olivia-roberts
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>The Curious Incident of the Dog in the Night-time</cite> features an "amazing plot and characters"'
 featured-image: /images/featured/featured-the-curious-incident.jpg
 featured-alt: The Curious Incident of the Dog in the Night-time

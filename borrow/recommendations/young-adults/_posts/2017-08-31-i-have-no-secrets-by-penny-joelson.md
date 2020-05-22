@@ -3,7 +3,7 @@ layout: sidebar-right
 title: I Have No Secrets by Penny Joelson
 date: 2017-08-31
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>I Have No Secrets</cite> is an instantly gripping YA thriller with a truly unique narrator that demands to be read.'
 featured-image: /images/featured/featured-i-have-no-secrets.jpg
 featured-alt: I Have No Secrets

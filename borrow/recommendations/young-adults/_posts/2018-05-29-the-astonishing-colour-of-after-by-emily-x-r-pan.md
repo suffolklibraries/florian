@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Astonishing Colour of After by Emily X. R. Pan"
 date: 2018-05-29
 author: amy-rush-da-silva
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Astonishing Colour of After</cite> is an incredible read that takes you on an emotional journey."
 featured-image: /images/featured/featured-the-astonishing-colour-of-after.jpg
 featured-alt: "The Astonishing Colour of After"

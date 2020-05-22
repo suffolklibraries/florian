@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "All Out: the no-longer secret stories of queer teens throughout the ages, by Saundra Mitchell (ed.)"
 date: 2019-04-11
 author: alice-violett
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>All Out</cite> is an enjoyable and imaginative collection of short stories that showcases the variety of genres and topics you can find in YA."
 featured-image: /images/featured/featured-all-out.jpg
 featured-alt: "All Out: the no-longer secret stories of queer teens throughout the ages"

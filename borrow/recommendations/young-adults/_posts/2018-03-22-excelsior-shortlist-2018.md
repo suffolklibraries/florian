@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Pick up an amazing graphic novel from the 2018 Excelsior Award shortlist"
 date: 2018-03-22
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "The Excelsior Award highlights the best graphic novels published each year across genre and style. The winners are decided by pupils at participating secondary schools across the UK."
 featured-image: /images/featured/featured-excelsior-2018.jpg
 featured-alt: "Slam! Vol. 1, Trent 1: The Dead Man, Wonder Woman: Vol. 1: The Lies"

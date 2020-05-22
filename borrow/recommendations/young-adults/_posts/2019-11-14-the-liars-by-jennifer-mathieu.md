@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Liars by Jennifer Mathieu"
 date: 2019-11-14
 author: amy-rush-da-silva
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Liars</cite> is a brilliant, addictive read full of secrets, shocks and deception."
 featured-image: /images/featured/featured-the-liars.jpg
 featured-alt: "The Liars"

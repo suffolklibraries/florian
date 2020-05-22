@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Anger is a Gift by Mark Oshiro"
 date: 2019-02-05
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Anger is a Gift</cite> is devastating, addictive and raw."
 featured-image: /images/featured/featured-anger-is-a-gift.jpg
 featured-alt: "Anger is a Gift"

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Recommended Young Adult titles to mark LGBT History Month 2018
 date: 2018-02-07
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "This LGBT History Month, we've made our Young Adult LGBT recommendation list bigger and better than ever."
 featured-image: /images/featured/featured-lgbt-2018.jpg
 featured-alt: Our Own Private Universe, More Happy Than Not, Beyond Magenta

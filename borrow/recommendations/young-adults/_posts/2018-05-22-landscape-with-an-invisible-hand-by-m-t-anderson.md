@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Landscape with Invisible Hand by M. T. Anderson"
 date: 2018-05-22
 author: kate-ashton
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Landscape with Invisible Hand</cite> will appeal to fans of retro science fiction."
 featured-image: /images/featured/featured-landscape-with-invisible-hand.jpg
 featured-alt: "Landscape with Invisible Hand"

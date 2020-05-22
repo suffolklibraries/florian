@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Bad Girls with Perfect Faces by Lynn Weingarten"
 date: 2018-06-07
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Bad Girls With Perfect Faces</cite> is twisted, rather alarming, and well worth a read."
 featured-image: /images/featured/featured-bad-girls-with-perfect-faces.jpg
 featured-alt: "Bad Girls with Perfect Faces"

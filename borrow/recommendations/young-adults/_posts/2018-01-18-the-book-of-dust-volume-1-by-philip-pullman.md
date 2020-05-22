@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Book of Dust Volume 1: La Belle Sauvage by Philip Pullman"
 date: 2018-01-18
 author: kate-ashton
-category: young-adult
+age-range: young-adult
 excerpt: 'Philip Pullman expands the universe he so magically created in His Dark Materials and draws upon mystery, myth, folklore and science to weave a captivating and compelling story.'
 featured-image: /images/featured/featured-la-belle-sauvage.jpg
 featured-alt: "The Book of Dust Volume 1: La Belle Sauvage"

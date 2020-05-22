@@ -3,12 +3,12 @@ layout: sidebar-right
 title: "Recommended new eAudiobooks #15"
 date: 2020-02-25
 author: sophie-green
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "Listen to top titles from Sara Collins, Anthony Horowitz, Val McDermid and more."
 featured-image: /images/featured/featured-eaudiobooks-15.jpg
 featured-alt: "The Museum of Broken Promises, Shinrin-Yoku"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 ![The Museum of Broken Promises, Shinrin-Yoku](/images/featured/featured-eaudiobooks-15.jpg)

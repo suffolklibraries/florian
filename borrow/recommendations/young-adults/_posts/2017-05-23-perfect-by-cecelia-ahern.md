@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Perfect by Cecelia Ahern
 date: 2017-05-23
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: 'Emma loved, loved, loved <cite>Perfect</cite>.'
 featured-image: /images/featured/featured-perfect-ahern.jpg
 featured-alt: Perfect

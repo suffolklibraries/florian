@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "On a Scale of One to Ten by Ceylan Scott"
 date: 2018-09-20
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>On a Scale of One to Ten</cite> is raw, dark and stunning."
 featured-image: /images/featured/featured-on-a-scale-of-one-to-ten.jpg
 featured-alt: "On a Scale of One to Ten"

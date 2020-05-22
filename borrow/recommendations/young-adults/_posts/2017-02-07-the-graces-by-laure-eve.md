@@ -3,7 +3,7 @@ layout: sidebar-right
 title: The Graces by Laure Eve
 date: 2017-02-07
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: 'Library volunteer Emily found <cite>The Graces</cite> dreamy, dark, enigmatic and unputdownable.'
 featured-image: /images/featured/featured-the-graces.jpg
 featured-alt: The Graces

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Pumpkinheads by Rainbow Rowell & Faith Erin Hicks"
 date: 2019-11-12
 author: amy-rush-da-silva
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Pumpkinheads</cite> is a cute and cosy read that is perfect for autumn."
 featured-image: /images/featured/featured-pumpkinheads.jpg
 featured-alt: "Pumpkinheads"

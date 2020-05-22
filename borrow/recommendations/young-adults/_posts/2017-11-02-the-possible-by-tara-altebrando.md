@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Possible by Tara Altebrando"
 date: 2017-11-02
 author: ann-halliday
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Possible</cite> is about a 17-year-old girl who may have inherited telekinetic powers."
 featured-image: /images/featured/featured-the-possible.jpg
 featured-alt: The Possible

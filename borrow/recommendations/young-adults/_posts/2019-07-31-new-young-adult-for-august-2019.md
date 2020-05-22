@@ -3,7 +3,7 @@ layout: sidebar-right
 title: New Young Adult books for August 2019
 date: 2019-07-31
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "New titles from Jason Reynolds, Malorie Blackman, Sally Green and more"
 featured-image: /images/featured/featured-young-adult-august-2019.jpg
 featured-alt: "No Big Deal, Crossfire, D.O.G.S"

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Sunflowers in February by Phyllida Shrimpton"
 date: 2018-06-21
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Sunflowers in February</cite> is beautiful and moving."
 featured-image: /images/featured/featured-sunflowers-in-february.jpg
 featured-alt: "Sunflowers in February"

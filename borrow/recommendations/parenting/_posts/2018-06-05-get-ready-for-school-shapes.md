@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Get Ready for School: Shapes"
 date: 2018-06-05
 author: sophie-green
-category: child-family-problems
+category: health
 excerpt: "Books to help children learn shapes before starting school."
 breadcrumb: childrens-ya-books
 meta-description: "Books to help children learn shapes before starting school."

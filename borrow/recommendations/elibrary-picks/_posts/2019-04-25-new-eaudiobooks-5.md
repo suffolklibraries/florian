@@ -3,12 +3,12 @@ layout: sidebar-right
 title: "Recommended new eAudiobooks #5"
 date: 2019-04-25
 author: sophie-green
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "Listen to top titles from Alexander McCall Smith, Sophie Kinsella, Stella Rimington and more."
 featured-image: /images/featured/featured-eaudiobooks-5.jpg
 featured-alt: "Sail Away, The Department of Sensitive Crimes"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 ![Sail Away, The Department of Sensitive Crimes](/images/featured/featured-eaudiobooks-5.jpg)

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Cancer: recommended titles"
 date: 2015-02-20 11:31:43+00:00
 author: sarah-lungley
-category: health-lists
+category: health
 excerpt: Cancer information and advice, selected with <a href="https://www.macmillan.org.uk/">Macmillan</a>.
 breadcrumb: health
 sidebar: health

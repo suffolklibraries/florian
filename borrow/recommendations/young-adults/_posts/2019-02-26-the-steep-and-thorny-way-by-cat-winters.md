@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Steep & Thorny Way by Cat Winters"
 date: 2019-02-26
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Steep & Thorny Way</cite> is packed with emotion and twists."
 featured-image: /images/featured/featured-the-steep-and-thorny-way.jpg
 featured-alt: "The Steep & Thorny Way"

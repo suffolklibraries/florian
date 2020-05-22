@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Twisted Tree by Rachel Burge"
 date: 2019-02-14
 author: amy-rush-da-silva
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Twisted Tree</cite> is atmospheric, thrilling and terrifying."
 featured-image: /images/featured/featured-the-twisted-tree.jpg
 featured-alt: "The Twisted Tree"

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Wranglestone by Darren Charlton"
 date: 2020-02-20
 author: rose-gant
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Wranglestone</cite> is a gripping tale of mystery and intrigue."
 featured-image: /images/featured/featured-wranglestone.jpg
 featured-alt: "Wranglestone"

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Treatment, by C. L. Taylor"
 date: 2017-12-13
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>The Treatment</cite> is a pacy, gripping novel that will appeal to anyone who enjoys thrillers.'
 featured-image: /images/featured/featured-the-treatment.jpg
 featured-alt: The Treatment

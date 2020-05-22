@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Goodbye, Perfect, by Sara Barnard"
 date: 2018-05-10
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Goodbye Perfect</cite> is a phenomenal dissection of female friendships, loyalty and family."
 featured-image: /images/featured/featured-goodbye-perfect.jpg
 featured-alt: "Goodbye, perfect"

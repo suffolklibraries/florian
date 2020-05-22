@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Daughter of the Burning City by Amanda Foody"
 date: 2018-01-30
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Daughter of the Burning City</cite> is an awe-inspiring and thrilling dark fantasy from a bold new voice in YA."
 featured-image: /images/featured/featured-daughter-of-the-burning-city.jpg
 featured-alt: "Daughter of the Burning City"

@@ -3,12 +3,12 @@ layout: sidebar-right
 title: "Recommended new eAudiobooks #8"
 date: 2019-07-29
 author: sophie-green
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "Listen to top titles from Robert Macfarlane, Joanna Trollope, Shari Lapena and more."
 featured-image: /images/featured/featured-eaudiobooks-8.jpg
 featured-alt: "Assegai, Run Away"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 ![Assegai, Run Away](/images/featured/featured-eaudiobooks-8.jpg)

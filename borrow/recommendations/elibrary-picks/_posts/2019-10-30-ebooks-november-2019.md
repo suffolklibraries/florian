@@ -3,12 +3,12 @@ layout: sidebar-right
 title: "Recommended new eBooks for November 2019"
 date: 2019-10-30
 author: lisa-brennan
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "We've listed some of our favourite new eBooks on OverDrive for November to help you choose your next digital read."
 featured-image: /images/featured/featured-elibrary-november-2019.jpg
 featured-alt: "Deadly Dance, BOSH! How to Live Vegan, The Life-Changing Manga of Tidying Up"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 ![Deadly Dance, BOSH! How to Live Vegan, The Life-Changing Manga of Tidying Up](/images/featured/featured-elibrary-november-2019.jpg)
@@ -17,7 +17,7 @@ We're always adding great titles to our [eLibrary](/elibrary/). We've listed som
 
 See also:
 
-* [Recommended new eAudiobooks &#x23;11](/new-suggestions/elibrary-picks/new-eaudiobooks-11/)
+* [Recommended new eAudiobooks &#x23;11](/new-suggestions/elibrary/new-eaudiobooks-11/)
 * [Freegal music](/elibrary/freegal/)
 * [PressReader newspapers and magazines](/elibrary/press-reader/)
 * [Kanopy classic and indie films and documentaries](/elibrary/kanopy/)

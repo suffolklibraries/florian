@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "I Stop Somewhere by T. E. Carter"
 date: 2018-08-16
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>I Stop Somewhere</cite> is a dark but enthralling and essential read."
 featured-image: /images/featured/featured-i-stop-somewhere.jpg
 featured-alt: "I Stop Somewhere"

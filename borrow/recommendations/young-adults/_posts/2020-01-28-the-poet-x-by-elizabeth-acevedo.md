@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Poet X by Elizabeth Acevedo"
 date: 2020-01-28
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Poet X</cite> is a quick and powerful read that encourages self-confidence and standing up for what you believe in."
 featured-image: /images/featured/featured-the-poet-x.jpg
 featured-alt: "The Poet X"

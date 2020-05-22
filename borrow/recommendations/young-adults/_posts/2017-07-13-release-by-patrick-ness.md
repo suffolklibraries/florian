@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Release by Patrick Ness
 date: 2017-07-13
 author: kate-ashton
-category: young-adult
+age-range: young-adult
 excerpt: 'Patrick Ness weaves a complex, emotional and compelling tale.'
 featured-image: /images/featured/featured-release.jpg
 featured-alt: Release

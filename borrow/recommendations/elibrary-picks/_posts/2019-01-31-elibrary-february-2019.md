@@ -3,19 +3,19 @@ layout: sidebar-right
 title: "Recommended new eBooks and music for February 2019"
 date: 2019-01-31
 author: lisa-brennan
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "Check out the best new adults' and children's eBooks and music from our OverDrive and Freegal services."
 featured-image: /images/featured/featured-elibrary-february-2019.jpg
 featured-alt: "Head Kid, The House Swap, Veggie Lean in 15"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 We're always adding great titles to our [eLibrary](/elibrary/). We've listed some of our best new adults' and children's eBooks and music to help you choose your next read or listen.
 
 See also:
 
-* [Recommended new eAudiobooks &#x23;2](/new-suggestions/elibrary-picks/new-eaudiobooks-2/)
+* [Recommended new eAudiobooks &#x23;2](/new-suggestions/elibrary/new-eaudiobooks-2/)
 * [PressReader newspapers and magazines](/elibrary/press-reader/)
 
 ## Music

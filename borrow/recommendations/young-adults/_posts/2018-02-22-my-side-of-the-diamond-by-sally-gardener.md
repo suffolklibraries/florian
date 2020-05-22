@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "My Side of the Diamond by Sally Gardener"
 date: 2018-02-22
 author: amelie-magotte
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>My Side of the Diamond</cite> is really exciting and amazingly realistic.'
 featured-image: /images/featured/featured-my-side-of-the-diamond.jpg
 featured-alt: My Side of the Diamond

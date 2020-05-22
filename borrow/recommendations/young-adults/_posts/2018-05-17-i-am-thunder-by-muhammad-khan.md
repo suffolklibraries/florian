@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "I Am Thunder by Muhammad Khan"
 date: 2018-05-17
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>I Am Thunder</cite> is timely, diverse and has a powerful message."
 featured-image: /images/featured/featured-i-am-thunder.jpg
 featured-alt: "I Am Thunder"

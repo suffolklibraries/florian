@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Black Flamingo by Dean Atta"
 date: 2019-10-24
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Black Flamingo</cite> is a beautifully-written verse novel that explores emotions, relationships and important issues with ferocity and depth."
 featured-image: /images/featured/featured-the-black-flamingo.jpg
 featured-alt: "The Black Flamingo"

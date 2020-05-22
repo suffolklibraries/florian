@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Theatrical by Maggie Harcourt"
 date: 2018-08-28
 author: amy-rush-da-silva
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Theatrical</cite> is a beautifully written novel about family, love and friendship, set within the magic of the theatre."
 featured-image: /images/featured/featured-theatrical.jpg
 featured-alt: "Theatrical"

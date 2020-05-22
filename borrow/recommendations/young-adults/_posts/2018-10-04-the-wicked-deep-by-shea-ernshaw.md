@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Wicked Deep by Shea Ernshaw"
 date: 2018-10-04
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Wicked Deep</cite> is dark, eerie and atmospheric."
 featured-image: /images/featured/featured-the-wicked-deep.jpg
 featured-alt: "The Wicked Deep"

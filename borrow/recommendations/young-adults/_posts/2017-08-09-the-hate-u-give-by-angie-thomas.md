@@ -3,7 +3,7 @@ layout: sidebar-right
 title: The Hate U Give by Angie Thomas
 date: 2017-08-09
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>The Hate U Give</cite> is simply a compelling, topical and fiercely candid book that everyone should read.'
 featured-image: /images/featured/featured-the-hate-u-give.jpg
 featured-alt: The Hate U Give

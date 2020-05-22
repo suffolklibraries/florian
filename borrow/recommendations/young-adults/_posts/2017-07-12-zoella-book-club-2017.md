@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Zoella and Friends Book Club list 2017
 date: 2017-07-12
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: '8 titles for 2017 chosen by vlogger Zoella (aka <cite>Girl Online</cite> author Zoe Sugg) and friends'
 featured-image: /images/featured/featured-zoella-2017.jpg
 featured-alt: The One Memory of Flora Banks, Orbiting Jupiter, History is All You Left Me

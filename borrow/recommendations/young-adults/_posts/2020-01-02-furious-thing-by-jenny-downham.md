@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Furious Thing by Jenny Downham"
 date: 2020-01-02
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Furious Thing</cite> is an emotionally gripping, intensely powerful story that opened Emily's eyes to the devastating issues of gaslighting and emotional abuse."
 featured-image: /images/featured/featured-furious-thing.jpg
 featured-alt: "Furious Thing"

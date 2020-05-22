@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Lady Mary by Lucy Worsley"
 date: 2018-09-11
 author: amelie-magotte
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Lady Mary</cite> is an amazing, dramatic, thrilling book, full of suspense."
 featured-image: /images/featured/featured-lady-mary.jpg
 featured-alt: "Lady Mary"

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Understanding young adults: Parenting advice"
 date: 2018-06-05
 author: sophie-green
-category: child-family-problems
+category: health
 excerpt: "Self-help advice for parents and carers raising young adults and teenagers."
 breadcrumb: childrens-ya-books
 meta-description: "Books to help parents of teenagers and young adults with the challenges of puberty and adolescence."

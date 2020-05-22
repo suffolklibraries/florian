@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Double Digit by Annabel Monaghan
 date: 2017-05-02
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: 'Emma found <cite>Double Digit</cite> "a worthy sequel" to <cite>A Girl Named Digit</cite>.'
 featured-image: /images/featured/featured-double-digit.jpg
 featured-alt: Double Digit

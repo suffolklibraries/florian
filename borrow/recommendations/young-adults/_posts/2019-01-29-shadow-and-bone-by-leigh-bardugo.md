@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Shadow and Bone by Leigh Bardugo"
 date: 2019-01-29
 author: eleanor-easton
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Shadow and Bone</cite> is a fast-paced, exciting novel packed with magic, politics and engaging characters."
 featured-image: /images/featured/featured-shadow-and-bone.jpg
 featured-alt: "Shadow and Bone"

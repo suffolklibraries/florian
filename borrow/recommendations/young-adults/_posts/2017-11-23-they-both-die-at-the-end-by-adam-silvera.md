@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "They Both Die at the End by Adam Silvera"
 date: 2017-11-23
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>They Both Die at the End</cite> is a real celebration of life, love and how easily it all can be taken away.'
 featured-image: /images/featured/featured-they-both-die-at-the-end.jpg
 featured-alt: They Both Die at the End

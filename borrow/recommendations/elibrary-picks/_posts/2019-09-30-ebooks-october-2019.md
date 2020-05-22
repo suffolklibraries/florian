@@ -3,12 +3,12 @@ layout: sidebar-right
 title: "Recommended new eBooks for October 2019"
 date: 2019-09-30
 author: lisa-brennan
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "We've listed some of our favourite new eBooks on OverDrive for October to help you choose your next digital read."
 featured-image: /images/featured/featured-elibrary-october-2019.jpg
 featured-alt: "Gotta Get Theroux This, Postscript, A Single Thread"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 ![Gotta Get Theroux This, Postscript, A Single Thread](/images/featured/featured-elibrary-october-2019.jpg)
@@ -17,7 +17,7 @@ We're always adding great titles to our [eLibrary](/elibrary/). We've listed som
 
 See also:
 
-* [Recommended new eAudiobooks &#x23;10](/new-suggestions/elibrary-picks/new-eaudiobooks-10/)
+* [Recommended new eAudiobooks &#x23;10](/new-suggestions/elibrary/new-eaudiobooks-10/)
 * [Freegal music](/elibrary/freegal/)
 * [PressReader newspapers and magazines](/elibrary/press-reader/)
 * [Kanopy classic and indie films and documentaries](/elibrary/kanopy/)

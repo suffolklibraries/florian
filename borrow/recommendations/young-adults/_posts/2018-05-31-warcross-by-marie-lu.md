@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Warcross by Marie Lu"
 date: 2018-05-31
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Warcross</cite> is a fantastic book that is packed full of memorable characters and casual diversity."
 featured-image: /images/featured/featured-warcross.jpg
 featured-alt: "Warcross"

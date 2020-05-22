@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Straight Outta Crongton by Alex Wheatle
 date: 2017-07-11
 author: rachael-vickery
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Straight Outta Crongton</cite> is a heart wrenching story of betrayal and revenge set in a run-down council neighbourhood.'
 featured-image: /images/featured/featured-straight-outta-crongton.jpg
 featured-alt: Straight Outta Crongton

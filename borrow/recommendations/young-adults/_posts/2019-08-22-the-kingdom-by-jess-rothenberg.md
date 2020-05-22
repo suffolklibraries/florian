@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Kingdom by Jess Rothenberg"
 date: 2019-08-22
 author: amy-rush-da-silva
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Kingdom</cite> is an alluring, captivating read that will leave you in shock and guessing right up to the very last page."
 featured-image: /images/featured/featured-the-kingdom.jpg
 featured-alt: "The Kingdom"

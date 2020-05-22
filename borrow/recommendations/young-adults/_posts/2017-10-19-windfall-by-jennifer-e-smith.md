@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Windfall by Jennifer E. Smith"
 date: 2017-10-19
 author: kate-ashton
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Windfall</cite> is an enjoyable book featuring likeable, interesting characters.'
 featured-image: /images/featured/featured-windfall.jpg
 featured-alt: Windfall

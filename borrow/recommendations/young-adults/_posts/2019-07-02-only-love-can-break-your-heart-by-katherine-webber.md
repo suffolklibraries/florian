@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Only Love Can Break Your Heart, by Katherine Webber"
 date: 2019-07-02
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Only Love Can Break Your Heart</cite> is a quick and enjoyable read that will keep you hooked to the last page."
 featured-image: /images/featured/featured-only-love-can-break-your-heart.jpg
 featured-alt: "Only Love Can Break Your Heart"

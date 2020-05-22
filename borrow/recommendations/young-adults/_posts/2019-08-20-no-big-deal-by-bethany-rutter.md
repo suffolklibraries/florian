@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "No Big Deal by Bethany Rutter"
 date: 2019-08-20
 author: amy-rush-da-silva
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>No Big Deal</cite> is a relateable and emotional read with an inspiring and admirable main character."
 featured-image: /images/featured/featured-no-big-deal.jpg
 featured-alt: "No Big Deal"

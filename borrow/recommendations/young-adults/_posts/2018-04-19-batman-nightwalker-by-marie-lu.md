@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Batman: Nightwalker by Marie Lu"
 date: 2018-04-19
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Batman: Nightwalker</cite> is a must-read for anyone looking for a new spin on the infamous Dark Knight."
 featured-image: /images/featured/featured-batman-nightwalker.jpg
 featured-alt: "Batman: Nightwalker"

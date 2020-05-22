@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Vicious Rumer, by Joshua Winning"
 date: 2019-04-18
 author: amy-rush-da-silva
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Vicious Rumer</cite> is dangerous, exhilarating, heart-stopping and full of action."
 featured-image: /images/featured/featured-vicious-rumer.jpg
 featured-alt: "Vicious Rumer"

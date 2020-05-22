@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Find your next read on the 2017 YA Book Prize shortlist
 date: 2017-03-02
 author: alice-violett
-category: young-adult
+age-range: young-adult
 excerpt: 'The shortlist for The YA Book Prize was announced on Thursday 2 March. This award "celebrates great books for teenagers and young adults and aims to get more teens reading."'
 featured-image: /images/featured/featured-ya-prize-2017.jpg
 featured-alt: Beautiful Broken Things, Chasing the Stars, The Graces, How Not To Disappear, Paper Butterflies, Orangeboy, The Call, The Monstrous Child, Riverkeep, Crongton Knights

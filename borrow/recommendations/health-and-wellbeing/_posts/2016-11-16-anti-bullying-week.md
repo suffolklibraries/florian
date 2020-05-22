@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Bullying: recommended titles for children and young adults for Anti Bullying Week"
 date: 2019-11-11
 author: jo-dixon-sophie-green
-category: health-lists
+category: health
 excerpt: For Anti Bullying Week, we've put together a list of recommendations for children and young adults on the subject of bullying.
 breadcrumb: health
 sidebar: health

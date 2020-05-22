@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Here I Stand: stories that stand for freedom, edited by Amnesty International UK"
 date: 2017-12-05
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Here I Stand: stories that stand for freedom: stories that stand for freedom</cite> is thought-provoking and deeply moving.'
 featured-image: /images/featured/featured-here-i-stand.jpg
 featured-alt: Here I Stand

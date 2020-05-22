@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Stoke High School Friday Book Club review their latest reads
 date: 2017-03-02
 author: stoke-book-club
-category: young-adult
+age-range: young-adult
 excerpt: 'Looking for your next YA read? These short reviews from Stoke High School students might help you decide.'
 featured-image: /images/featured/featured-stoke-high-reviews1.jpg
 featured-alt: "Miss Peregrine's Home for Peculiar Children, Girl Online: Going Solo, Username: Regenerated, A Monster Calls, The Midnight Gang, Night Shift"

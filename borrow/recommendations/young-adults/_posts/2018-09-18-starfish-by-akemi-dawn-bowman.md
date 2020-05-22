@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Starfish by Akemi Dawn Bowman"
 date: 2018-09-18
 author: amelie-magotte
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Starfish</cite> shows an honest perspective of failure and what it means to be able to get back on your feet and try again."
 featured-image: /images/featured/featured-starfish.jpg
 featured-alt: "Starfish"

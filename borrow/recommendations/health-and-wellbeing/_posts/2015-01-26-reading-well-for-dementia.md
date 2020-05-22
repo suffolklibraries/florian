@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Reading Well for dementia
 date: 2015-01-26
 author: alice-violett
-category: health-lists
+category: health
 excerpt: Reading Well Books on Prescription for dementia recommends books you might find helpful if you have dementia, are caring for someone with dementia or would like to find out more about the condition.
 featured-image: /images/featured/featured-reading-well-dementia.jpg
 featured-alt: "Grandma, Dear Dementia"

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Second Best Friend by Non Pratt"
 date: 2018-04-17
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Second Best Friend</cite> is a quick, pacey story of friendship, self-discovery and politics, optimised for readers with dyslexia and visual stress.'
 featured-image: /images/featured/featured-second-best-friend.jpg
 featured-alt: Second Best Friend

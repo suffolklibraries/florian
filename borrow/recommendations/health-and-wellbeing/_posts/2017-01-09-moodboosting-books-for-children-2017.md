@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Moodboosting books for young people 2017
 date: 2017-01-10
 author: alice-violett
-category: health-lists
+category: health
 excerpt: Books for children from our <cite>Moodboosting</cite> collection.
 breadcrumb: health
 sidebar: health

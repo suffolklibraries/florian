@@ -3,12 +3,12 @@ layout: sidebar-right
 title: "Recommended new eAudiobooks #7"
 date: 2019-06-24
 author: sophie-green
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "Listen to top titles from Stacey Halls, Thomas Harris, Sofie Hagen and more."
 featured-image: /images/featured/featured-eaudiobooks-7.jpg
 featured-alt: "The Familiars, A Home at the End of the World"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 ![The Familiars, A Home at the End of the World](/images/featured/featured-eaudiobooks-7.jpg)

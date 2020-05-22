@@ -3,7 +3,7 @@ layout: sidebar-right
 title: A Girl Named Digit by Annabel Monaghan
 date: 2017-04-04
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>A Girl Named Digit</cite> has it all: adventure, mystery, love and humour'
 featured-image: /images/featured/featured-a-girl-named-digit.jpg
 featured-alt: A Girl Named Digit

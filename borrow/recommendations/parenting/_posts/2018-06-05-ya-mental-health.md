@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Young adults: Mental health"
 date: 2018-06-05
 author: sophie-green
-category: child-family-problems
+category: health
 excerpt: "Books which explore mental health issues such as depression, anxiety, OCD and ADHD for young adults and teenagers."
 breadcrumb: childrens-ya-books
 meta-description: "Books to help teenagers and young adults understand topics such as depression, anxiety, self-esteem, eating disorders, body image, ADHD and OCD."

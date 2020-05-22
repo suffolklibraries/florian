@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Goodbye Days by Jeff Zentner
 date: 2017-08-08
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Goodbye Days</cite> is a heart-breaking but magnificent novel by a writer to watch.'
 featured-image: /images/featured/featured-goodbye-days.jpg
 featured-alt: Goodbye Days

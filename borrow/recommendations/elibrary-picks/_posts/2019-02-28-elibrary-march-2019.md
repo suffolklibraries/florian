@@ -3,19 +3,19 @@ layout: sidebar-right
 title: "Recommended new eBooks and music for March 2019"
 date: 2019-02-28
 author: lisa-brennan
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "Check out the best new eBooks and music from our OverDrive and Freegal services."
 featured-image: /images/featured/featured-elibrary-march-2019.jpg
 featured-alt: "One Minute Later, Blast from the Past, All the Little Lies"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 We're always adding great titles to our [eLibrary](/elibrary/). We've listed some of our best new eBooks and music to help you choose your next read or listen.
 
 See also:
 
-* [Recommended new eAudiobooks &#x23;3](/new-suggestions/elibrary-picks/new-eaudiobooks-3/)
+* [Recommended new eAudiobooks &#x23;3](/new-suggestions/elibrary/new-eaudiobooks-3/)
 * [PressReader newspapers and magazines](/elibrary/press-reader/)
 
 ## Music

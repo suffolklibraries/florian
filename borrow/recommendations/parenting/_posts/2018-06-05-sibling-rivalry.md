@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Sibling rivalry"
 date: 2018-06-05
 author: sophie-green
-category: child-family-problems
+category: health
 excerpt: "Books to help children to understand and get along with their brothers and sisters."
 breadcrumb: childrens-ya-books
 meta-description: "Books to help children dealing with jealousy, rivalry and competitiveness with their brothers and sisters, encouraging them to share and be fair."

@@ -3,12 +3,12 @@ layout: sidebar-right
 title: "Recommended new eAudiobooks #3"
 date: 2019-02-25
 author: sophie-green
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "Listen to top titles from Ruby Wax, John le Carré, Lisa Jewell and more."
 featured-image: /images/featured/featured-eaudiobooks-3.jpg
 featured-alt: "Wuthering Heights, Watching You"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 ![Wuthering Heights, Watching You](/images/featured/featured-eaudiobooks-3.jpg)

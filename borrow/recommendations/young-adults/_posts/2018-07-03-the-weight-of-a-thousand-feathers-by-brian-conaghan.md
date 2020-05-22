@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Weight of a Thousand Feathers by Brian Conaghan"
 date: 2018-07-03
 author: amy-rush-da-silva
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Weight of a Thousand Feathers</cite> is a heart-breaking, beautiful book that touches on some very important issues regarding illness and family ties."
 featured-image: /images/featured/featured-the-weight-of-a-thousand-feathers.jpg
 featured-alt: "The Weight of a Thousand Feathers"

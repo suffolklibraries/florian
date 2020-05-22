@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Are We All Lemmings and Snowflakes? by Holly Bourne"
 date: 2018-12-11
 author: lucy-french
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Are We All Lemmings and Snowflakes?</cite> is heart-warming, relatable and funny."
 featured-image: /images/featured/featured-are-we-all-lemmings-and-snowflakes.jpg
 featured-alt: "Are We All Lemmings and Snowflakes?"

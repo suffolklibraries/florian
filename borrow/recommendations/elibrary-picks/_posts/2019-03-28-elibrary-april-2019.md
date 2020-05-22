@@ -3,17 +3,17 @@ layout: sidebar-right
 title: "Recommended new eBooks for April 2019"
 date: 2019-03-28
 author: lisa-brennan
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "See the new releases we're reserving and downloading on OverDrive this month."
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 We're always adding great titles to our [eLibrary](/elibrary/). We've listed some of the eBooks we'll be reserving and downloading in April to give you some ideas!
 
 See also:
 
-* [Recommended new eAudiobooks &#x23;4](/new-suggestions/elibrary-picks/new-eaudiobooks-4/)
+* [Recommended new eAudiobooks &#x23;4](/new-suggestions/elibrary/new-eaudiobooks-4/)
 * [Freegal music](/elibrary/freegal/)
 * [PressReader newspapers and magazines](/elibrary/press-reader/)
 

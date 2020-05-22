@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "A Semi Definitive List of Worst Nightmares by Krystal Sutherland"
 date: 2017-11-30
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>A Semi Definitive List of Worst Nightmares</cite> features a sweet, slow-burning romance and deals with dark themes of mental illness beautifully.'
 featured-image: /images/featured/featured-a-semi-definitive-list-of-worst-nightmares.jpg
 featured-alt: They Both Die at the End

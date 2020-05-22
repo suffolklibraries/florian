@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "This Mortal Coil by Emily Suvada"
 date: 2018-02-15
 author: amelie-magotte
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>This Mortal Coil</cite> is an absolutely brilliant book.'
 featured-image: /images/featured/featured-this-mortal-coil.jpg
 featured-alt: This Mortal Coil

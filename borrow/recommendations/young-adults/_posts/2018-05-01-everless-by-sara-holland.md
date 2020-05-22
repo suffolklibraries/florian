@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Everless by Sara Holland"
 date: 2018-05-01
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Everless</cite> is an awesome, fantastic and really riveting debut in a new fantasy series you should keep an eye out for."
 featured-image: /images/featured/featured-everless.jpg
 featured-alt: "Everless"

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Longbow Girl by Linda Davies
 date: 2017-09-26
 author: amelie-magotte
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Longbow Girl</cite> is full to the brim with action, a messy romance, adventure and history.'
 featured-image: /images/featured/featured-longbow-girl.jpg
 featured-alt: Longbow Girl

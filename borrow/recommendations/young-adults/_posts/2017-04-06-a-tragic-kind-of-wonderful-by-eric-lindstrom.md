@@ -3,7 +3,7 @@ layout: sidebar-right
 title: A Tragic Kind of Wonderful by Eric Lindstrom
 date: 2017-04-06
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>A Tragic Kind of Wonderful</cite> deals convincingly with bipolar disorder, friendships, relationships and sexuality.'
 featured-image: /images/featured/featured-a-tragic-kind-of-wonderful.jpg
 featured-alt: A Tragic Kind of Wonderful

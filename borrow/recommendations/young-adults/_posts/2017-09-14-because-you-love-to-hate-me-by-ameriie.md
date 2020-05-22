@@ -3,7 +3,7 @@ layout: sidebar-right
 title: 'Because You Love to Hate Me: 13 tales of villainy, edited by Ameriie'
 date: 2017-09-14
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Because You Love To Hate Me</cite> is an engaging, unique YA anthology that is packed full of suspense, twists and betrayal.'
 featured-image: /images/featured/featured-because-you-love-to-hate-me.jpg
 featured-alt: Orbiting Jupiter

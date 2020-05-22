@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Welcome To Nowhere by Elizabeth Laird
 date: 2017-03-23
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: 'Welcome to Nowhere is an immensely well-researched book that fearlessly tackles a worldwide issue.'
 featured-image: /images/featured/featured-welcome-to-nowhere.jpg
 featured-alt: Welcome To Nowhere

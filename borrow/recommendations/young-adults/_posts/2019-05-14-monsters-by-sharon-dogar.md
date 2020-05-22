@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Monsters by Sharon Dogar"
 date: 2019-05-14
 author: kate-ashton
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Monsters</cite> is funny, moving, tragic and heartbreaking."
 featured-image: /images/featured/featured-monsters.jpg
 featured-alt: "Monsters"

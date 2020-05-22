@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Bereavement"
 date: 2018-06-05
 author: sophie-green
-category: child-family-problems
+category: health
 excerpt: "Books to help you talk about death with a child and stories to explore the feelings of grief, loss and sadness."
 meta-description: "Books to help your child dealing with grief, loss and sadness after a death."
 breadcrumb: childrens-ya-books

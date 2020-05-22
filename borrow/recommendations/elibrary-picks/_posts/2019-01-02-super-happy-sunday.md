@@ -3,12 +3,12 @@ layout: sidebar-right
 title: "eLibrary recommendations for Super Happy Sunday"
 date: 2019-01-02
 author: lisa-brennan
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "We're holding a new health and happiness event, Super Happy Sunday, across our libraries on Sunday 27 January. We've put together some eLibrary recommendations to mark the occasion and boost your wellbeing."
 featured-image: /images/featured/featured-super-happy-sunday.jpg
 featured-alt: "A woman in a field raising her arms to the sun"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 ![A woman in a field raising her arms to the sun](/images/featured/featured-super-happy-sunday.jpg)

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Dear Martin by Nic Stone"
 date: 2018-07-10
 author: amy-rush-da-silva
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Dear Martin</cite> is an extremely powerful read which examines racism, police brutality, sexism, toxic masculinity and more."
 featured-image: /images/featured/featured-dear-martin.jpg
 featured-alt: "Dear Martin"

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "City of Saints & Thieves by Natalie C. Anderson"
 date: 2018-01-23
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>City of Saints & Thieves</cite> is a fast-paced, edgy thriller that immerses you in the characters' world and takes you through a whirlwind of emotions."
 featured-image: /images/featured/featured-city-of-saints-and-thieves.jpg
 featured-alt: "Wonder Woman: Warbringer"

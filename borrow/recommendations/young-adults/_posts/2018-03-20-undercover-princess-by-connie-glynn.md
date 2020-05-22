@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Undercover Princess by Connie Glynn"
 date: 2018-03-20
 author: amelie-magotte
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Undercover Princess</cite> will appeal to anyone who loves drama, humour and wild characters doing wild things.'
 featured-image: /images/featured/featured-undercover-princess.jpg
 featured-alt: Undercover Princess

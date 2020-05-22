@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Children of Blood and Bone by Tomi Adeyemi"
 date: 2018-07-05
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Children of Blood and Bone</cite> is gripping, awesome and effortlessly diverse."
 featured-image: /images/featured/featured-children-of-blood-and-bone.jpg
 featured-alt: "Children of Blood and Bone"

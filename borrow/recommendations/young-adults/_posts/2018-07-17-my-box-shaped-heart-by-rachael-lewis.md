@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "My Box-Shaped Heart by Rachael Lucas"
 date: 2018-07-17
 author: amy-rush-da-silva
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>My Box-Shaped Heart</cite> is an easy, inspiring, uplifting, adorable summer read about the importance of family, friendship and finding your own happily ever after."
 featured-image: /images/featured/featured-my-box-shaped-heart.jpg
 featured-alt: "My Box-Shaped Heart"

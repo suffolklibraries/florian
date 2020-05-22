@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Talking about feelings"
 date: 2018-06-05
 author: sophie-green
-category: child-family-problems
+category: health
 excerpt: "Books to help children talk about their feelings."
 breadcrumb: childrens-ya-books
 meta-description: "Books to help your child deal with emotions including anger, jealousy, happiness, sadness, worry and fear."

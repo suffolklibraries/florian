@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Blame by Simon Mayo
 date: 2016-12-27
 author: kate-ashton
-category: young-adult
+age-range: young-adult
 excerpt: "Kate recommends this young adult novel to teens and adults alike"
 featured-image: /images/featured/featured-blame.jpg
 featured-alt: Blame

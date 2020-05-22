@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Moodboosting books 2018
 date: 2018-10-09
 author: alice-violett
-category: health-lists
+category: health
 excerpt: "This year's moodboosting books have been chosen by the ultimate experts - readers themselves."
 featured-image: /images/featured/featured-moodboosting-books-2018.jpg
 featured-alt: "The Woman Who Walked in Sunshine, Eleanor Oliphant is Completely Fine, Tiny Beautiful Things"

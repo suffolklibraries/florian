@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Mindfulness"
 date: 2018-06-05
 author: sophie-green
-category: child-family-problems
+category: health
 excerpt: "Books to help children slow down and become more mindful, calm and happy."
 meta-description: "Books to help children slow down and become more mindful, calm and happy, including titles on yoga and wellbeing."
 breadcrumb: childrens-ya-books

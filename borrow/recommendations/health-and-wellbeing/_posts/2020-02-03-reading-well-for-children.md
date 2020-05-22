@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Reading Well for children
 date: 2020-02-03
 author: alice-violett
-category: health-lists
+category: health
 excerpt: The Reading Agency and Libraries Connected have released a new list of Reading Well books for children, covering mental health, feelings, worries, bullying, tough times, living with a disability and more.
 featured-image: /images/featured/featured-reading-well-children.jpg
 featured-alt: "Planet Omar: Accidental Trouble Magnet, Clownfish, Worry Angels"

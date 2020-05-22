@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Close Your Eyes by Nicci Cloke"
 date: 2018-10-25
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Close Your Eyes</cite> is a gripping thriller full of twists and red herrings."
 featured-image: /images/featured/featured-close-your-eyes.jpg
 featured-alt: "Close Your Eyes"

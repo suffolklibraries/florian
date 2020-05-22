@@ -3,12 +3,12 @@ layout: sidebar-right
 title: "Recommended new eAudiobooks #9"
 date: 2019-08-27
 author: sophie-green
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "Listen to top titles from Deborah Moggach, Emily Maitlis, M. J. Arlidge and more."
 featured-image: /images/featured/featured-eaudiobooks-9.jpg
 featured-alt: "Boy Swallows Universe, The Unexpected Truth About Animals"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 ![Boy Swallows Universe, The Unexpected Truth About Animals](/images/featured/featured-eaudiobooks-9.jpg)

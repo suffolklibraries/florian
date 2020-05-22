@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Recommended Young Adult titles to mark LGBT History Month 2020
 date: 2020-01-31
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "This LGBT History Month, we've added lots of great new titles to our Young Adult LGBT recommendation list."
 featured-image: /images/featured/featured-lgbt-2020.jpg
 featured-alt: "Wayward Son, George, Our Dreams at Dusk: Shimanami Tasogare: Volume 2"

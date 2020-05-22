@@ -3,7 +3,7 @@ layout: sidebar-right
 title: I Am Traitor by Sif Sigfúsdóttir
 date: 2017-11-21
 author: amelie-magotte
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>I Am Traitor</cite> features everything you could want in a good book: romance, adventure, suspense and a diverse range of characters.'
 featured-image: /images/featured/featured-i-am-traitor.jpg
 featured-alt: I Am Traitor

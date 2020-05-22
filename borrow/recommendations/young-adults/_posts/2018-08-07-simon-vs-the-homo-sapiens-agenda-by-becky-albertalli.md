@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Simon vs. the Homo Sapiens Agenda by Becky Albertalli"
 date: 2018-08-07
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: "Emma loved <cite>Simon vs. the Homo Sapiens Agenda</cite> and recommends it to anyone with an interest in LGBT issues."
 featured-image: /images/featured/featured-simon-vs-the-homo-sapiens-agenda.jpg
 featured-alt: "Simon vs. the Homo Sapiens Agenda"

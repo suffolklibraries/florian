@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Healthy eating for children"
 date: 2018-06-05
 author: sophie-green
-category: child-family-problems
+category: health
 excerpt: "Self-help and story books about healthy eating and exercise."
 breadcrumb: childrens-ya-books
 meta-description: "Books to help children understand the importance of a balanced diet and exercise, including titles on vegetables, fruit and fussy eating."

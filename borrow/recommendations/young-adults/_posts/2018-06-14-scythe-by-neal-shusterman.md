@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Scythe by Neal Shusterman"
 date: 2018-06-14
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Scythe</cite> is a brilliant, engrossing, clever series opener that makes you question the world around you."
 featured-image: /images/featured/featured-scythe.jpg
 featured-alt: "Scythe"

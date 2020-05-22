@@ -3,12 +3,12 @@ layout: sidebar-right
 title: "Top 10 Great Courses on Kanopy"
 date: 2020-05-05
 author: hannah-foulstone
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "Not sure where to begin with our Kanopy service? Take a look at some of our picks."
 featured-image: /images/featured/featured-top-10-great-courses.jpg
 featured-alt: "Great Courses present: Yoga, Genealogy, Mediterranean cooking, Mastering Tai Chi and How to Draw"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 ![Our picks](/images/featured/featured-top-10-great-courses.jpg)

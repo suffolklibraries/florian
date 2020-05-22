@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Witchborn by Nicholas Bowling"
 date: 2018-04-05
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Witchborn</cite> is a brilliant concoction of Tudor politics, magic and one heck of a gripping plot."
 featured-image: /images/featured/featured-witchborn.jpg
 featured-alt: "Witchborn"

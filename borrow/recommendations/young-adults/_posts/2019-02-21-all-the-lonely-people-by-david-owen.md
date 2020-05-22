@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "All the Lonely People, by David Owen"
 date: 2019-02-21
 author: amy-rush-da-silva
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>All the Lonely People</cite> is a brutally real, heart-wrenching tale all about the dangerous side of social media."
 featured-image: /images/featured/featured-all-the-lonely-people.jpg
 featured-alt: "All the Lonely People"

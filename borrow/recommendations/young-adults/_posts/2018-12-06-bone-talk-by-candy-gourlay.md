@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Bone Talk by Candy Gourlay"
 date: 2018-12-06
 author: kate-ashton
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Bone Talk</cite> promises a gripping tale, evocative descriptions and a universal theme."
 featured-image: /images/featured/featured-bone-talk.jpg
 featured-alt: "Bone Talk"

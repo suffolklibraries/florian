@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Three Dark Crowns by Kendare Blake"
 date: 2018-10-11
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Three Dark Crowns</cite> is a deliciously dark, incredibly compelling and gripping story."
 featured-image: /images/featured/featured-three-dark-crowns.jpg
 featured-alt: "Three Dark Crowns"

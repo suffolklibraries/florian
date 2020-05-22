@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Wellcome longlist 2018
 date: 2018-02-09
 author: alice-violett
-category: health-lists
+category: health
 excerpt: The 2018 Wellcome Prize longlist features memoirs, biographies, fiction and non-fiction pertaining to health and medicine.
 featured-image: /images/featured/featured-wellcome-longlist-2018.jpg
 featured-alt: Plot 29, Behave, To Be a Machine

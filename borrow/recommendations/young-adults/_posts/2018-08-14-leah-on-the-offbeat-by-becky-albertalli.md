@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Leah on the Offbeat by Becky Albertalli"
 date: 2018-08-14
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Leah on the Offbeat</cite> covers high school, college, sexuality and relationships and is a must-read for anyone with an interest in LGBT issues."
 featured-image: /images/featured/featured-leah-on-the-offbeat.jpg
 featured-alt: "Leah on the Offbeat"

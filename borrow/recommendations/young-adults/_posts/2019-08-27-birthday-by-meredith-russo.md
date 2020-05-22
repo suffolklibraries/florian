@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Birthday by Meredith Russo"
 date: 2019-08-27
 author: rose-gant
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Birthday</cite> is an emotionally-charged story of self-discovery and acceptance.'
 featured-image: /images/featured/featured-birthday.jpg
 featured-alt: "Birthday"

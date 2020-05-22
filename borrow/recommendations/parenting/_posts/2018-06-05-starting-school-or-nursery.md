@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Starting school or nursery"
 date: 2018-06-05
 author: sophie-green
-category: child-family-problems
+category: health
 excerpt: "Reassuring books to help prepare children for their first day of school or nursery."
 breadcrumb: childrens-ya-books
 meta-description: "Books to help children starting nursery or reception know what to expect and deal with separation anxiety and change."

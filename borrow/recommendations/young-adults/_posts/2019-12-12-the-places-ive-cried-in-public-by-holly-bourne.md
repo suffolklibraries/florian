@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Places I've Cried in Public by Holly Bourne"
 date: 2019-12-12
 author: rose-gant
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Places I’ve Cried in Public</cite> is a beautiful story of love, loss and growth through the darkness of heartbreak."
 featured-image: /images/featured/featured-the-places-ive-cried-in-public.jpg
 featured-alt: "The Places I've Cried in Public"

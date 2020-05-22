@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Lines We Cross by Randa Abdel-Fattah"
 date: 2017-10-10
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>The Lines We Cross</cite> is a brilliantly written, thought-provoking novel that will stay with you long after the final page.'
 featured-image: /images/featured/featured-the-lines-we-cross.jpg
 featured-alt: The Lines We Cross

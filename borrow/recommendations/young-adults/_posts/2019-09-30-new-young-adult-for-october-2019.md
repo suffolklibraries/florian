@@ -3,7 +3,7 @@ layout: sidebar-right
 title: New Young Adult books for October 2019
 date: 2019-09-30
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "New titles from Frances Hardinge, Holly Bourne, Elizabeth Acevedo and more"
 featured-image: /images/featured/featured-young-adult-october-2019.jpg
 featured-alt: "Deeplight, Dev1at3, With the Fire on High"

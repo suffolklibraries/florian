@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Sacrifice Box by Martin Stewart"
 date: 2018-05-03
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Sacrifice Box</cite> is a frightening and gripping horror that’s perfect for a dark night."
 featured-image: /images/featured/featured-the-sacrifice-box.jpg
 featured-alt: "The Sacrifice Box"

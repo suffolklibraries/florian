@@ -3,7 +3,7 @@ layout: sidebar-right
 title: The Making of Mollie by Anna Carey
 date: 2017-01-24
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: 'Emily found <cite>The Making of Mollie</cite> "an interesting historical novel, with a splash of girl power added for good measure."'
 featured-image: /images/featured/featured-making-of-mollie.jpg
 featured-alt: The Making of Mollie

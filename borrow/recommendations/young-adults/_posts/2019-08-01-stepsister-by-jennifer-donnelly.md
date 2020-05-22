@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Stepsister by Jennifer Donnelly"
 date: 2019-08-01
 author: amelie-magotte
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Stepsister</cite> is an original, addictive take on the story of Cinderella.'
 featured-image: /images/featured/featured-stepsister.jpg
 featured-alt: "Stepsister"

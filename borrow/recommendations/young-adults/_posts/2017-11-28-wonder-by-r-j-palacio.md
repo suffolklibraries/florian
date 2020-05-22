@@ -3,7 +3,7 @@ layout: sidebar-right
 title: 'Wonder by R. J. Palacio'
 date: 2017-11-28
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Wonder</cite> made Emma smile, laugh, feel sad and well up with tears.'
 featured-image: /images/featured/featured-wonder.jpg
 featured-alt: Wonder

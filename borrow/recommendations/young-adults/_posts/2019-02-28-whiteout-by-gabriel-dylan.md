@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Whiteout, by Gabriel Dylan"
 date: 2019-02-28
 author: amy-rush-da-silva
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Whiteout</cite> has everything you could want in a YA horror."
 featured-image: /images/featured/featured-whiteout.jpg
 featured-alt: "Whiteout"

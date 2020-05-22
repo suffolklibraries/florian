@@ -3,7 +3,7 @@ layout: sidebar-right
 title: The Liar's Handbook by Keren David
 date: 2017-04-18
 author: kate-ashton
-category: young-adult
+age-range: young-adult
 excerpt: "In <cite>The Liar's Handbook</cite>, a funny, engaging and determined character with a penchant for storytelling investigates his mum's new boyfriend's lies."
 featured-image: /images/featured/featured-the-liars-handbook.jpg
 featured-alt: The Liar's Handbook

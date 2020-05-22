@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Last Days of Archie Maxwell by Annabel Pitcher"
 date: 2018-03-15
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Last Days of Archie Maxwell</cite> is a powerful and poignant contemporary that discusses important, hard-hitting issues."
 featured-image: /images/featured/featured-the-last-days-of-archie-maxwell.jpg
 featured-alt: "The Last Days of Archie Maxwell"

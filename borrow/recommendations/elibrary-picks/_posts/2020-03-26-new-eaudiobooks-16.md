@@ -3,17 +3,17 @@ layout: sidebar-right
 title: "Recommended new eAudiobooks #16"
 date: 2020-03-26
 author: sophie-green
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "Listen to top titles from George Orwell, Sam Blake, Russell Kane and more."
 featured-image: /images/featured/featured-eaudiobooks-16.jpg
 featured-alt: "1984, Son of a Silverback"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 ![1984, Son of a Silverback](/images/featured/featured-eaudiobooks-16.jpg)
 
-See also: [recommended new eBooks](/new-suggestions/elibrary-picks/new-ebooks-march-2020/)
+See also: [recommended new eBooks](/new-suggestions/elibrary/new-ebooks-march-2020/)
 
 ## BorrowBox
 

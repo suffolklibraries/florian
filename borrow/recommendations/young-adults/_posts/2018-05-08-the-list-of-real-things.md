@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The List of Real Things by Sarah Moore Fitzgerald"
 date: 2018-05-08
 author: amy-rush-da-silva
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The List of Real Things</cite> is a touching read about life, loss, grief and how truly magical the imagination can really be."
 featured-image: /images/featured/featured-the-list-of-real-things.jpg
 featured-alt: "The List of Real Things"

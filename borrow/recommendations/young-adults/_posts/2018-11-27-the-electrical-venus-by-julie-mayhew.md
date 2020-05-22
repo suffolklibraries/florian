@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Electrical Venus by Julie Mayhew"
 date: 2018-11-27
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Electrical Venus</cite> is an intriguing, enjoyable tale from a Georgian travelling sideshow."
 featured-image: /images/featured/featured-the-electrical-venus.jpg
 featured-alt: "The Electrical Venus"

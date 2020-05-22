@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Hazel Wood by Melissa Albert"
 date: 2018-06-28
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Hazel Wood</cite> is a mesmerizing, intriguing debut that will sweep you off your feet."
 featured-image: /images/featured/featured-the-hazel-wood.jpg
 featured-alt: "The Hazel Wood"

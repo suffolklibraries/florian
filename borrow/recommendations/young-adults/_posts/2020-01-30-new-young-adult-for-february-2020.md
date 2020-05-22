@@ -3,7 +3,7 @@ layout: sidebar-right
 title: New Young Adult books for February 2020
 date: 2020-01-30
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "New titles from Alice Oseman, Becky Albertalli & Aisha Saeed and more"
 featured-image: /images/featured/featured-young-adult-february-2020.jpg
 featured-alt: "What Momma Left Me, Yes No Maybe So, Wranglestone"

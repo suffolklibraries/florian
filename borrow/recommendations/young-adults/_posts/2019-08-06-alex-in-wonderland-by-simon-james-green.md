@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Alex in Wonderland by Simon James Green"
 date: 2019-08-06
 author: amelie-magotte
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Alex in Wonderland</cite> is both funny and deep.'
 featured-image: /images/featured/featured-alex-in-wonderland.jpg
 featured-alt: "Alex in Wonderland"

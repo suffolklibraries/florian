@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Disconnect by Keren David"
 date: 2019-05-09
 author: amy-rush-da-silva
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Disconnect</cite> is a short, thought-provoking read."
 featured-image: /images/featured/featured-the-disconnect.jpg
 featured-alt: "The Disconnect"

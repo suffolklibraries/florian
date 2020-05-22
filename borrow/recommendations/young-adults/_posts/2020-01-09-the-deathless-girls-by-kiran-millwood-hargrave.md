@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Deathless Girls by Kiran Millwood Hargrave"
 date: 2020-01-09
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Deathless Girls</cite> is a beautifully-written, dark and entrancing story about three brides of Dracula."
 featured-image: /images/featured/featured-the-deathless-girls.jpg
 featured-alt: "The Deathless Girls"

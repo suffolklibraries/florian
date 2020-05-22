@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Stargazing for Beginners by Jenny McLachlan
 date: 2017-07-25
 author: kate-ashton
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Stargazing for Beginners</cite> is a brilliant and delightful book that entertains throughout.'
 featured-image: /images/featured/featured-stargazing-for-beginners.jpg
 featured-alt: Stargazing for Beginners

@@ -3,12 +3,12 @@ layout: sidebar-right
 title: "Recommended new eAudiobooks #12"
 date: 2019-11-25
 author: sophie-green
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "Listen to top titles from David Mitchell, Adam Kay, Shari Lapena and more."
 featured-image: /images/featured/featured-eaudiobooks-12.jpg
 featured-alt: "The Cleaner, My Name is Monster"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 ![The Cleaner, My Name is Monster](/images/featured/featured-eaudiobooks-12.jpg)

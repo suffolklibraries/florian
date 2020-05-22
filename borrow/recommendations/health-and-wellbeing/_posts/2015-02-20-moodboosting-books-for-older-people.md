@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Moodboosting books for older people
 date: 2015-02-20 12:22:43+00:00
 author: sarah-lungley
-category: health-lists
+category: health
 excerpt: Books for older people from our <cite>Moodboosting</cite> collection.
 breadcrumb: health
 sidebar: health

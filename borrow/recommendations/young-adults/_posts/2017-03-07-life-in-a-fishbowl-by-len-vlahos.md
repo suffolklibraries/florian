@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Life in a Fishbowl by Len Vlahos
 date: 2017-03-07
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: 'In <cite>Life in a Fishbowl</cite>, Len Vlahos creates "a bittersweet fusion of emotions that won’t let you go."'
 featured-image: /images/featured/featured-life-in-a-fishbowl.jpg
 featured-alt: Life in a Fishbowl

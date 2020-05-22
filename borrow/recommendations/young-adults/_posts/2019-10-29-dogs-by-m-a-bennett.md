@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "D.O.G.S. by M. A. Bennett"
 date: 2019-10-29
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>D. O. G. S.</cite> is a dark, thrilling addition to what is becoming a brilliant and addictive mystery series."
 featured-image: /images/featured/featured-dogs.jpg
 featured-alt: "D. O. G. S."

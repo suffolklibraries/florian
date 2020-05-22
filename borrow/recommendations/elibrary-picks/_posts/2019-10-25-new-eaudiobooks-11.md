@@ -3,12 +3,12 @@ layout: sidebar-right
 title: "Recommended new eAudiobooks #11"
 date: 2019-10-25
 author: sophie-green
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "Listen to top titles from Lemn Sissay, Philippa Gregory, David Attenborough and more."
 featured-image: /images/featured/featured-eaudiobooks-11.jpg
 featured-alt: "Unicorn, A Bad Birdwatcher's Companion"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 ![Unicorn, A Bad Birdwatcher's Companion](/images/featured/featured-eaudiobooks-11.jpg)

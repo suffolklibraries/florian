@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Same Difference by Siobhan Vivian
 date: 2017-07-06
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: 'Emma recommends <cite>Same Difference</cite> to readers trying to find their place in the world.'
 featured-image: /images/featured/featured-same-difference.jpg
 featured-alt: Same Difference

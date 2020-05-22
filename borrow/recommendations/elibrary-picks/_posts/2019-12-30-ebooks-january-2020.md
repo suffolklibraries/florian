@@ -3,12 +3,12 @@ layout: sidebar-right
 title: "Recommended new eBooks for January 2020"
 date: 2019-12-30
 author: lisa-brennan
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "We've listed some of our favourite new eBooks on OverDrive for January to help you choose your next digital read."
 featured-image: /images/featured/featured-elibrary-january-2020.jpg
 featured-alt: "Spy, Caesar & Hussein, The Dilemma"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 ![Spy, Caesar & Hussein, The Dilemma](/images/featured/featured-elibrary-january-2020.jpg)
@@ -17,7 +17,7 @@ We're always adding great titles to our [eLibrary](/elibrary/). We've listed som
 
 See also:
 
-* [Recommended new eAudiobooks &#x23;13](/new-suggestions/elibrary-picks/new-eaudiobooks-13/)
+* [Recommended new eAudiobooks &#x23;13](/new-suggestions/elibrary/new-eaudiobooks-13/)
 * [Freegal music](/elibrary/freegal/)
 * [PressReader newspapers and magazines](/elibrary/press-reader/)
 * [Kanopy classic and indie films and documentaries](/elibrary/kanopy/)

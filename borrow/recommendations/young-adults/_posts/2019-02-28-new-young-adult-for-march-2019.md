@@ -3,7 +3,7 @@ layout: sidebar-right
 title: New Young Adult books for March 2019
 date: 2019-02-28
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "New titles from Tomi Adeyemi, Laura Steven & Teri Terry"
 featured-image: /images/featured/featured-young-adult-march-2019.jpg
 featured-alt: "Speak Up!, Internment, The Cold is in Her Bones"

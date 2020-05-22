@@ -3,12 +3,12 @@ layout: sidebar-right
 title: "Recommended new eAudiobooks #4"
 date: 2019-03-25
 author: sophie-green
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "Listen to top titles from K. L. Slater, Lucy Dawson, Michael Palin and more."
 featured-image: /images/featured/featured-eaudiobooks-4.jpg
 featured-alt: "Gingerbread, What My Best Friend Did"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 ![Gingerbread, What My Best Friend Did](/images/featured/featured-eaudiobooks-4.jpg)

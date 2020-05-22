@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Autism and Asperger's"
 date: 2018-06-05
 author: sophie-green
-category: child-family-problems
+category: health
 excerpt: "Advice on understanding and explaining Autism and Asperger’s Syndrome"
 meta-description: "Books to help if you have a child on the autistic spectrum."
 breadcrumb: childrens-ya-books

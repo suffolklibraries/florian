@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Amy Chelsea Stacie Dee by Mary G. Thompson"
 date: 2018-03-01
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Amy Chelsea Stacie Dee</cite> is a riveting, unputdownable book."
 featured-image: /images/featured/featured-amy-chelsea-stacie-dee.jpg
 featured-alt: "Amy Chelsea Stacie Dee"

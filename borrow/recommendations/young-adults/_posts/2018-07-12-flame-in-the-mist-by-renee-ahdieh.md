@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Flame in the Mist by Renée Ahdieh"
 date: 2018-07-12
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Flame in the Mist</cite> is a completely immersive, diverse and great read."
 featured-image: /images/featured/featured-flame-in-the-mist.jpg
 featured-alt: "Flame in the Mist"

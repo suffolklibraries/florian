@@ -3,7 +3,7 @@ layout: sidebar-right
 title: eLibrary picks for Mental Health Awareness Week 2019
 date: 2019-05-13
 author: lisa-brennan
-category: health-lists
+category: health
 excerpt: "Mental Health Awareness Week runs from 13 - 19 May 2019. We've picked out some top eBooks, eAudiobooks and digital music to mark the occasion."
 featured-image: /images/featured/featured-elibrary-mental-health-awareness-2019.jpg
 featured-alt: "Solitude, The Happiness Project, Hurry Up and Meditate"

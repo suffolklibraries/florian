@@ -3,12 +3,12 @@ layout: sidebar-right
 title: "Recommended new eAudiobooks #13"
 date: 2019-12-27
 author: sophie-green
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "Listen to top titles from Lisa Jewell, Bernadine Evaristo, Robert MacFarlane and more."
 featured-image: /images/featured/featured-eaudiobooks-13.jpg
 featured-alt: "Children of Virtue and Vengeance, The Starless Sea"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 ![Children of Virtue and Vengeance, The Starless Sea](/images/featured/featured-eaudiobooks-13.jpg)

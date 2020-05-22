@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Jinxed by Amy McCulloch"
 date: 2018-11-13
 author: amy-rush-da-silva
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Jinxed</cite> is an addictive, fast-paced, exciting read that brings women in STEM to the forefront."
 featured-image: /images/featured/featured-jinxed.jpg
 featured-alt: "Jinxed"

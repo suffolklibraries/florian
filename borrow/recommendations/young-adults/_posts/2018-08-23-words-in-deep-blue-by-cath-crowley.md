@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Words in Deep Blue by Cath Crowley"
 date: 2018-08-23
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Words in Deep Blue</cite> is an emotive, charming love letter to books and bookish culture."
 featured-image: /images/featured/featured-words-in-deep-blue.jpg
 featured-alt: "Words in Deep Blue"

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Book of Dust Volume 2: The Secret Commonwealth by Philip Pullman"
 date: 2019-11-19
 author: kate-ashton
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>The Secret Commonwealth</cite> is full of drama, tension and well-loved characters Kate enjoyed meeting again.'
 featured-image: /images/featured/featured-the-secret-commonwealth.jpg
 featured-alt: "The Book of Dust Volume 2: The Secret Commonwealth"

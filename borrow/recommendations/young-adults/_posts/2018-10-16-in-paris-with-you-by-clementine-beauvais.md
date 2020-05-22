@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "In Paris With You by Clémentine Beauvais & Sam Taylor (trans.)"
 date: 2018-10-16
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>In Paris With You</cite> is cleverly written and beautifully presented."
 featured-image: /images/featured/featured-in-paris-with-you.jpg
 featured-alt: "In Paris With You"

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Understanding cancer"
 date: 2018-06-05
 author: sophie-green
-category: child-family-problems
+category: health
 excerpt: "Fiction and non-fiction for children of all ages to help explore and explain issues around cancer."
 breadcrumb: childrens-ya-books
 meta-description: "Books to help children understand cancer, chemotherapy and radiotherapy."

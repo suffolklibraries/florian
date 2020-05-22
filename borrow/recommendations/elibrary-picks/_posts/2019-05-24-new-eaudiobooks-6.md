@@ -3,12 +3,12 @@ layout: sidebar-right
 title: "Recommended new eAudiobooks #6"
 date: 2019-05-24
 author: sophie-green
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "Listen to top titles from Elizabeth Macneal, Melanie Golding, Kathy Reichs and more."
 featured-image: /images/featured/featured-eaudiobooks-6.jpg
 featured-alt: "Little Darlings, Rumpole: The Age of Miracles and other stories"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 ![Little Darlings, Rumpole: The Age of Miracles and other stories](/images/featured/featured-eaudiobooks-6.jpg)

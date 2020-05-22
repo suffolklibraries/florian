@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Wonder Woman: Warbringer by Leigh Bardugo"
 date: 2018-01-16
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Wonder Woman: Warbringer</cite> blends comic books and YA, mythology and modernity, and action and characterisation.'
 featured-image: /images/featured/featured-wonder-woman-warbringer.jpg
 featured-alt: "Wonder Woman: Warbringer"

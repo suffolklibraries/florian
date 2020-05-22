@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Behind Closed Doors by Miriam Halahmy"
 date: 2018-10-23
 author: lucy-french
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Behind Closed Doors</cite> is gritty and moving."
 featured-image: /images/featured/featured-behind-closed-doors.jpg
 featured-alt: "Behind Closed Doors"

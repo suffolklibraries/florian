@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Colin Fischer by Ashley Edward Miller & Zack Stentz"
 date: 2018-02-13
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: 'Emma recommends <cite>Colin Fischer</cite> to fans of <cite>The Curious Incident of the Dog in the Night-Time</cite>.'
 featured-image: /images/featured/featured-colin-fischer.jpg
 featured-alt: Colin Fischer

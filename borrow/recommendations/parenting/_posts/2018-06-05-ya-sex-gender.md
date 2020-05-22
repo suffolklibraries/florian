@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Young adults: Sex and gender"
 date: 2018-06-05
 author: sophie-green
-category: child-family-problems
+category: health
 excerpt: "Advice and guidance books on sex education, sexuality and gender identity for young adults and teenagers."
 meta-description: "Books to help young adults and teenagers understand their changing bodies and sexuality. Includes titles on puberty, relationships and safe sex, and LGBTQ (Lesbian, Gay, Bisexual, Transgender and Queer) memoirs and advice."
 breadcrumb: childrens-ya-books

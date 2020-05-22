@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Panic by Lauren Oliver
 date: 2016-12-22
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Panic</cite> meets Lauren Oliver's usual high standards of characterisation and realism."
 featured-image: /images/featured/featured-panic.jpg
 featured-alt: Panic

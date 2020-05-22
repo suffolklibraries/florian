@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Suicide: recommended titles"
 date: 2018-08-20
 author: sarah-lungley
-category: health-lists
+category: health
 excerpt: Hope After Suicide Loss (HOPE) have put together a reading list for children and adults affected by suicide.
 breadcrumb: health
 sidebar: health

@@ -3,12 +3,12 @@ layout: sidebar-right
 title: "Recommended new eAudiobooks #14"
 date: 2020-01-27
 author: sophie-green
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "Listen to top titles from Jonathan Coe, Taylor Jenkins Read, Belinda Bauer and more."
 featured-image: /images/featured/featured-eaudiobooks-14.jpg
 featured-alt: "Middle England, The Antidote"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 ![Middle England, The Antidote](/images/featured/featured-eaudiobooks-14.jpg)

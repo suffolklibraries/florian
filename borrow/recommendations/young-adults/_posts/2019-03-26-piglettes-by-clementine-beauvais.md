@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Piglettes by Clémentine Beauvais"
 date: 2019-03-26
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Piglettes</cite> is funny, uplifting and inspiring."
 featured-image: /images/featured/featured-piglettes.jpg
 featured-alt: "Piglettes"

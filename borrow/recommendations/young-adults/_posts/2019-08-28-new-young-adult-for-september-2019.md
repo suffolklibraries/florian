@@ -3,7 +3,7 @@ layout: sidebar-right
 title: New Young Adult books for September 2019
 date: 2019-08-28
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "New titles from Brian Conaghan, Victoria Schwab, Kiren Millwood Hargrave and more"
 featured-image: /images/featured/featured-young-adult-september-2019.jpg
 featured-alt: "The Deathless Girls, Tunnel of Bones, Pumpkinheads"

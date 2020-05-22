@@ -3,7 +3,7 @@ layout: sidebar-right
 title: New Young Adult books for May 2019
 date: 2019-04-29
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "New titles from Sarah Crossan, Derek Landy, Juno Dawson and more"
 featured-image: /images/featured/featured-young-adult-may-2019.jpg
 featured-alt: "Voyages in the Underworld of Orpheus Black, The Gifted, the Talented and Me, Under the Moon: a Catwoman tale"

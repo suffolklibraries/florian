@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Blackbird by N. D. Gomes"
 date: 2018-03-08
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Blackbird</cite> is tense, well-plotted and addictive."
 featured-image: /images/featured/featured-blackbird.jpg
 featured-alt: "Blackbird"

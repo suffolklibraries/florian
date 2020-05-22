@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Fostering and adoption"
 date: 2018-06-05
 author: sophie-green
-category: child-family-problems
+category: health
 excerpt: "Books to help explain adoption and fostering to children."
 breadcrumb: childrens-ya-books
 meta-description: "Books to help children understand fostering and adoption, including adoption by same-sex parents."

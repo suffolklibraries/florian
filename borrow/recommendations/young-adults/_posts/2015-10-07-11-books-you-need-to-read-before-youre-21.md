@@ -3,7 +3,7 @@ layout: sidebar-right
 title: '11 books you need to read before you&#8217;re 21'
 date: 2015-10-07 08:30:51+00:00
 author: henry-golding
-category: young-adult
+age-range: young-adult
 excerpt: Bury St Edmunds Library and information advisor Henry Golding recommends essential books for young adults to read.
 breadcrumb: young-adult
 ---

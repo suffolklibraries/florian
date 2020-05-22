@@ -3,12 +3,12 @@ layout: sidebar-right
 title: "Recommended new eAudiobooks #10"
 date: 2019-09-20
 author: sophie-green
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "Listen to top titles including <cite>Life of Pi</cite>, <cite>The Salt Path</cite> and <cite>Daisy Jones and the Six</cite>."
 featured-image: /images/featured/featured-eaudiobooks-10.jpg
 featured-alt: "Life of Pi, The Salt Path"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 ![Life of Pi, The Salt Path](/images/featured/featured-eaudiobooks-10.jpg)

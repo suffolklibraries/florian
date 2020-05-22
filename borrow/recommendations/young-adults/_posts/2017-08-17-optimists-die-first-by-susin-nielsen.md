@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Optimists Die First by Susin Nielsen
 date: 2017-08-17
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Optimists Die First</cite> is a romance novel that stands out from the crowd with its heartbreaking and beautiful portrayal of grief.'
 featured-image: /images/featured/featured-optimists-die-first.jpg
 featured-alt: Optimists Die First

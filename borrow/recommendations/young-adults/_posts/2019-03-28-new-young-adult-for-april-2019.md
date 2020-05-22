@@ -3,7 +3,7 @@ layout: sidebar-right
 title: New Young Adult books for April 2019
 date: 2019-03-28
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "New titles from Alex Wheatle, Alice Broadway and Cassandra Clare"
 featured-image: /images/featured/featured-young-adult-april-2019.jpg
 featured-alt: "Scar, The Hand, the Heart and the Eye, How to Make Friends with the Dark"

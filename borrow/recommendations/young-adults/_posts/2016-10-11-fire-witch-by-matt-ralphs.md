@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Fire Witch by Matt Ralphs
 date: 2016-10-11
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: Emily reviews the second book in Matt Ralphs' Fire Girl series.
 breadcrumb: young-adult
 genre: sci-fi-and-fantasy

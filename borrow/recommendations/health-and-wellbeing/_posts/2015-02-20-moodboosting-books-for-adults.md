@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Moodboosting books for adults
 date: 2015-02-20 12:26:36+00:00
 author: sarah-lungley
-category: health-lists
+category: health
 excerpt: Books for adults from our <cite>Moodboosting</cite> collection.
 breadcrumb: health
 sidebar: health

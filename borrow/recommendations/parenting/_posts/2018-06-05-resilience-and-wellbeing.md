@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Resilience and wellbeing"
 date: 2018-06-05
 author: sophie-green
-category: child-family-problems
+category: health
 excerpt: "Books to help children become more resilient, calm, happy and confident in themselves."
 meta-description: "Books to help children become more resilient, calm, happy and confident in themselves, including titles on self-esteem, wellbeing, meditation and mindfulness."
 breadcrumb: childrens-ya-books

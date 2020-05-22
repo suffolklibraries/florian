@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Wind in the Wall by Sally Gardner & Rovina Cai"
 date: 2019-11-26
 author: emma-maguire
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Wind in the Wall</cite> is a charming fairy tale with beautiful illustrations."
 featured-image: /images/featured/featured-the-wind-in-the-wall.jpg
 featured-alt: "The Wind in the Wall"

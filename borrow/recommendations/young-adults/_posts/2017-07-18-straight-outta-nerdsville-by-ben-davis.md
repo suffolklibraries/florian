@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Straight Outta Nerdsville (The Private Blog of Joe Cowley &#x23;4) by Ben Davis
 date: 2017-07-18
 author: kate-ashton
-category: young-adult
+age-range: young-adult
 excerpt: '<cite>Straight Outta Nerdsville</cite> is a funny and entertaining quick read.'
 featured-image: /images/featured/featured-straight-outta-nerdsville.jpg
 featured-alt: Straight Outta Nerdsville

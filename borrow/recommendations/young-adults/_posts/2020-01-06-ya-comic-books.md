@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Feast your eyes on our stunning Young Adult comic books
 date: 2020-01-06
 author: sophie-green
-category: young-adult
+age-range: young-adult
 excerpt: "Check out some of our highly-recommended graphic novels for the young and young-at-heart."
 featured-image: /images/featured/featured-young-adult-comic-books.jpg
 featured-alt: "Sheets, Crush, Deadendia: The Watcher's Test"

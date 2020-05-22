@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Belles by Dhonielle Clayton"
 date: 2018-08-09
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>The Belles</cite> is a phenomenal, dark and twisted destruction of the beauty myth."
 featured-image: /images/featured/featured-the-belles.jpg
 featured-alt: "The Belles"

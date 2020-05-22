@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Thunderhead by Neal Shusterman"
 date: 2018-10-18
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>Thunderhead</cite> is a phenomenal and gripping addition to the Scythe series."
 featured-image: /images/featured/featured-thunderhead.jpg
 featured-alt: "Thunderhead"

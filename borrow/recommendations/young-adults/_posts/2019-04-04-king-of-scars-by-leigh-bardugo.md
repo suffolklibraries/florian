@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "King of Scars by Leigh Bardugo"
 date: 2019-04-04
 author: emily-mitchell
-category: young-adult
+age-range: young-adult
 excerpt: "<cite>King of Scars</cite> features a stunning world and story and well-developed characters with realistic relationships."
 featured-image: /images/featured/featured-king-of-scars.jpg
 featured-alt: "King of Scars"

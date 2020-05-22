@@ -3,12 +3,12 @@ layout: sidebar-right
 title: "Recommended new eBooks for December 2019"
 date: 2019-11-27
 author: lisa-brennan
-category: elibrary-picks
+category: elibrary
 tag: elibrary
 excerpt: "We've listed some of our favourite new eBooks on OverDrive for December to help you choose your next digital read."
 featured-image: /images/featured/featured-elibrary-december-2019.jpg
 featured-alt: "When the Time Comes, A Hut of One's Own, The Dark Isle"
-breadcrumb: elibrary-picks
+breadcrumb: elibrary
 ---
 
 ![When the Time Comes, A Hut of One's Own, The Dark Isle](/images/featured/featured-elibrary-december-2019.jpg)
@@ -17,7 +17,7 @@ We're always adding great titles to our [eLibrary](/elibrary/). We've listed som
 
 See also:
 
-* [Recommended new eAudiobooks &#x23;12](/new-suggestions/elibrary-picks/new-eaudiobooks-12/)
+* [Recommended new eAudiobooks &#x23;12](/new-suggestions/elibrary/new-eaudiobooks-12/)
 * [Freegal music](/elibrary/freegal/)
 * [PressReader newspapers and magazines](/elibrary/press-reader/)
 * [Kanopy classic and indie films and documentaries](/elibrary/kanopy/)
