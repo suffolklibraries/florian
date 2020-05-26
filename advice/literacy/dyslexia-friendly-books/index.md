@@ -1,8 +1,4 @@
 ---
 title: Dyslexia-friendly books for children and young adults
-pagination:
-  enabled: true
-  tag: dyslexia
+excerpt: A reading list specially chosen by our stock team
 ---
-
-[Tag listing dyslexia]

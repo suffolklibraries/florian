@@ -1,8 +1,6 @@
 ---
-layout: sidebar-right
 title: Dyslexia and Irlen syndrome
-breadcrumb: children-parents
-sidebar: children-parents
+excerpt: Find out about dyslexia and Irlen syndrome and how the library can help your children
 ---
 
 See also:

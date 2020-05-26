@@ -1,9 +1,7 @@
 ---
-layout: sidebar-right
 title: 'Printing, copying, scanning &amp; faxing'
 breadcrumb: help
-sidebar: help
-excerpt: All our branches have printing, scanning and photocopying facilities.
+excerpt: All our branches have high quality printing, scanning and photocopying facilities.
 ---
 
 Some of our larger libraries offer A3 printing and photocopying, and fax machines. Visit <a href="/libraries/">your local library's page</a> or contact them before your visit to check which facilities they offer.

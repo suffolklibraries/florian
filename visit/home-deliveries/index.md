@@ -1,10 +1,11 @@
 ---
-title: Home Library Service
+title: Home deliveries
+excerpt: We can bring titles to anybody in Suffolk who finds it difficult to get to one of our libraries, including home care residents.
 ---
 
-**Coronavirus update:** The Home Library Service has been suspended until further notice due to the coronavirus situation.
+**Coronavirus update:** The home deliveries service has been suspended until further notice due to the coronavirus situation.
 
-**<a href="/mobiles-home/home/enquiry/">Complete an enquiry form &rarr;</a>**
+**<a href="/visit/home-deliveries/enquiry/">Complete an enquiry form &rarr;</a>**
 
 If health or mobility problems are preventing you or someone you know getting to a branch or mobile library, volunteers from Suffolk Libraries Home Library Service can help.
 
@@ -14,6 +15,6 @@ Volunteers visit you in your home, discuss which books will interest you (includ
  
 To find out more about this service:
 
-- <a href="/libraries">contact your local library</a>
-- <a href="/mobiles-home/home/enquiry/">complete an enquiry form</a>
+- <a href="/visit/locations-and-times/">contact your local library</a>
+- <a href="/visit/home-deliveries/enquiry/">complete an enquiry form</a>
 - email **hls@suffolklibraries.co.uk**

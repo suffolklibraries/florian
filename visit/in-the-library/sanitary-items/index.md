@@ -1,14 +1,9 @@
 ---
-layout: sidebar-right
-category: health
 title: Pride & Periods
-breadcrumb: health
-sidebar: health
+excerpt: Pick up free sanitary items from 18 libraries with no questions asked.
 ---
 
-![Pride and Periods logo](/images/featured/featured-pride-and-periods.jpg)
-
-18 of our libraries currently provide **free sanitary items with no questions asked**:
+18 of our libraries provide **free sanitary items with no questions asked**:
 
 * [Broomhill Library](/libraries/broomhill-library)
 * [Bungay Library](/libraries/bungay-library/)

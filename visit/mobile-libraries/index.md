@@ -1,6 +1,6 @@
 ---
 title: Mobile libraries
-excerpt: Three mobile libraries covering the whole of Suffolk. Find one near you.
+excerpt: Three mobile library routes covering the whole of Suffolk. Find one near you.
 ---
 
 **The mobile library service is suspended until further notice from the end of Friday 20 March.**

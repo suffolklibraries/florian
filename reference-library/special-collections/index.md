@@ -1,8 +1,5 @@
 ---
-layout: sidebar-right
 title: Special collections
-breadcrumb: information-resources
-sidebar: information-resources
 excerpt: Special local collections.
 ---
 

@@ -1,8 +1,6 @@
 ---
-layout: sidebar-right
 title: Using wifi in libraries
-breadcrumb: help
-sidebar: help
+excerpt: Get free wifi at all our libraries. No card required, just come into a library.
 ---
 All our libraries offer free, unlimited wifi. [Find your local library](/libraries/).
 

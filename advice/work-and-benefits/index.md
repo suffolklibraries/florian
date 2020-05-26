@@ -11,17 +11,17 @@ You can use the library to help claim benefits and get advice on work.
 
 ### Using library computers for Universal Credit and other benefit applications
 
-Computers are available in [all our libraries](/libraries/). You can use them to make benefit applications and apply for jobs.
+Computers are available in [all our libraries](/visit/locations-and-times/). You can use them to make benefit applications and apply for jobs.
 
 There is no charge for using our computers and you don’t need a library card.
 
 Computers in the library can get busy so you can book one in advance. You will need a library card to book a computer:
 
-{% include /c/button-blue.html url="https://suffolk.getnetloan.co.uk/netloan/Home.aspx" text="Book a computer &rarr;" %}
+**[Book a computer &rarr;](https://suffolk.getnetloan.co.uk/netloan/Home.aspx)**
 
 Universal Credit applications take 20-30 minutes for one person and about 1 hour for a couple. You can normally book a computer for 1 hour but ask staff if you think you might need longer.
 
-Check whether you're [ready for Universal Credit](http://ucpp.dwp.gov.uk/universal-credit-preparation/Default.aspx) and read the [list of documents and information you will need](https://www.citizensadvice.org.uk/Global/Public/Advice/Help%20to%20Claim/Applying-for-Universal-Credit.pdf) (PDF) to make sure you have everything you need before you start.
+Check whether you’re [ready for Universal Credit](http://ucpp.dwp.gov.uk/universal-credit-preparation/Default.aspx) and read the [list of documents and information you will need](https://www.citizensadvice.org.uk/Global/Public/Advice/Help%20to%20Claim/Applying-for-Universal-Credit.pdf) (PDF) to make sure you have everything you need before you start.
 
 ### Help completing your application
 

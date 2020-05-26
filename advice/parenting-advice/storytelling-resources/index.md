@@ -1,8 +1,6 @@
 ---
-layout: sidebar-right
 title: Storytime resources
-breadcrumb: children-parents
-sidebar: children-parents
+excerpt: Our physical resources for getting young children reading.
 ---
 
 We hold lend out storysacks, BIG Books and Get Ready for School book bags to make storytime with your young children interactive and even more fun.

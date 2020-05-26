@@ -1,38 +1,30 @@
 ---
-layout: sidebar-right
 title: Getting the best out of the library service
-breadcrumb: children-parents
-sidebar: children-parents
+excerpt: Our guide to using the library service so you can find the right titles for your children.
 ---
 
-<p class="f3">We can help your child's reading and development in lots of different areas. Here's our guide to using the service to get the most out of it.</p>
+We can help your child's reading and development in lots of different areas. Here's our guide to using the service to get the most out of it.
 
 ## Table of contents
 
-<div class="cf">
-	<div class="custom-g-l3 custom-g-nm">
-	<ul>
-		<li><a href="#preschool">Pre-school children</a></li>
-		<li><a href="#primary">Primary school children</a></li>
-	</ul>
-	</div>
-</div>
+- <a href="#preschool">Pre-school children</a>
+- <a href="#primary">Primary school children</a>
 
 <h2 id="preschool">Pre-school children</h2>
 
-All our libraries run activities for children of all ages, including [Bookstart Baby Bounce and Tot Rock sessions](/parents-carers-and-children/bookstart-storytime-resources/).
+All our libraries run activities for children of all ages, see the [What’s on](/whats-on/) section for details.
 
 Babies and toddlers can have their own library card and borrow books for free.
 
 ### What we stock
 
-* chunky board books which are great to feel
-* picture books
-* counting books
-* rhyme books
-* fairy tales
+* Chunky board books which are great to feel
+* Picture books
+* Counting books
+* Rhyme books
+* Fairy tales
 * TV favourites
-* [Storysacks and BIG books](/parents-carers-and-children/bookstart-storytime-resources/)
+* [Storysacks and BIG books](/advice/parenting-advice/storytelling-resources/)
 
 ### Helping your baby or toddler to enjoy reading and prepare for them for school
 
@@ -57,11 +49,11 @@ Your child will often want to borrow the same book several times. Choosing their
 
 <h2 id="primary">Primary school children</h2>
 
-[How our libraries help children with dyslexia and Irlen syndrome](/parents-carers-and-children/dyslexia-irlen/).
+[How our libraries help children with dyslexia and Irlen syndrome](/advice/literacy/dyslexia-irlen/).
 
 Our libraries are family friendly places that offer free internet use and wifi.
 
-All our libraries run [activities for children](/events-activities/children/) of all ages, including craft sessions, story times and author visits. We also run the national [Summer Reading Challenge](/src/) every year.
+All our libraries run [activities for children](/whats-on/) of all ages, including craft sessions, story times and author visits. We also run the national Summer Reading Challenge every year.
 
 Children can have their own library card and borrow books for free.
 
@@ -123,8 +115,8 @@ Children who read for pleasure do better at school. Before you even get to the e
 
 ### Reading ideas and suggestions
 
-* [New in and children's reading ideas for 0-11 year-olds](/parents-carers-and-children/childrens-ya-books/)
-* [Dyslexia-friendly books for children and young adults](/parents-carers-and-children/dyslexia-friendly-books/)
+* [New in and children's reading ideas for 0-11 year-olds](/borrow/recommendations/)
+* [Dyslexia-friendly books for children and young adults](/advice/literacy/dyslexia-friendly-books/)
 * Books by genre for [5 - 8 year olds](http://www.booktrust.org.uk/#/d/books/bookfinder/109) and for [9 - 12 years olds](http://www.booktrust.org.uk/#/d/books/bookfinder/110) from Booktrust
 * Featured books for older children from [Lovereading4kids](http://www.lovereading4kids.co.uk/genre/7/7-plus-readers.html)
 * [The Guardian's](http://www.theguardian.com/childrens-books-site) updates on children's books

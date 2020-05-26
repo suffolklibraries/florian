@@ -1,12 +1,11 @@
 ---
-layout: full-width-narrow
 title: 'Teachers &amp; home educators'
-breadcrumb: home
+excerpt: Resources, information and advice for teaching children at home.
 ---
 
 ## Library cards
 
-<img src="/images/featured/featured-school-visit.jpg" alt="Schoolchildren at the Suffolk Libraries Children's Month launch at Bungay Library" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
+![Schoolchildren at the Suffolk Libraries Children's Month launch at Bungay Library](/images/featured/featured-school-visit.jpg)
 
 We offer two special cards for educators:
 
@@ -23,7 +22,7 @@ We offer two special cards for educators:
 
 ### Find the right book at the right time
 
-<img src="/images/featured/featured-children-holding-books.jpg" alt="Children holding up books that are popular with Suffolk Libraries readers" class="custom-br-50 mw-40 {% include /c/img-float-left.html %}" />
+![Children holding up books that are popular with Suffolk Libraries readers](/images/featured/featured-children-holding-books.jpg)
 
 * [New titles and recommendations for primary school children](/parents-carers-and-children/childrens-ya-books/) and [new titles and recommendations for secondary school children](/new-suggestions/young-adult/) - handpicked new and themed titles from our children's librarian. Includes lists for Empathy Day, Black History Month, Refugee Week and Pride, as well as award longlists and shortlists
 * [Booktrust Bookfinder](https://www.booktrust.org.uk/books-and-reading/bookfinder/) - perfect titles for all ages and interests
@@ -40,11 +39,11 @@ We offer two special cards for educators:
 
 ### Further support
 
-<img src="/images/featured/featured-src-session.jpg" alt="Two boys with books and a Summer Reading Challenge volunteer" class="custom-br-50 mw-40 {% include /c/img-float-right.html %}" />
+![Two boys with books and a Summer Reading Challenge volunteer](images/featured/featured-src-session.jpg)
 
 * [Dyslexia and Irlen syndrome](/parents-carers-and-children/dyslexia-irlen/) - information, advice and booklists for parents of children with dyslexia or visual stress
 * [Help with reading and literacy](/help-with-reading-and-literacy/) - information on local and national organisations and reading materials for struggling readers of all ages and abilities
 * [Bookstart and storytime resources](/parents-carers-and-children/bookstart-storytime-resources/) - includes information about our storysacks and big books - perfect for bringing stories to life for groups of children - as well as our Get Ready for School bags
 * [Parenting advice collection](/parents-carers-and-children/parenting-advice-books-to-help-with-raising-a-family/) - booklists on lots of aspects of growing up, including mental health and wellbeing, aimed at young children and young adults
 * [Haverhill Library](/libraries/haverhill-library/) run a Home Education Book Club for Key Stage 1/2 children twice a month
-* Every year during the summer holidays we run the [Summer Reading Challenge](/src/). The challenge is aimed at children aged 5-11, and we encourage 12+ year-olds to volunteer to help out.
+* Every year during the summer holidays we run the Summer Reading Challenge. The challenge is aimed at children aged 5-11, and we encourage 12+ year-olds to volunteer to help out.
