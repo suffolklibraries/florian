@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Discover your new favourite children's author with the 2020 Branford Boase longlist"
 date: 2020-01-28
 author: alice-violett
-category: child
+age-range: child
 excerpt: "The Branford Boase prize recognises the authors and editors of the year's best debut novels for children. Previous winners and nominees have gone on to do great things, so why not try a new author today?"
 featured-image: /images/featured/featured-branford-boase-2020.jpg
 featured-alt: "The Space We're In, High-Rise Mystery, Nevertell"

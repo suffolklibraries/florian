@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Celebrate BookTrust's Pyjamarama campaign with some of our favourite bedtime stories"
 date: 2019-05-31
 author: sophie-green
-category: child
+age-range: child
 excerpt: "BookTrust's Pyjamarama campaign (3 - 9 June) celebrates the magic of bedtime stories. We've picked out some of our favourites to mark the occasion."
 featured-image: /images/featured/featured-pyjamarama-bedtime-stories.jpg
 featured-alt: "Goodnight Tiger, Shhh!, Tickle My Ears"

@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: non-fiction
 title: Children’s books on the natural world, animals, geography and science for National Non-fiction November
 date: 2016-11-02
 author: alice-violett
-category: child
+age-range: child
 excerpt: "It’s National Non-Fiction November. Why not further your child’s interest in a topic, or introduce them to something new, by borrowing from our range of titles?"
 breadcrumb: children
 ---

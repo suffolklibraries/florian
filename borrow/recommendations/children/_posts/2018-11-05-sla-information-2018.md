@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: non-fiction
 title: "Mark National Non-fiction November with the School Library Association Information Book Award shortlists"
 date: 2018-11-05
 author: sophie-green
-category: child
+age-range: child
 excerpt: "The winner of the School Library Association Information Book Award will be announced this week, as part of National Non-fiction November. We invite 7-16 year-olds to pick up an interesting book from one of the shortlists."
 featured-image: /images/featured/featured-sla-information-2018.jpg
 featured-alt: "Proud to be Deaf, Real-life Mysteries, Escape from Syria"

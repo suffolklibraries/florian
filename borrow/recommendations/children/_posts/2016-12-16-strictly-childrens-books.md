@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Children's books about dancing to mark the end of this year's <cite>Strictly</cite>"
 date: 2016-12-17
 author: jo-dixon
-category: child
+age-range: child
 excerpt: "As this year's series of <cite>Strictly Come Dancing</cite> draws to a close, why not pick up a dancing-themed book for your child?"
 featured-image: /images/featured/featured-childrens-dance.jpg
 featured-alt: If I Were You, Tango Tangle

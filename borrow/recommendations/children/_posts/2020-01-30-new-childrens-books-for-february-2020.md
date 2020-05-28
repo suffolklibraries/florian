@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "New children's books for February 2020"
 date: 2020-01-30
 author: sophie-green
-category: child
+age-range: child
 excerpt: "New titles for fans of unicorns, narwhals and composite words."
 featured-image: /images/featured/featured-childrens-february-2020.jpg
 featured-alt: "Birds, Evernight, Poems Aloud"

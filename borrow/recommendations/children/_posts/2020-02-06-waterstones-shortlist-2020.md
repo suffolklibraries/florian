@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Pick up an excellent book from the 2020 Waterstones Children's Book Prize shortlist"
 date: 2020-02-06
 author: sophie-green
-category: child
+age-range: child
 excerpt: "The Waterstones Children's Book Prize champions the finest new talent in children’s writing and illustration. As ever, their booksellers have picked some brilliant books for children of all ages, so why give them a read?"
 featured-image: /images/featured/featured-waterstones-children-2020.jpg
 featured-alt: "Otto Blotter, Bird Spotter, Our Castle by the Sea, Internment"

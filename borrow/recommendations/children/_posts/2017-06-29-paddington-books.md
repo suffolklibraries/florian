@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Celebrate Michael Bond's life and work with our selection of Paddington books and audiobooks"
 date: 2017-06-29
 author: sophie-green
-category: child
+age-range: child
 excerpt: "Michael Bond has died at the age of 91. Generations of children have loved his Paddington stories, so why not borrow some books or audiobooks to share with your child?"
 featured-image: /images/featured/featured-paddington.jpg
 featured-alt: "A Bear Called Paddington, Paddington Helps Out, Paddington Abroad"

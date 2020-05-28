@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Check out some of our favourite detective stories for children"
 date: 2017-08-14
 author: sophie-green
-category: child
+age-range: child
 excerpt: "Is helping the Animal Agents solve the case for this year's Summer Reading Challenge giving your child a taste for mystery? Or perhaps they're wondering what book to read next to progress with the Challenge? We've made a list of our favourite detective books for children."
 featured-image: /images/featured/featured-detective-stories.jpg
 featured-alt: "Death CLoud, The Guggenheim Mystery, The Mystery of the Clockwork Sparrow"

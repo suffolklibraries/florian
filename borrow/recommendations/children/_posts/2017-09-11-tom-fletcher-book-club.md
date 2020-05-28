@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Find something great to read with the Tom Fletcher Book Club"
 date: 2017-09-11
 author: sophie-green
-category: child
+age-range: child
 excerpt: "WHSmith have launched the Tom Fletcher Book Club to get children excited about reading with brilliant books. Why not reserve or pick up one of their highly-recommended titles?"
 featured-image: /images/featured/featured-tom-fletcher.jpg
 featured-alt: "Beetle Boy, A Place Called Perfect, Sputnik's Guide to Life on Earth"

@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "The House with Chicken Legs by Sophie Anderson & Elisa Paganelli"
 date: 2019-01-08
 author: eleanor-easton
-category: child
+age-range: child
 excerpt: "<cite>The House with Chicken Legs</cite> is a beautiful, whimsical story about love, grief and friendship."
 featured-image: /images/featured/featured-the-house-with-chicken-legs.jpg
 featured-alt: "The House with Chicken Legs"

@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Check out some of our top comic books for children"
 date: 2020-01-06
 author: sophie-green
-category: child
+age-range: child
 excerpt: "Have a look at the exciting stories and amazing artwork to be found in some of our latest comic books. Although these ones are aimed at children, we reckon grown-ups will also enjoy flicking through!"
 featured-image: /images/featured/featured-childrens-comic-books-2.jpg
 featured-alt: "Hilda and the Mountain King, Kai and the Monkey King, Evil Emperor Penguin (Almost) Takes Over the World!"

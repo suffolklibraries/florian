@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Suffolk Libraries Children's Month: authors and illustrators to watch"
 date: 2019-04-01
 author: sophie-green
-category: child
+age-range: child
 excerpt: "April 2019 is Suffolk Libraries Children's Month. We're helping parents and children find new favourites with a list of authors and illustrators we think should be more well-known."
 featured-image: /images/featured/featured-childrens-authors-to-watch.jpg
 featured-alt: "The Steves, Marcy and the Riddle of the Sphinx, Wundersmith: the calling of Morrigan Crow"

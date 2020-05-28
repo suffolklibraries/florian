@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Celebrate National Poetry Day with our favourite comic and curious verse"
 date: 2019-10-03
 author: sophie-green
-category: child
+age-range: child
 excerpt: "Thursday 3 October is National Poetry Day 2019. Why not enjoy some wonderfully silly verse together?"
 featured-image: /images/featured/featured-poetry-day-2019.jpg
 featured-alt: "The Complete Nonsense of Edward Lear, Old Possum's Book of Practical Cats, I am a Poetato"

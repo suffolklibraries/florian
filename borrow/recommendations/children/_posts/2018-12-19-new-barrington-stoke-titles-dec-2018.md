@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Check out the latest super-readable titles from Barrington Stoke"
 date: 2018-12-19
 author: sophie-green
-category: child
+age-range: child
 excerpt: "New titles optimised for children with dyslexia and visual stress from Gillian Cross, Malorie Blackman, Nicola Davies and more."
 featured-image: /images/featured/featured-barrington-stoke-dec-2018.jpg
 featured-alt: "White Feather, Ellie and the Cat, Lark"

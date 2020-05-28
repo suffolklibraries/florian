@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Pick up a quality read from the 2018 Books Are My Bag middle grade shortlist"
 date: 2018-10-05
 author: sophie-green
-category: child
+age-range: child
 excerpt: "The Books Are My Bag Readers Awards are curated by bookshops and voted for by book lovers. Young book fans are invited to vote for their favourite for the chance to win a £100 book token, so why not check out the middle grade shortlist today?"
 featured-image: /images/featured/featured-bamb-middle-grade-2018.jpg
 featured-alt: "Nevermoor, The 1,000-year-old Boy, A Spoonful of Murder"

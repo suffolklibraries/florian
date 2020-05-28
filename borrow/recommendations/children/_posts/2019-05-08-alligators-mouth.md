@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Pick up a great story for 6-8 year-olds from the inaugural Alligator's Mouth Award shortlist"
 date: 2019-05-08
 author: sophie-green
-category: child
+age-range: child
 excerpt: "The new Alligator's Mouth Award celebrates the best short chapter books of the year."
 featured-image: /images/featured/featured-alligators-mouth-2019.jpg
 featured-alt: "Attack of the Snack, Dave Pigeon (Racer!), Nice Work for the Cat and the King"

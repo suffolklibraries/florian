@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: health
 title: "Encourage your children's wellbeing this Libraries Week with some of our favourite uplifting books"
 date: 2018-10-08
 author: sophie-green
-category: child
+age-range: child
 excerpt: "Libraries Week runs from 8 - 13 October 2018. As this year's theme is wellbeing, we've put together a list of children's books that we find especially uplifting and fulfilling."
 featured-image: /images/featured/featured-childrens-wellbeing-2018.jpg
 featured-alt: "The Yoga Ogre, No Matter What, Anna Hibiscus' Song"

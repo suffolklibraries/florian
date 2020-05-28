@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Borrow an exceptional book from the Costa Children's Book Award shortlist"
 date: 2018-11-23
 author: sophie-green
-category: child
+age-range: child
 excerpt: "The shortlist for the 2018 Costa Children's Book Award has been announced. Why not reserve one of these highly-recommended books?"
 featured-image: /images/featured/featured-costa-childrens-2018.jpg
 featured-alt: "The Colour of the Sun, Bone Talk, Orphan Monster Spy, The Skylarks' War"

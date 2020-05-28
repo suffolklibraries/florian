@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Seven picture books to share with your children this Fathers' Day"
 date: 2017-06-16
 author: jo-dixon
-category: child
+age-range: child
 excerpt: "We've picked out some of our favourite children's books about dads for Fathers' Day"
 featured-image: /images/featured/featured-fathers-day-2017.jpg
 featured-alt: "With My Daddy, Your Baby's First Word will be Dada"

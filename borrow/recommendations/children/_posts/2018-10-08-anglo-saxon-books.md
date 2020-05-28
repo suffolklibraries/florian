@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Celebrate the Sutton Hoo roadshow with these fantastic Anglo-Saxon themed books for children"
 date: 2018-10-08
 author: sophie-green
-category: child
+age-range: child
 excerpt: "The Sutton Hoo roadshow is coming to several of our libraries over the next few months. We've picked out some of our favourite Anglo-Saxon themed children's books to mark the occasion."
 featured-image: /images/featured/featured-childrens-anglo-saxon-books.jpg
 featured-alt: "The Buried Crown, Anglo-Saxons, Riddle of the Runes"

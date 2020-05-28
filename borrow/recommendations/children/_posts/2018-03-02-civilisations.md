@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: non-fiction
 title: "Mark the BBC Civilisations Festival with some of our favourite ancient history books for children"
 date: 2018-03-02
 author: sophie-green
-category: child
+age-range: child
 excerpt: "The BBC Civilisations Festival runs from 2 - 11 March 2018. It aims to introduce a new generation to artworks, objects and treasures from the ancient world."
 featured-image: /images/featured/featured-civilisations.jpg
 featured-alt: "Arabian Nights, Norse Myths, Beowulf"

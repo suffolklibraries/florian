@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Celebrate 100 years of women's suffrage with these top children's books"
 date: 2018-06-08
 author: sophie-green
-category: child
+age-range: child
 excerpt: "2018 marks 100 years since some women were given the vote. Mark the occasion with these great children's books about suffragettes and suffragists."
 featured-image: /images/featured/featured-womens-suffrage.jpg
 featured-alt: "Girls for the Vote, My Best Friend the Suffragette, Suffragette: the battle for equality"

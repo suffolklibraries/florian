@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: The Signalman by Charles Dickens"
 date: 2015-10-27
 author: matt-shenton
-category: child
+age-range: child
 excerpt: '"Visited by an unnamed narrator, the signalman spends his days stuck in a dark, dank railway cutting that rarely sees light&hellip;"'
 breadcrumb: children
 ---

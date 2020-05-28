@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Find your new favourite fiction or non-fiction book with the Blue Peter Book Awards longlist"
 date: 2018-10-25
 author: sophie-green
-category: child
+age-range: child
 excerpt: "The longlist for the 2019 Blue Peter Book Awards has been announced. Reserve a nominee today and see what you think."
 featured-image: /images/featured/featured-blue-peter-2019.jpg
 featured-alt: "The Clockwork Crow, Alastair Humphreys' Great Adventurers, Professor Astro Cat's Human Body Odyssey"

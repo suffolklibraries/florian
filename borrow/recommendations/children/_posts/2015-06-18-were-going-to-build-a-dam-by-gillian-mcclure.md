@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: We’re going to build a dam by Gillian McClure
 date: 2015-06-18 13:36:48+00:00
 author: debra-rowe
-category: child
+age-range: child
 excerpt: Debra Rowe, a library and information advisor at Felixstowe Library, reviews <cite>We’re going to build a dam</cite>, a beautifully illustrated picture book for young children.
 breadcrumb: children
 ---

@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Check out a beautifully illustrated book from the 2019 Klaus Flugge Prize longlist"
 date: 2019-02-13
 author: alice-violett
-category: child
+age-range: child
 excerpt: "The Klaus Flugge Prize recognises promising and exciting newcomers to children's picture book illustration."
 featured-image: /images/featured/featured-klaus-flugge-prize-2019.jpg
 featured-alt: "Say Hi to Hedgehogs!, Maybe the Moon, The Story of Tantrum O'Furrily"

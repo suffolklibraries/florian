@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Pick up an excellent book from the 2017 Waterstones Children's Book Prize shortlist"
 date: 2017-02-08
 author: alice-violett
-category: child
+age-range: child
 excerpt: "Optimism and inspiration leap from the pages of this year's nominations for the Waterstones Children's Book Prize."
 featured-image: /images/featured/featured-waterstones-children-2017.jpg
 featured-alt: "There's a Tiger in the Garden, Wolf Hollow, Hour of the Bees"

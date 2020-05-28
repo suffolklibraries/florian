@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Suffolk Libraries recommends... the Squishy McFluff series by Pip Jones & Ella Okstad"
 date: 2020-02-18
 author: imogen-tink
-category: child
+age-range: child
 excerpt: "Library and Information Advisor Imogen Tink recommends the Squishy McFluff short chapter book series, starring an invisible cat who is always up to mischief."
 featured-image: /images/featured/featured-squishy-mcfluff.jpg
 featured-alt: "The Invisible Cat!, Big Country Fair, Seaside Rescue"

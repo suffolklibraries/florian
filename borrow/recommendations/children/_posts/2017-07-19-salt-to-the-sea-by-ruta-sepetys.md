@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Salt to the Sea by Ruta Sepetys"
 date: 2017-07-19
 author: ann-halliday
-category: child
+age-range: child
 excerpt: "<cite>Salt to the Sea</cite>, by Ruta Sepetys, won the 2017 Carnegie Medal. Library and information advisor Ann gives her verdict."
 featured-image: /images/featured/featured-salt-to-the-sea.jpg
 featured-alt: "Salt to the Sea"

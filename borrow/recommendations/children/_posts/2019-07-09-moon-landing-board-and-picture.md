@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Mark the 50th anniversary of the first Moon landings with these stunning board and picture books"
 date: 2019-07-09
 author: sophie-green
-category: child
+age-range: child
 excerpt: "This July, it's 50 years since Neil Armstrong and Buzz Aldrin set foot on the Moon. We've picked out some brilliant books for younger children to mark the occasion."
 featured-image: /images/featured/featured-moon-landing-board-picture.jpg
 featured-alt: "Look Up!, The Darkest Dark, Hello Moon"

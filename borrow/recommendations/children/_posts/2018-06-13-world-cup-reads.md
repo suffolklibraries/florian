@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: non-fiction
 title: "Check out our champion children's football reads for Russia 2018"
 date: 2018-06-13
 author: sophie-green
-category: child
+age-range: child
 excerpt: "Mark the 2018 World Cup with some of our top-of-the-league football-themed fiction and non-fiction for kids."
 featured-image: /images/featured/featured-world-cup-2018.jpg
 featured-alt: "Road to the World Cup: the journey begins here, An Infographic Guide to Football, Kick"

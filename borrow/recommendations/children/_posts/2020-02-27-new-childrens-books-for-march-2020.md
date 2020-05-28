@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "New children’s books for March 2020"
 date: 2020-02-27
 author: sophie-green
-category: child
+age-range: child
 excerpt: "New titles for fans of puppies, Easter bunnies and sea animals."
 featured-image: /images/featured/featured-childrens-march-2020.jpg
 featured-alt: "Song of the Tree, Are you there little puppy?, Obsessive about Octopuses"

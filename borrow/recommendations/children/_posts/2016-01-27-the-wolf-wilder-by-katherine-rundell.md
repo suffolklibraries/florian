@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: The Wolf Wilder by Katherine Rundell
 date: 2016-01-27 09:35:58+00:00
 author: debra-rowe
-category: child
+age-range: child
 excerpt: Debra Rowe, a Library and Information Advisor from Felixstowe Library reviews this wintery novel for young people.
 breadcrumb: children
 ---

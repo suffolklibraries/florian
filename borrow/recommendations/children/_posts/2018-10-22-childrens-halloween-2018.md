@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Celebrate Halloween with these thrilling books for children"
 date: 2018-10-22
 author: sophie-green
-category: child
+age-range: child
 excerpt: "Close the curtains, light the pumpkins, snuggle up and enjoy a satisfyingly scary tale or two."
 featured-image: /images/featured/featured-halloween-children-2018.jpg
 featured-alt: "Mr. Tickle and the Scary Halloween, Mrs Blackhat"

@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: <cite>Buffalo Soldier</cite> by Tanya Landman
 date: 2015-11-02
 author: matt-shenton
-category: child
+age-range: child
 excerpt: '“What kind of a girl steals the clothes from a dead man’s back and runs off to join the army? A desperate one. That’s who.”'
 breadcrumb: children
 ---

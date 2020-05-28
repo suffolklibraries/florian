@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: audiobooks
 title: "Check out an audiobook for the Summer Reading Challenge"
 date: 2018-08-15
 author: sophie-green
-category: child
+age-range: child
 excerpt: "Did you know that audiobooks count towards the Summer Reading Challenge? We've picked out the best new CD and digital audiobooks for children."
 featured-image: /images/featured/featured-childrens-audiobooks-4.jpg
 featured-alt: "What the Ladybird Heard Next, Frank Einstein and the Antimatter Monster"

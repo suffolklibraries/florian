@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "New children's books for January 2020"
 date: 2019-12-30
 author: sophie-green
-category: child
+age-range: child
 excerpt: "New titles for fans of Peppa Pig, Winnie and Wilbur, Cogheart and more."
 featured-image: /images/featured/featured-childrens-january-2020.jpg
 featured-alt: "Shhh! I'm Reading!, Biggest, Fastest, Tallest ...and many more record-breaking extremes, The Ice Bear Miracle"

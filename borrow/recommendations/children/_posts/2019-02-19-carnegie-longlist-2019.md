@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Choose from your next children's or YA read from the prestigious 2019 CILIP Carnegie Medal longlist"
 date: 2019-02-19
 author: alice-violett
-category: child
+age-range: child
 excerpt: "The CILIP Carnegie Medal recognises the best children's and Young Adult titles published each year."
 featured-image: /images/featured/featured-carnegie-2019.jpg
 featured-alt: "Hilary McKay's Fairy Tales, The Land of Neverendings, A Skinful of Shadows"

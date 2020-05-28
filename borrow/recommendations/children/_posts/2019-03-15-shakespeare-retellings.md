@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Check out our top Shakespeare retellings for children for Shakespeare Week"
 date: 2019-03-15
 author: sophie-green
-category: child
+age-range: child
 excerpt: "Shakespeare Week runs from 12 - 18 March. These new versions of classic Shakespeare texts show you're never too young to meet the Bard."
 featured-image: /images/featured/featured-childrens-shakespeare.jpg
 featured-alt: "Shakespeare Stories, Terry Deary's Best Ever Shakespeare Tales, Much Ado About Nothing"

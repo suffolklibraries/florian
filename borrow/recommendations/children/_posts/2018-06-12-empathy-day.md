@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Build your children's empathy skills with the 2018 Read for Empathy Book Collection"
 date: 2018-06-12
 author: sophie-green
-category: child
+age-range: child
 excerpt: "EmpathyLab's annual book collection is specially selected by an expert panel to help children aged 4-11 develop an understanding of different life experiences and issues."
 featured-image: /images/featured/featured-empathy-day-2018.jpg
 featured-alt: "Lulu Gets a Cat, The Wild Robot, Charlie and Me"

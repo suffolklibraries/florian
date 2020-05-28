@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: The Amazing Adventures of Freddie Whitemouse by Elizabeth Jane Howard
 date: 2016-12-15
 author: amanda-king
-category: child
+age-range: child
 excerpt: "A bittersweet novel about Freddie Whitemouse, a young mouse who wishes he was anything but."
 featured-image: /images/featured/featured-freddie-whitemouse.jpg
 featured-alt: The Amazing Adventures of Freddie Whitemouse

@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "2018: A year in children's books"
 date: 2018-12-07
 author: sophie-green
-category: child
+age-range: child
 excerpt: "Stock librarian Sophie Green picks out the best children's books of the year and predicts what will be popular in 2019."
 featured-image: /images/featured/featured-childrens-best-of-2018.jpg
 featured-alt: "Hilda and the Stone Forest, The World of the Whale, Into the Jungle"

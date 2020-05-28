@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Borrow a stunning book from the 2019 CILIP Kate Greenaway Medal longlist"
 date: 2019-02-20
 author: alice-violett
-category: child
+age-range: child
 excerpt: "The Kate Greenaway prize celebrates the best-illustrated children's and Young Adult books from the past year."
 featured-image: /images/featured/featured-kate-greenaway-2019.jpg
 featured-alt: "The Last Wolf, If All the World Were..., Mary's Monster"

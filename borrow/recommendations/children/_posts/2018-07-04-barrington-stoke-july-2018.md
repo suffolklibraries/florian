@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Check out the latest super-readable titles from Barrington Stoke"
 date: 2018-07-04
 author: sophie-green
-category: child
+age-range: child
 excerpt: "Barrington Stoke, who specialise in books for children with dyslexia and visual stress, have published some brilliant titles recently."
 featured-image: /images/featured/featured-barrington-stoke-july-2018.jpg
 featured-alt: "The Knights and the Best Quest, Run Wild, Jason Banks and the Pumpkin of Doom"

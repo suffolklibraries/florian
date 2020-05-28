@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: The magic finger by Roald Dahl
 date: 2016-04-12 12:43:00+00:00
 author: julie-wheeler
-category: child
+age-range: child
 excerpt: Julie Wheeler, library and information advisor at Felixstowe Library, reviews this Roald Dahl morality tale published in 1966, in honour of Felixstowe Library's 50th anniversary.
 breadcrumb: children
 ---

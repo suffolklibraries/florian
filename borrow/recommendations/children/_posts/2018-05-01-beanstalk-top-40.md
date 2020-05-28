@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Check out Beanstalk's Top 40 books for reluctant and struggling readers"
 date: 2018-05-01
 author: alice-violett
-category: child
+age-range: child
 excerpt: "Children's literacy charity Beanstalk have put together a list of the best books to motivate and inspire children to read."
 featured-image: /images/featured/featured-beanstalk-2018.jpg
 featured-alt: "There's a Bear on my Chair, Little Beauty, There's No Such Thing as a Snappenpoop"

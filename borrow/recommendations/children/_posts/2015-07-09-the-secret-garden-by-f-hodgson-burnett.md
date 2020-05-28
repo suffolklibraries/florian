@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: The secret garden by F Hodgson Burnett
 date: 2015-07-09 12:07:43+00:00
 author: anna-hradsky
-category: child
+age-range: child
 excerpt: Library and information advisor Anna Hradsky talks about how her family loves this classic.
 breadcrumb: children
 ---

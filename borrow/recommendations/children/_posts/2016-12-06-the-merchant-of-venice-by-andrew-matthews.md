@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "The Merchant of Venice: A Shakespeare Story by Andrew Matthews and Tony Ross"
 date: 2016-12-06
 author: katie-olivia-mitton
-category: child
+age-range: child
 excerpt: "Young library customers Katie and Olivia really enjoyed this retelling of Shakespeare's Venetian play"
 featured-image: /images/featured/featured-merchant-of-venice.jpg
 featured-alt: The Merchant of Venice

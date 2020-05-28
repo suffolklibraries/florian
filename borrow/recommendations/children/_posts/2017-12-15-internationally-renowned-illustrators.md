@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Borrow a beautiful book with internationally-recognised illustrations"
 date: 2017-12-15
 author: sophie-green
-category: child
+age-range: child
 excerpt: "Several UK books were longlisted for this year's Biennial of Illustrations Bratislava (BIB) award, which recognises the world's best children's book illustrators."
 featured-image: /images/featured/featured-bib-2017.jpg
 featured-alt: "Mummy and Me, Chicken in the Kitchen, Animasaurus"

@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: non-fiction
 title: "Hunt out some of our best search and find books"
 date: 2019-12-13
 author: sophie-green
-category: child
+age-range: child
 excerpt: "Are you finding these super-popular boredom-busters as elusive as the characters they conceal? Reserve them from our catalogue to the reservation shelf."
 featured-image: /images/featured/featured-search-and-find.jpg
 featured-alt: "Where's the Narwhal?, Elmer Search and Find, Where's the Wookiee? 3"

@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Mark St Patrick's Day with a children's book by a talented Irish author or illustrator"
 date: 2017-03-16
 author: jo-dixon
-category: child
+age-range: child
 excerpt: "17 March is St Patrick's Day. Why not mark the occasion by picking up a brilliant children's book by an Irish author or illustrator?"
 featured-image: /images/featured/featured-st-patrick.jpg
 featured-alt: "Shh! We Have a Plan, Moone Boy: The Blunder Years, The Pavee and the Buffer Girl"

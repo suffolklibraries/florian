@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Share a book from the 2019 Sainsbury's Book Awards shortlist"
 date: 2019-08-12
 author: sophie-green
-category: child
+age-range: child
 excerpt: "The Sainsbury's Book Awards encourage families to share a story with the best board, picture, fiction and non-fiction books of the year."
 featured-image: /images/featured/featured-sainsburys-2019.jpg
 featured-alt: "The Same But Different Too, The Umbrella Mouse, The Everyday Journeys of Ordinary Things"

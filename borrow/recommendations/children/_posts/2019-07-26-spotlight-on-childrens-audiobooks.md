@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Shake up your Summer Reading Challenge with our top children's CD and digital audiobooks"
 date: 2019-07-26
 author: sophie-green
-category: child
+age-range: child
 excerpt: "Did you know that audiobooks count towards the Summer Reading Challenge? Whether you've got a reluctant reader or are off on a road trip, we've got something for everyone."
 featured-image: /images/featured/featured-spotlight-on-childrens-audiobooks.jpg
 featured-alt: "Five Children and It, The Light Jar"

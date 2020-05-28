@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: health
 title: "Mark Jumpstart January with our top fruit and veg themed picture books"
 date: 2019-12-19
 author: sophie-green
-category: child
+age-range: child
 excerpt: "Whether your little one loves or hates fruit and vegetables, we guarantee these top picture books will go down a treat."
 featured-image: /images/featured/featured-jumpstart-fruit-and-veg.jpg
 featured-alt: "Orange Pear Apple Bear, Gary's Banana Drama, Colin and Lee: Carrot and Pea"

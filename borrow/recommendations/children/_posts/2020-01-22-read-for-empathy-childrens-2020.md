@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Build your children's empathy with the 2020 Read for Empathy book collection"
 date: 2020-01-22
 author: alice-violett
-category: child
+age-range: child
 excerpt: "EmpathyLab's annual book collection is specially selected by an expert panel to help children aged 4-11 develop an understanding of different life experiences and issues. Empathy Day is on 9 June 2020, so there's plenty of time to give them a read."
 featured-image: /images/featured/featured-empathy-day-primary-2020.jpg
 featured-alt: "I Do Not Like Books Anymore!, Lubna and Pebble, Pie in the Sky"

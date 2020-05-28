@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Borrow some of the best children's books of the last 80 years"
 date: 2017-06-15
 author: alice-violett
-category: child
+age-range: child
 excerpt: "A poll has revealed the UK's favourite children's books from the past 80 years. Why not pick up a story that has stood the test of time for your child?"
 featured-image: /images/featured/featured-favourite-childrens-books.jpg
 featured-alt: "Matilda, The Tiger Who Came To Tea, The Borrowers"

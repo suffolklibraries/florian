@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: 'The Wickford Doom by Chris Priestley &amp; Vladimir Stankovic'
 date: 2015-11-04
 author: matt-shenton
-category: child
+age-range: child
 excerpt: A spooky Suffolk tale set during World War Two that will thrill and chill anyone who reads it.
 breadcrumb: children
 ---

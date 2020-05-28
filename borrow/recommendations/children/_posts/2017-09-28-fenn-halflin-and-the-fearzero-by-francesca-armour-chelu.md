@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Fenn Halflin and the Fearzero by Francesca Armour-Chelu"
 date: 2017-09-28
 author: kate-ashton
-category: child
+age-range: child
 excerpt: "<cite>Fenn Halflin and the Fearzero</cite> is 'a rip-roaring adventure' that will appeal to fans of swashbuckling antics."
 featured-image: /images/featured/featured-fenn-halflin-and-the-fearzero.jpg
 featured-alt: "Fenn Halflin and the Fearzero"

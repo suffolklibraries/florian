@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Mark Halloween with these spooky books for children"
 date: 2017-10-24
 author: sophie-green
-category: child
+age-range: child
 excerpt: "Witches, monsters and skeletons abound in our delightfully creepy Halloween list for under-11s."
 featured-image: /images/featured/featured-halloween-children.jpg
 featured-alt: "A Want to Be in a Scary Story, The Misadventures of Winnie The Witch, How to Get Rid of a Vampire, using ketchup, garlic cloves and a bit of imagination"

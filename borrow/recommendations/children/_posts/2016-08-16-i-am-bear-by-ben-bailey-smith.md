@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "I am Bear by Ben Bailey Smith &amp; Sav Akyuz"
 date: 2016-08-16
 author: kate-ashton
-category: child
+age-range: child
 excerpt: "Kate Ashton reviews a delightful picture book about Bear, who has purple hair"
 breadcrumb: children
 ---

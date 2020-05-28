@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Spend the Christmas holidays with our favourite children's winter reads"
 date: 2019-12-11
 author: sophie-green
-category: child
+age-range: child
 excerpt: "It may be cold and dark out, but don't despair! We've picked out some classic adventure and fantasy titles perfect for nights by the fire with a mug of cocoa."
 featured-image: /images/featured/featured-childrens-winter-reads.jpg
 featured-alt: "Howl's Moving Castle, A Wizard of Earthsea, The Weirdstone of Brisingamen"

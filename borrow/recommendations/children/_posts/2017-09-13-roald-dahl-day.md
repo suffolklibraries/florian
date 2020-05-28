@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Celebrate Roald Dahl Day with our ten most popular titles"
 date: 2017-09-13
 author: sophie-green
-category: child
+age-range: child
 excerpt: "It's Roald Dahl Day. To celebrate, we've put together a list of the top ten most-issued Roald Dahl books in our libraries."
 featured-image: /images/featured/featured-roald-dahl-day.jpg
 featured-alt: "The BFG, The Twits, Fantastic Mr Fox"

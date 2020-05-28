@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: Uncle Montague’s tales of terror by Chris Priestley
 date: 2015-11-24 16:04:51+00:00
 author: Chris Howard
-category: child
+age-range: child
 excerpt: Lakenheath Library manager Chris Howard reviews <cite>Uncle Montague’s tales of terror</cite> by Chris Priestley.
 breadcrumb: children
 ---

@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: George by Alex Gino
 date: 2015-10-26
 author: matt-shenton
-category: child
+age-range: child
 excerpt: A wonderful tale of an American transgender girl who dreams of playing Charlotte the spider in a school production of Charlotte’s Web.
 breadcrumb: children
 ---

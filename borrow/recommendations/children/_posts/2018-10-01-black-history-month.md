@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: non-fiction
 title: "Mark Black History Month with these top children's titles"
 date: 2019-10-01
 author: sophie-green
-category: child
+age-range: child
 excerpt: "October is Black History Month. We've marked the occasion by picking out some of our best titles for children about iconic and inspiring people of colour."
 featured-image: /images/featured/featured-childrens-black-history-month-2019.jpg
 featured-alt: "The Extraordinary Life of Rosa Parks, Black Music Greats, Black History Matters"

@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "There is a Tribe of Kids by Lane Smith"
 date: 2017-07-20
 author: sophie-green
-category: child
+age-range: child
 excerpt: "<cite>There is a Tribe of Kids</cite>, by Lane Smith, won the 2017 Greenaway Medal. Stock librarian Sophie gives her verdict."
 featured-image: /images/featured/featured-there-is-a-tribe-of-kids.jpg
 featured-alt: "There is a Tribe of Kids"

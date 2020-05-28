@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Find your new favourite fiction or non-fiction book with the 2020 Blue Peter Book Awards longlist"
 date: 2019-10-25
 author: alice-violett
-category: child
+age-range: child
 excerpt: "The longlist for the 2019 Blue Peter Book Awards has been announced. Reserve a nominee today and see what you think."
 featured-image: /images/featured/featured-blue-peter-2020.jpg
 featured-alt: "When the Stars Come Out, Bloom, Where the River Runs Gold"

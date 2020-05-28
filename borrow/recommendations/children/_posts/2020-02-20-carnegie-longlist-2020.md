@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Choose from your next children's or YA read from the prestigious 2020 CILIP Carnegie Medal longlist"
 date: 2020-02-20
 author: alice-violett
-category: child
+age-range: child
 excerpt: "The CILIP Carnegie Medal recognises the best children's and Young Adult titles published each year."
 featured-image: /images/featured/featured-carnegie-2020.jpg
 featured-alt: ""

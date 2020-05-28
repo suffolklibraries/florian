@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Check out our top children's titles for Refugee Week"
 date: 2019-06-13
 author: sophie-green
-category: child
+age-range: child
 excerpt: "Refugee Week 2019 runs from 17 - 23 June. These books can help children understand and empathise with the plight of refugees."
 featured-image: /images/featured/featured-childrens-refugee-week-2019.jpg
 featured-alt: "The Suitcase, Inside Out & Back Again, Forced to Flee"

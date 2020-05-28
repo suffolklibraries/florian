@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Check out the latest super-readable titles from Barrington Stoke"
 date: 2020-01-10
 author: sophie-green
-category: child
+age-range: child
 excerpt: "New titles optimised for children with dyslexia and visual stress from Michael Rosen, Gillian Cross, Tanya Landman and more."
 featured-image: /images/featured/featured-barrington-stoke-january-2020.jpg
 featured-alt: "Clever Cakes, Anna Gain and the Same Sixty Seconds, Respect: the Walter Tull story"

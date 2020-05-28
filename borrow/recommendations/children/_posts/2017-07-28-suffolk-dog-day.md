@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Mark Suffolk Dog Day with some of our favourite doggy children's books"
 date: 2017-07-28
 author: alice-violett
-category: child
+age-range: child
 excerpt: "It's Suffolk Dog Day on Sunday 30 July. Why not pick up some dog-related titles to share with your children?"
 featured-image: /images/featured/featured-suffolk-dog-day.jpg
 featured-alt: "Dogs, Odd Dog Out, The Hundred-Mile-An-Hour Dog"

@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: non-fiction
 title: Five fiendishly good Halloween-themed arts and crafts books for children
 date: 2016-10-28
 author: alice-violett
-category: child
+age-range: child
 excerpt: "Want to make some Halloween decorations and food with your children, but looking for inspiration and instruction? Our Halloween crafts titles are here to help."
 breadcrumb: children
 ---

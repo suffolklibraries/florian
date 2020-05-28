@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: Great fictional diaries for children and teens
 date: 2017-01-03
 author: jo-dixon
-category: child
+age-range: child
 excerpt: "Is it your child's new year's resolution to keep a diary? These great fictional journals could inspire them."
 featured-image: /images/featured/featured-diaries.jpg
 featured-alt: "The Diary of Dennis the Menace, Eliza Boom's Diary: my fizz-tastic investigation and I Capture The Castle"

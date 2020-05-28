@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: Sawbones by Catherine Johnson
 date: 2015-08-26 11:59:07+00:00
 author: sophie-green
-category: child
+age-range: child
 excerpt: Woodbridge Library assistant manager Sophie Green reviews <cite>Sawbones</cite>, a historical thriller aimed at young teens.
 breadcrumb: children
 ---

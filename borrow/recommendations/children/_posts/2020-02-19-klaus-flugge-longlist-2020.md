@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Check out a beautifully illustrated book from the 2020 Klaus Flugge Prize longlist"
 date: 2020-02-19
 author: sophie-green
-category: child
+age-range: child
 excerpt: "The Klaus Flugge Prize recognises promising and exciting newcomers to children's picture book illustration."
 featured-image: /images/featured/featured-klaus-flugge-prize-2020.jpg
 featured-alt: "The Mist Monster, Where Is Your Sister?, My Hair"

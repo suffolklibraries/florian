@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Pick up an excellent book from the 2019 Waterstones Children's Book Prize shortlist"
 date: 2019-02-07
 author: sophie-green
-category: child
+age-range: child
 excerpt: "Find your child's next read among these highly-commended illustrated books and junior fiction."
 featured-image: /images/featured/featured-waterstones-children-2019.jpg
 featured-alt: "The Boy Who Grew Dragons, Little Leaders: Bold Women in Black History, A Winter's Promise"

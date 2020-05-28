@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Fenn Halflin and the Seaborn by Francesca Armour-Chelu"
 date: 2017-10-05
 author: kate-ashton
-category: child
+age-range: child
 excerpt: "The conclusion to Fenn Halflin's story is action-packed and evocative."
 featured-image: /images/featured/featured-fenn-halflin-and-the-seaborn.jpg
 featured-alt: "Fenn Halflin and the Seaborn"

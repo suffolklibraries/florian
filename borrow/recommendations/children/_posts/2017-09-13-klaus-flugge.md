@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Check out a beautiful book from the 2017 Klaus Flugge Prize shortlist"
 date: 2017-09-13
 author: sophie-green
-category: child
+age-range: child
 excerpt: "The Klaus Flugge Prize recognises promising and exciting newcomers to children's picture book illustration."
 featured-image: /images/featured/featured-klaus-flugge-prize.jpg
 featured-alt: "The Museum of Me, First Snow, Hannah and Sugar"

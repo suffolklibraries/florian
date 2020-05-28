@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Borrow a beautiful book from the CILIP Kate Greenaway Medal longlist"
 date: 2017-02-16
 author: alice-violett
-category: child
+age-range: child
 excerpt: "The 2017 CILIP Kate Greenaway Medal longlist has been announced. The prize celebrates the best-illustrated children's and Young Adult books from the past year."
 featured-image: /images/featured/featured-kate-greenaway-2017.jpg
 featured-alt: "The Journey, A Beginner's Guide to Bear Spotting, Bob the Artist, Tidy, Rain, There is a Tribe of Kids"

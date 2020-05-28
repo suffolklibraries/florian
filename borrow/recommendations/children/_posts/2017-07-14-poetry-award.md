@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Check out the shortlist for the 2017 CLiPPA"
 date: 2017-07-14
 author: sophie-green
-category: child
+age-range: child
 excerpt: "<cite>Moon Juice</cite>, by Kate Wakeling, has just won the 2017 CLiPPA (Centre for Literacy in Primary Poetry Award). Why not pick up some books from the shortlist?"
 featured-image: /images/featured/featured-clippa-2017.jpg
 featured-alt: "Booked, Moon Juice, Wonderland: Alice in Poetry"

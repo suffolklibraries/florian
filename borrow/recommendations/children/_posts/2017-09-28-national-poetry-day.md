@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Celebrate National Poetry Day 2017 with some of the best children's poetry books of the year"
 date: 2017-09-28
 author: sophie-green
-category: child
+age-range: child
 excerpt: "This year's children’s poetry books include new editions of old favourites, wonderfully illustrated collections, and exciting debuts."
 featured-image: /images/featured/featured-national-poetry-day-2017.jpg
 featured-alt: "How to be a Tiger, The Lost Words, Overheard in a Tower Block"

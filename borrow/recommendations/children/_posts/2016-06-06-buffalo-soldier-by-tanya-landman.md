@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: Buffalo soldier by Tanya Landman
 date: 2016-06-06 10:02:00+00:00
 author: helen-scrivener
-category: child
+age-range: child
 excerpt: Woodbridge Library manager Helen Scrivener review a YA novel set in 19th century USA.
 breadcrumb: children
 ---

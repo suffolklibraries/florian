@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: non-fiction
 title: Inspired by <cite>The Great British Bake Off</cite>? We pick some of the best books to get your family baking
 date: 2016-10-26
 author: alice-violett
-category: child
+age-range: child
 excerpt: "The 2016 series of <cite>The Great British Bake Off</cite> draws to a close tonight. Help your children create their own showstoppers this half-term with these fabulous titles."
 breadcrumb: children
 ---

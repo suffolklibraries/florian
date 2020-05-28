@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Borrow a stunning book from the 2020 CILIP Kate Greenaway Medal longlist"
 date: 2020-02-20
 author: alice-violett
-category: child
+age-range: child
 excerpt: "The Kate Greenaway prize celebrates the best-illustrated children's and Young Adult books from the past year."
 featured-image: /images/featured/featured-kate-greenaway-2020.jpg
 featured-alt: "Quill Soup, Captain Roselie, Fanatical About Frogs"

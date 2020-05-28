@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Check out the latest super-readable titles from Barrington Stoke"
 date: 2018-10-03
 author: sophie-green
-category: child
+age-range: child
 excerpt: "Barrington Stoke, who specialise in books for children with dyslexia and visual stress, have published more brilliant titles recently."
 featured-image: /images/featured/featured-barrington-stoke-oct-2018.jpg
 featured-alt: "The Lost Diary of Sami Star, Armistice Runner, Still Water"

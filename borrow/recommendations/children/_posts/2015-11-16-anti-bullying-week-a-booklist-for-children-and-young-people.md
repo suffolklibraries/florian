@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: non-fiction
 title: 'Anti-Bullying Week: A booklist for children and young people'
 date: 2015-11-16
 author: matt-shenton
-category: child
+age-range: child
 excerpt: We look at a range books to help celebrate kindness during Anti-Bullying Week.
 breadcrumb: children
 ---

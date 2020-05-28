@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Check out a comic book for the Summer Reading Challenge"
 date: 2018-08-07
 author: sophie-green
-category: child
+age-range: child
 excerpt: "Did you know that comic books count towards the Summer Reading Challenge? We've picked out some of our favourites to help you choose."
 featured-image: /images/featured/featured-childrens-comic-books.jpg
 featured-alt: "Hilda and the Troll, Dog Man, El Deafo"

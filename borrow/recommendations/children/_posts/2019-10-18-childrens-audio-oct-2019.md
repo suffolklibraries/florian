@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: audiobooks
 title: "Banish half-term boredom with our latest children's audiobooks"
 date: 2019-10-18
 author: sophie-green
-category: child
+age-range: child
 excerpt: "Brighten up dreary days this half-term with entertaining listens from our favourite authors."
 featured-image: /images/featured/featured-childrens-audio-oct-2019.jpg
 featured-alt: "The Naughtiest Unicorn, Sam Wu is NOT Afraid of Spiders"

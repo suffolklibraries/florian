@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: 'Top 5 children&#8217;s books that subvert gender roles'
 date: 2016-02-02 12:51:39+00:00
 author: jo-dixon
-category: child
+age-range: child
 excerpt: In honour of LGBT month, here are 5 great books that challenge gender stereotypes.
 breadcrumb: children
 ---

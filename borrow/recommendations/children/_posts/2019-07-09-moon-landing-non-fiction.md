@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: non-fiction
 title: "Explore the Milky Way with our top children's non-fiction about space"
 date: 2019-07-09
 author: sophie-green
-category: child
+age-range: child
 excerpt: "Has the 50th anniversary of the first Moon landings sparked your child's curiosity? Why not start the Summer Reading Challenge with some of our favourite factual books about space?"
 featured-image: /images/featured/featured-moon-non-fiction.jpg
 featured-alt: "Counting on Katherine, The Speed of Starlight, A Cat's Guide to the Night Sky"

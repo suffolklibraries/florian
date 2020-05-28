@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Mark International Translation Day with these top translated children's titles"
 date: 2017-09-29
 author: sophie-green
-category: child
+age-range: child
 excerpt: "Saturday 30 September is International Translation Day. We've put together a list of some of our favourite translated books to share with your children."
 featured-image: /images/featured/featured-translation-day-2017.jpg
 featured-alt: "The Rainbow Fish, Mr Leon's Paris, Frog in Love"

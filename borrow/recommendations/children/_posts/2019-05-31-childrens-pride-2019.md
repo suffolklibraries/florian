@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Check out our top children's titles for Pride 2019"
 date: 2019-05-31
 author: sophie-green
-category: child
+age-range: child
 excerpt: "June is Pride Month. We're celebrating with brilliant children's books that promote understanding and acceptance of LGBT+ individuals and families."
 featured-image: /images/featured/featured-childrens-pride-2019.jpg
 featured-alt: "The Great Big Book of Families, Red: a crayon's story, Pride: the story of Harvey Milk and the rainbow flag"

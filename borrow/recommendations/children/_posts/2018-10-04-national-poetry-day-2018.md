@@ -1,9 +1,9 @@
 ---
-layout: sidebar-right
+category: fiction
 title: "Celebrate National Poetry Day with some brilliant verse for children"
 date: 2018-10-04
 author: sophie-green
-category: child
+age-range: child
 excerpt: "4 October 2018 is National Poetry Day. Organisers Forward Arts Foundation have chosen 12 children's poetry books to read aloud and enjoy."
 featured-image: /images/featured/featured-national-poetry-day-2018.jpg
 featured-alt: "Old Toffer's Book of Consequential Dogs, Poetry for a Change, Rebound"
