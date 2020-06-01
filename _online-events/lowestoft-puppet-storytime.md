@@ -4,7 +4,7 @@ day: Sundays
 times: 1400
 location: lowestoft-library
 location-display-name: Lowestoft Library
-category: children
+category: pre-school
 format: live
 link: https://www.facebook.com/lowestoftlibrary
 ---

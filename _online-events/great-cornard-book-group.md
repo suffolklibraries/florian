@@ -4,7 +4,7 @@ day: Thursdays
 times: 1000
 location: great-cornard-library
 location-display-name: Great Cornard Library
-category: group
+category: reading-groups
 link: https://www.facebook.com/groups/348670135277550/
 format: discussion
 ---

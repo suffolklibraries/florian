@@ -5,7 +5,7 @@ day: Tuesdays and Fridays
 times: 1000
 location: newmarket-library
 location-display-name: Newmarket Library
-category: children
+category: pre-school
 link: https://www.facebook.com/NewmarketLibrary/
 format: live
 ---

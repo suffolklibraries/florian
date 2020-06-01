@@ -3,7 +3,7 @@ title: Spring 4-Book Reading Challenge for children
 day: Ongoing
 format: discussion
 location-display-name: Gainsborough Community Library
-category: quiz
+category: ["primary","arts-crafts-games"]
 link: https://www.facebook.com/events/689809808490569/
 ---
 Sign up for our Special Spring 4-Book Reading Challenge!

@@ -1,6 +1,7 @@
 ---
 name: "Oak, Ash & Thorn: Shamanic drumming & tribal voice with Kate, David & Lorna"
 location: woodbridge-library
+category: ["arts-crafts-games","health"]
 location-text: Woodbridge Library
 event-start-date: 2020-05-09
 event-doors-open: 1900

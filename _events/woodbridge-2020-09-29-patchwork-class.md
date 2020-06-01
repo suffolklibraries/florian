@@ -1,6 +1,7 @@
 ---
 name: "Mini patchwork class: Make a coin purse"
 location: woodbridge-library
+category: arts-crafts-games
 location-text: Woodbridge Library
 event-start-date: 2020-09-29
 event-start-time: 1000

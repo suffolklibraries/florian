@@ -1,5 +1,6 @@
 ---
 name: "Unfinished Business: The Fight for Women's Rights display from the British Library Living Knowledge Network"
+category: ["exhibitions","history"]
 location: lowestoft-library
 location-text: Lowestoft Library
 event-start-date: 2020-06-05

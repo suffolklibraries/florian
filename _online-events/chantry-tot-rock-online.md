@@ -5,7 +5,7 @@ day: Thursdays
 times: 1000-1030
 location: chantry-library
 location-display-name: Chantry Library
-category: children
+category: pre-school
 link: https://www.facebook.com/ChantryLibrary/
 format: live
 ---

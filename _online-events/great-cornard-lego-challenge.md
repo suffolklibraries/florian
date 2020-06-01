@@ -5,7 +5,7 @@ description: Take a lego challenge online.
 location: great-cornard-library
 location-display-name: Great Cornard Library
 location-display-url: /libraries/great-cornard-library/
-category: children
+category: ["primary","arts-crafts-games"]
 link: https://www.facebook.com/groups/348670135277550/
 format: live
 ---

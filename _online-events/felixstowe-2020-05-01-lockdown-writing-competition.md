@@ -4,7 +4,7 @@ start-date: 2020-05-01
 end-date: 2020-06-01
 format: discussion
 location-display-name: Felixstowe Library
-category: quiz
+category: arts-crafts-games
 link: https://www.facebook.com/FelixstoweLibrary/
 ---
 

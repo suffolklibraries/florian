@@ -2,7 +2,7 @@
 title: "Lego challenge"
 day: Every day
 location-display-name: Kesgrave Library
-category: children
+category: ["primary","arts-crafts-games"]
 format: discussion
 link: https://www.facebook.com/Kesgravelibrary/
 ---

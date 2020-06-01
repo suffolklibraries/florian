@@ -4,7 +4,7 @@ day: Every day
 location: lowestoft-library
 location-display-name: Lowestoft Library
 format: discussion
-category: group
+category: reading-groups
 link: https://www.facebook.com/groups/lowlibwildbooks
 description: "Lowestoft Library’s book discussion group – all welcome!"
 ---

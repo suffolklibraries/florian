@@ -4,7 +4,7 @@ description: "Join us at one of our regular singing and nursery rhymes sessions.
 day: Fridays
 times: 0930
 location-display-name: Felixstowe Library
-category: children
+category: pre-school
 link: https://www.facebook.com/FelixstoweLibrary/
 format: live
 ---

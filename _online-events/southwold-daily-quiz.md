@@ -6,7 +6,7 @@ times: 1000
 location: southwold-library
 location-display-name: Southwold Library
 location-display-url: /branches/southwold-library/
-category: quiz
+category: arts-crafts-games
 link: https://www.facebook.com/southwoldlibrary/
 format: live
 ---

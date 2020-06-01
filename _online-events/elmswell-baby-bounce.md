@@ -4,6 +4,6 @@ location-display-name: Elmswell Library
 day: Tuesdays
 start-time: 1100
 format: live
-category: children
+category: pre-school
 link: https://www.facebook.com/ElmswellLibrary/
 ---

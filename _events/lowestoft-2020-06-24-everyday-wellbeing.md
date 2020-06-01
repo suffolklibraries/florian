@@ -1,6 +1,7 @@
 ---
 name: "Everyday Wellbeing workshop with Wellbeing Norfolk & Waveney"
 location: lowestoft-library
+category: health
 location-text: Lowestoft Library
 event-start-date: 2020-06-24
 event-start-time: 0950

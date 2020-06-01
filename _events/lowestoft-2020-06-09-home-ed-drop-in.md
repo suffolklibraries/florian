@@ -1,6 +1,7 @@
 ---
 name: "Elective home education drop-in"
 location: lowestoft-library
+category: primary
 location-text: Lowestoft Library
 event-start-date: 2020-06-09
 event-start-time: 1100

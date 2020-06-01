@@ -1,6 +1,7 @@
 ---
 name: "Mini patchwork class: Make a small cushion"
 location: woodbridge-library
+category: arts-crafts-games
 location-text: Woodbridge Library
 event-start-date: 2020-06-30
 event-start-time: 1000

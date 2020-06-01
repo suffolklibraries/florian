@@ -1,6 +1,7 @@
 ---
 name: "Mini patchwork class: Make Origami decorations"
 location: woodbridge-library
+category: arts-crafts-games
 location-text: Woodbridge Library
 event-start-date: 2020-11-24
 event-start-time: 1000

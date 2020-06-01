@@ -1,6 +1,7 @@
 ---
 name: "Mini patchwork class: Make a poppy brooch"
 location: woodbridge-library
+category: arts-crafts-games
 location-text: Woodbridge Library
 event-start-date: 2020-10-27
 event-start-time: 1000

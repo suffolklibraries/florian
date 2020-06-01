@@ -1,5 +1,6 @@
 ---
 name: "Get online: get help and advice using devices and apps from West Suffolk Sight"
+category: ["older","computer-courses"]
 location: brandon-library
 location-text: Brandon Library
 event-start-date: 2020-06-16

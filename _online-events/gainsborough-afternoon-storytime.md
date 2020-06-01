@@ -4,6 +4,6 @@ location-display-name: Gainsborough Community Library
 day: Fridays
 start-time: 1500
 format: live
-category: children
+category: ["pre-school","primary"]
 link: https://www.facebook.com/gainsboroughlibrary/
 ---

@@ -6,7 +6,7 @@ times: 1400
 location: ipswich-county-library
 location-display-name: Ipswich Library
 location-display-url: /branches/ipswich-county-library
-category: quiz
+category: arts-crafts-games
 link: https://www.facebook.com/ipswichcountylibrary/
 format: discussion
 ---
