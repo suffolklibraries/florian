@@ -8,7 +8,7 @@ link: "https://www.facebook.com/Haverhill-Library-Suffolk-202854396546832"
 category: group
 ---
 
-> Miss Jean Brodie is a teacher unlike any other, proud and cultured, enigmatic and freethinking; a romantic, with progressive, sometimes shocking ideas and aspirations for the girls in her charge. At the Marcia Blaine Academy she takes a select group of girls under her wing. Spellbound by Miss Brodie's unconventional teaching, these devoted pupils form the Brodie set. But as the girls enter their teenage years and they become increasingly drawn in by Miss Brodie's personal life, her ambitions for them take a startling and dark turn with devastating consequences.
+Miss Jean Brodie is a teacher unlike any other, proud and cultured, enigmatic and freethinking; a romantic, with progressive, sometimes shocking ideas and aspirations for the girls in her charge. At the Marcia Blaine Academy she takes a select group of girls under her wing. Spellbound by Miss Brodie's unconventional teaching, these devoted pupils form the Brodie set. But as the girls enter their teenage years and they become increasingly drawn in by Miss Brodie's personal life, her ambitions for them take a startling and dark turn with devastating consequences.
 
 This title is available on our [Overdrive](https://suffolklibraries.overdrive.com/media/2303571?cid=1056885) platform.
 
