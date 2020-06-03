@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Dressmaker by Rosalie Ham"
 date: 2019-10-03
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Dressmaker</cite> is well-written, blends humour and sadness, and features lovely and outrageous characters.'
 featured-image: /images/featured/featured-the-dressmaker.jpg
 featured-alt: "The Dressmaker"

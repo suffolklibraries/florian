@@ -8,7 +8,7 @@ excerpt: "<cite>Big Bones</cite> is a lovely, light, feel-good romance."
 featured-image: /images/featured/featured-big-bones.jpg
 featured-alt: "Big Bones"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-big-bones-genre.jpg
 genre-alt: "Big Bones"
 ---

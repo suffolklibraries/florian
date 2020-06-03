@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-turtles-all-the-way-down.jpg
 featured-alt: Turtles All The Way Down
 featured-link-text: "Read library volunteer Emily's review of <cite>Turtles All The Way Down</cite>, by John Green."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-turtles-all-the-way-down-genre.jpg
 genre-alt: Turtles All The Way Down
 ---

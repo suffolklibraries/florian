@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Their Finest Hour and a Half by Lissa Evans"
 date: 2017-10-12
 author: kate-ashton
-category: staff-picks
+category: fiction
 excerpt: '<cite>Their Finest Hour and a Half</cite> is funny, moving, romantic and uplifting, yet realistic about the tragedies of the Second World War.'
 featured-image: /images/featured/featured-their-finest-hour-and-a-half.jpg
 featured-alt: "Their Finest Hour and a Half"

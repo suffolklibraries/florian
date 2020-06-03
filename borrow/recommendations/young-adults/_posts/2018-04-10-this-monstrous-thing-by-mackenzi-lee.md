@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-this-monstrous-thing.jpg
 featured-alt: "This Monstrous Thing"
 featured-link-text: "Read Kate's review of <cite>This Monstrous Thing</cite>, by Mackenzi Lee."
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-this-monstrous-thing-genre.jpg
 genre-alt: "This Monstrous Thing"
 ---

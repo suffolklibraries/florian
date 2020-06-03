@@ -8,7 +8,7 @@ excerpt: "<cite>The Truth About Alice</cite> is a short and punchy burst of bril
 featured-image: /images/featured/featured-the-truth-about-alice.jpg
 featured-alt: "The Truth About Alice"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-the-truth-about-alice-genre.jpg
 genre-alt: "The Truth About Alice"
 ---

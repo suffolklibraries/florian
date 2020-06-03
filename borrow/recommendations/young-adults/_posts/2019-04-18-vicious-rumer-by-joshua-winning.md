@@ -8,7 +8,7 @@ excerpt: "<cite>Vicious Rumer</cite> is dangerous, exhilarating, heart-stopping 
 featured-image: /images/featured/featured-vicious-rumer.jpg
 featured-alt: "Vicious Rumer"
 breadcrumb: young-adult
-genre: crime-and-thriller
+category: fiction
 genre-image: /images/featured/featured-vicious-rumer-genre.jpg
 genre-alt: "Vicious Rumer"
 ---

@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-loneliest-girl-in-the-universe.jpg
 featured-alt: I Am Traitor
 featured-link-text: "Read library volunteer Amelie's review of <cite>The Loneliest Girl in the Universe</cite>, by Lauren James."
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-loneliest-girl-in-the-universe-genre.jpg
 genre-alt: The Loneliest Girl in the Universe
 ---

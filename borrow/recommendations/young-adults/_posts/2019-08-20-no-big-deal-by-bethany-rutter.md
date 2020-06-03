@@ -8,7 +8,7 @@ excerpt: "<cite>No Big Deal</cite> is a relateable and emotional read with an in
 featured-image: /images/featured/featured-no-big-deal.jpg
 featured-alt: "No Big Deal"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-no-big-deal-genre.jpg
 genre-alt: "No Big Deal"
 ---

@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-heartless.jpg
 featured-alt: Heartless
 featured-link-text: "Read Woodbridge Library volunteer Emily's review of <cite>Heartless</cite>, by Marissa Meyer."
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-heartless-genre.jpg
 genre-alt: Heartless
 ---

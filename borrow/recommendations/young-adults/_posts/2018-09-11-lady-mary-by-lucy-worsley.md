@@ -8,7 +8,7 @@ excerpt: "<cite>Lady Mary</cite> is an amazing, dramatic, thrilling book, full o
 featured-image: /images/featured/featured-lady-mary.jpg
 featured-alt: "Lady Mary"
 breadcrumb: young-adult
-genre: historical
+category: fiction
 genre-image: /images/featured/featured-lady-mary-genre.jpg
 genre-alt: "Lady Mary"
 ---

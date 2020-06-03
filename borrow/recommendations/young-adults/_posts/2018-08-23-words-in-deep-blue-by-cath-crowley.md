@@ -8,7 +8,7 @@ excerpt: "<cite>Words in Deep Blue</cite> is an emotive, charming love letter to
 featured-image: /images/featured/featured-words-in-deep-blue.jpg
 featured-alt: "Words in Deep Blue"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-words-in-deep-blue-genre.jpg
 genre-alt: "Words in Deep Blue"
 ---

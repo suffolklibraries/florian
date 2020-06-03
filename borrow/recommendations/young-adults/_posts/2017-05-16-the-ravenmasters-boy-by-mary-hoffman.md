@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-ravenmasters-boy.jpg
 featured-alt: The Ravenmaster's Boy
 featured-link-text: "Read library volunteer Emily's review of <cite>The Ravenmaster's Boy</cite>, by Mary Hoffman."
 breadcrumb: young-adult
-genre: historical
+category: fiction
 genre-image: /images/featured/featured-the-ravenmasters-boy-genre.jpg
 genre-alt: The Ravenmaster's Boy
 ---

@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-sacrifice-box.jpg
 featured-alt: "The Sacrifice Box"
 featured-link-text: "Read library volunteer Emily's review of <cite>The Sacrifice Box</cite> by Martin Stewart."
 breadcrumb: young-adult
-genre: crime-and-thriller
+category: fiction
 genre-image: /images/featured/featured-the-sacrifice-box-genre.jpg
 genre-alt: "The Sacrifice Box"
 ---

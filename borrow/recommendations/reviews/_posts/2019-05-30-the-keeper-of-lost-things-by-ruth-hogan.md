@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Keeper of Lost Things by Ruth Hogan"
 date: 2019-05-30
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Keeper of Lost Things</cite> is a charming and enjoyable, quick and easy read.'
 featured-image: /images/featured/featured-the-keeper-of-lost-things.jpg
 featured-alt: "The Keeper of Lost Things"

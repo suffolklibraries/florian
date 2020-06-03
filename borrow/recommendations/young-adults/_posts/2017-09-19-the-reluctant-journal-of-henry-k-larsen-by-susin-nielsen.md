@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-reluctant-journal-of-henry-k-larse
 featured-alt: The Reluctant Journal of Henry K. Larsen
 featured-link-text: "Read Emma's review of <cite>The Reluctant Journal of Henry K. Larsen</cite>, by Susin Nielsen."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-the-reluctant-journal-of-henry-k-larsen-genre.jpg
 genre-alt: The Reluctant Journal of Henry K. Larsen
 ---

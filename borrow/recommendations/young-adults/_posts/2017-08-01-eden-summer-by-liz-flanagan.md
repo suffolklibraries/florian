@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-eden-summer.jpg
 featured-alt: Eden Summer
 featured-link-text: "Read Ella's review of <cite>Eden Summer</cite>, by Liz Flanagan."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-eden-summer-genre.jpg
 genre-alt: Eden Summer
 ---

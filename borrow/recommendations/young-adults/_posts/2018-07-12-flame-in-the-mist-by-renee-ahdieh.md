@@ -8,7 +8,7 @@ excerpt: "<cite>Flame in the Mist</cite> is a completely immersive, diverse and 
 featured-image: /images/featured/featured-flame-in-the-mist.jpg
 featured-alt: "Flame in the Mist"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-flame-in-the-mist-genre.jpg
 genre-alt: "Flame in the Mist"
 ---

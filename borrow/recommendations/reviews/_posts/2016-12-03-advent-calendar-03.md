@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "<cite>Ten Little Elves</cite>, by Michael Brownlow &amp; Simon Rickerty."
 date: 2016-12-03
 author: dawn-bamford
-category: staff-picks
+category: fiction
 excerpt: "Kedington Library manager Dawn Bamford recommends <cite>Ten Little Elves</cite>, by Michael Brownlow &amp; Simon Rickerty."
 featured-image: /images/featured/featured-ten-little-elves.jpg
 featured-alt: Ten Little Elves

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: The Kind Worth Killing by Peter Swanson
 date: 2015-11-04 12:52:36+00:00
 author: amanda-king
-category: staff-picks
+category: fiction
 excerpt: Bungay Library manager Amanda King reviews a compelling thriller.
 breadcrumb: staff-picks
 genre: crime-and-thriller

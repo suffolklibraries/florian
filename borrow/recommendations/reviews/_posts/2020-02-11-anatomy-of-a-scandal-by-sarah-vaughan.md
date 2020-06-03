@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Anatomy of a Scandal by Sarah Vaughan"
 date: 2020-02-11
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: '<cite>Anatomy of a Scandal</cite> is a topical, thought-provoking page-turner with well-rounded, sympathetic characters.'
 featured-image: /images/featured/featured-anatomy-of-a-scandal.jpg
 featured-alt: "Anatomy of a Scandal"

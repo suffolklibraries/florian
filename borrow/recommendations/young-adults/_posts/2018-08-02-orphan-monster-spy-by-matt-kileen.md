@@ -8,7 +8,7 @@ excerpt: "<cite>Orphan Monster Spy</cite> is a gripping, fast-paced novel with a
 featured-image: /images/featured/featured-orphan-monster-spy.jpg
 featured-alt: "Orphan Monster Spy"
 breadcrumb: young-adult
-genre: historical
+category: fiction
 genre-image: /images/featured/featured-orphan-monster-spy-genre.jpg
 genre-alt: "Orphan Monster Spy"
 ---

@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-everless.jpg
 featured-alt: "Everless"
 featured-link-text: "Read library volunteer Emily's review of <cite>Everless</cite> by Sara Holland."
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-everless-genre.jpg
 genre-alt: "Everless"
 ---

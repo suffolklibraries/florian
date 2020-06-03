@@ -8,7 +8,7 @@ excerpt: "<cite>Leah on the Offbeat</cite> covers high school, college, sexualit
 featured-image: /images/featured/featured-leah-on-the-offbeat.jpg
 featured-alt: "Leah on the Offbeat"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-leah-on-the-offbeat-genre.jpg
 genre-alt: "Leah on the Offbeat"
 ---

@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-way-back-home.jpg
 featured-alt: The Way Back Home
 featured-link-text: "Read Emma's review of <cite>The Way Back Home</cite>, by Allan Stratton."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-the-way-back-home-genre.jpg
 genre-alt: The Way Back Home
 ---

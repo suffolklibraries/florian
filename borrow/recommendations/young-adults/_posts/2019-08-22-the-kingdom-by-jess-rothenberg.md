@@ -8,7 +8,7 @@ excerpt: "<cite>The Kingdom</cite> is an alluring, captivating read that will le
 featured-image: /images/featured/featured-the-kingdom.jpg
 featured-alt: "The Kingdom"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-the-kingdom-genre.jpg
 genre-alt: "The Kingdom"
 ---

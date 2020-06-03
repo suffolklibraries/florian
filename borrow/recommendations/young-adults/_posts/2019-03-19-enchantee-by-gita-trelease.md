@@ -8,7 +8,7 @@ excerpt: "<cite>Enchantée</cite> is a glittering, lush tale of magic and court 
 featured-image: /images/featured/featured-enchantee.jpg
 featured-alt: "Enchantée"
 breadcrumb: young-adult
-genre: historical
+category: fiction
 genre-image: /images/featured/featured-enchantee-genre.jpg
 genre-alt: "Enchantée"
 ---

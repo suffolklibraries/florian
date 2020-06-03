@@ -8,7 +8,7 @@ excerpt: "<cite>Wranglestone</cite> is a gripping tale of mystery and intrigue."
 featured-image: /images/featured/featured-wranglestone.jpg
 featured-alt: "Wranglestone"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-wranglestone-genre.jpg
 genre-alt: "Wranglestone"
 ---

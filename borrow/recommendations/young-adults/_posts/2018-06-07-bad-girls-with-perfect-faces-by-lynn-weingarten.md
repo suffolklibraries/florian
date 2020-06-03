@@ -8,7 +8,7 @@ excerpt: "<cite>Bad Girls With Perfect Faces</cite> is twisted, rather alarming,
 featured-image: /images/featured/featured-bad-girls-with-perfect-faces.jpg
 featured-alt: "Bad Girls with Perfect Faces"
 breadcrumb: young-adult
-genre: crime-and-thriller
+category: fiction
 genre-image: /images/featured/featured-bad-girls-with-perfect-faces-genre.jpg
 genre-alt: "Bad Girls with Perfect Faces"
 ---

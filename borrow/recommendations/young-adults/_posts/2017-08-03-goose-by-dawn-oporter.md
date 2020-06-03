@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-goose.jpg
 featured-alt: Goose
 featured-link-text: "Read Emma's review of <cite>Goose</cite>, by Dawn O'Porter."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-goose-genre.jpg
 genre-alt: Goose
 ---

@@ -8,7 +8,7 @@ excerpt: "<cite>The Deathless Girls</cite> is a beautifully-written, dark and en
 featured-image: /images/featured/featured-the-deathless-girls.jpg
 featured-alt: "The Deathless Girls"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-the-deathless-girls-genre.jpg
 genre-alt: "The Deathless Girls"
 ---

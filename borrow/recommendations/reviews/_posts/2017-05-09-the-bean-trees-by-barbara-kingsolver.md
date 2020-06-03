@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Bean Trees by Barbara Kingsolver"
 date: 2017-05-09
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Bean Trees</cite> is "a jolly good story" which gripped The Borrowers book group.'
 featured-image: /images/featured/featured-the-bean-trees.jpg
 featured-alt: "The Bean Trees"

@@ -8,7 +8,7 @@ excerpt: "<cite>King of Scars</cite> features a stunning world and story and wel
 featured-image: /images/featured/featured-king-of-scars.jpg
 featured-alt: "King of Scars"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-king-of-scars-genre.jpg
 genre-alt: "King of Scars"
 ---

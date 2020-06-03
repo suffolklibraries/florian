@@ -8,7 +8,7 @@ excerpt: '<cite>Meat Market</cite> is an addictive and gritty story of the bruta
 featured-image: /images/featured/featured-meat-market.jpg
 featured-alt: "Meat Market"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-meat-market-genre.jpg
 genre-alt: "Meat Market"
 ---

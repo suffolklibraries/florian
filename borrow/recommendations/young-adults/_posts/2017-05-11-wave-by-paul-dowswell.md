@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-wave.jpg
 featured-alt: Wave
 featured-link-text: "Read Newmarket Library manager Kate's review of <cite>Wave</cite>, by Paul Dowswell."
 breadcrumb: young-adult
-genre: historical
+category: fiction
 genre-image: /images/featured/featured-wave-genre.jpg
 genre-alt: Wave
 ---

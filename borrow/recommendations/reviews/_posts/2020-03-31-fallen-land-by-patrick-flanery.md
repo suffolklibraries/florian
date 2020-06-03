@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Fallen Land by Patrick Flanery"
 date: 2020-03-31
 author: Chantry Journeys reading group
-category: staff-picks
+category: fiction
 excerpt: '<cite>Fallen Land</cite> is a tragic, unforgettable tale.'
 featured-image: /images/featured/featured-fallen-land.jpg
 featured-alt: "Fallen Land"

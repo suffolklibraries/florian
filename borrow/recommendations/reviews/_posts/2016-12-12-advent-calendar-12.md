@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "<cite>Bilbo The Lifeguard Dog: a true story of friendship and heroism</cite>, by Steven Jamieson"
 date: 2016-12-12
 author: natasha-catchpole
-category: staff-picks
+category: fiction
 excerpt: "Bury St Edmunds Library staff member Natasha Catchpole recommends <cite>Bilbo The Lifeguard Dog: a true story of friendship and heroism</cite>, by Steven Jamieson."
 featured-image: /images/featured/featured-bilbo-lifeguard-dog.jpg
 featured-alt: Bilbo The Lifeguard Dog

@@ -8,7 +8,7 @@ excerpt: "<cite>In Paris With You</cite> is cleverly written and beautifully pre
 featured-image: /images/featured/featured-in-paris-with-you.jpg
 featured-alt: "In Paris With You"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-in-paris-with-you-genre.jpg
 genre-alt: "In Paris With You"
 ---

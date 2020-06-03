@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-liars-handbook.jpg
 featured-alt: The Liar's Handbook
 featured-link-text: "Read Newmarket Library manager Kate's review of <cite>The Liar's Handbook</cite>, by Keren David."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-the-liars-handbook-genre.jpg
 genre-alt: The Liar's Handbook
 ---

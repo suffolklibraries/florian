@@ -8,7 +8,7 @@ excerpt: "<cite>Sunflowers in February</cite> is beautiful and moving."
 featured-image: /images/featured/featured-sunflowers-in-february.jpg
 featured-alt: "Sunflowers in February"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-sunflowers-in-february-genre.jpg
 genre-alt: "Sunflowers in February"
 ---

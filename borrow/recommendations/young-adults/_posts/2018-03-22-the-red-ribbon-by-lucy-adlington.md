@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-red-ribbon.jpg
 featured-alt: "The Red Ribbon"
 featured-link-text: "Read library volunteer Emily's review of <cite>The Red Ribbon</cite>, by Lucy Adlington."
 breadcrumb: young-adult
-genre: historical
+category: fiction
 genre-image: /images/featured/featured-the-red-ribbon-genre.jpg
 genre-alt: "The Red Ribbon"
 ---

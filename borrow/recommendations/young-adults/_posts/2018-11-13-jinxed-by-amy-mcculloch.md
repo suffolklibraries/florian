@@ -8,7 +8,7 @@ excerpt: "<cite>Jinxed</cite> is an addictive, fast-paced, exciting read that br
 featured-image: /images/featured/featured-jinxed.jpg
 featured-alt: "Jinxed"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-jinxed-genre.jpg
 genre-alt: "Jinxed"
 ---

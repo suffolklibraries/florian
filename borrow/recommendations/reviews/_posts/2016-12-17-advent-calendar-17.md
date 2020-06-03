@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "<cite>Fresh India: 130 quick, easy and delicious vegetarian recipes for every day</cite>, by Meera Sodha"
 date: 2016-12-17
 author: gayla-rowling
-category: staff-picks
+category: fiction
 excerpt: "Leiston Library manager Gayla Rowling recommends <cite>Fresh India: 130 quick, easy and delicious vegetarian recipes for every day</cite>, by Meera Sodha."
 featured-image: /images/featured/featured-fresh-india.jpg
 featured-alt: Fresh India

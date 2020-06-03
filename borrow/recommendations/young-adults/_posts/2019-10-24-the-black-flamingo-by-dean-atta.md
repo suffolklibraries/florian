@@ -8,7 +8,7 @@ excerpt: "<cite>The Black Flamingo</cite> is a beautifully-written verse novel t
 featured-image: /images/featured/featured-the-black-flamingo.jpg
 featured-alt: "The Black Flamingo"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-the-black-flamingo-genre.jpg
 genre-alt: "The Black Flamingo"
 ---

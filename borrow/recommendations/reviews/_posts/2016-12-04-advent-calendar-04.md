@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "<cite>Elf</cite>"
 date: 2016-12-04
 author: emma-yarrow
-category: staff-picks
+category: fiction
 excerpt: "Elmswell Library manager Emma Yarrow recommends the film <cite>Elf</cite>."
 featured-image: /images/featured/featured-elf.jpg
 featured-alt: Elf

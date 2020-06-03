@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-orbiting-jupiter.jpg
 featured-alt: Orbiting Jupiter
 featured-link-text: "Read Emma's review of <cite>Orbiting Jupiter</cite>, by Gary D. Schmidt."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-orbiting-jupiter-genre.jpg
 genre-alt: Orbiting Jupiter
 ---

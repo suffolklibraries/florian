@@ -8,7 +8,7 @@ excerpt: "<cite>The Surface Breaks</cite> is fierce, awesome and empowering."
 featured-image: /images/featured/featured-the-surface-breaks.jpg
 featured-alt: "The Surface Breaks"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-the-surface-breaks-genre.jpg
 genre-alt: "The Surface Breaks"
 ---

@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-a-world-without-you.jpg
 featured-alt: A World Without You
 featured-link-text: "Read library customer Amelie's review of <cite>A World Without You</cite>, by Beth Revis."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-a-world-without-you-genre.jpg
 genre-alt: A World Without You
 ---

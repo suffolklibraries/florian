@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-amy-chelsea-stacie-dee.jpg
 featured-alt: "Amy Chelsea Stacie Dee"
 featured-link-text: "Read library volunteer Emily's review of <cite>Amy Chelsea Stacie Dee</cite>, by Mary G. Thompson."
 breadcrumb: young-adult
-genre: crime-and-thriller
+category: fiction
 genre-image: /images/featured/featured-amy-chelsea-stacie-dee-genre.jpg
 genre-alt: "Amy Chelsea Stacie Dee"
 ---

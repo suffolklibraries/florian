@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Snap by Belinda Bauer"
 date: 2019-11-26
 author: chantry-journeys
-category: staff-picks
+category: fiction
 excerpt: '<cite>Snap</cite> is a fast-moving, enjoyable read featuring likeable characters and lots of twists.'
 featured-image: /images/featured/featured-snap.jpg
 featured-alt: "Snap"

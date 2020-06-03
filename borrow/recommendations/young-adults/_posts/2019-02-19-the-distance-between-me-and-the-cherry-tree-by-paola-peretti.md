@@ -8,7 +8,7 @@ excerpt: "<cite>The Distance Between Me and the Cherry Tree</cite> is an adorabl
 featured-image: /images/featured/featured-the-distance-between-me-and-the-cherry-tree.jpg
 featured-alt: "The Distance Between Me and the Cherry Tree"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-the-distance-between-me-and-the-cherry-tree-genre.jpg
 genre-alt: "The Distance Between Me and the Cherry Tree"
 ---

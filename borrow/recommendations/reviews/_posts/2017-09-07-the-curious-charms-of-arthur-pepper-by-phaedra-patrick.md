@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Curious Charms of Arthur Pepper by Phaedra Patrick"
 date: 2017-09-07
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: 'A charming and gentle story, <cite>The Curious Charms of Arthur Pepper</cite> makes a good holiday book with the read-on factor.'
 featured-image: /images/featured/featured-the-curious-charms-of-arthur-pepper.jpg
 featured-alt: "The Curious Charms of Arthur Pepper"

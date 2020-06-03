@@ -8,7 +8,7 @@ excerpt: "<cite>The Poet X</cite> is a quick and powerful read that encourages s
 featured-image: /images/featured/featured-the-poet-x.jpg
 featured-alt: "The Poet X"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-the-poet-x-genre.jpg
 genre-alt: "The Poet X"
 ---

@@ -8,7 +8,7 @@ excerpt: "<cite>The Astonishing Colour of After</cite> is an incredible read tha
 featured-image: /images/featured/featured-the-astonishing-colour-of-after.jpg
 featured-alt: "The Astonishing Colour of After"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-the-astonishing-colour-of-after-genre.jpg
 genre-alt: "The Astonishing Colour of After"
 ---

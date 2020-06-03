@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-a-semi-definitive-list-of-worst-nightm
 featured-alt: They Both Die at the End
 featured-link-text: "Read library volunteer Emily's review of <cite>A Semi Definitive List of Worst Nightmares</cite>, by Krystal Sutherland."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-a-semi-definitive-list-of-worst-nightmares-genre.jpg
 genre-alt: A Semi Definitive List of Worst Nightmares
 ---

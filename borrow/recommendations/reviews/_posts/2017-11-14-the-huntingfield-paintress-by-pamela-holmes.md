@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Huntingfield Paintress by Pamela Holmes"
 date: 2017-11-14
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Huntingfield Paintress</cite> is a good story with sympathetic characters, set in nineteenth-century Suffolk.'
 featured-image: /images/featured/featured-the-huntingfield-paintress.jpg
 featured-alt: "The Huntingfield Paintress"

@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-mind-games.jpg
 featured-alt: Mind Games
 featured-link-text: "Read library volunteer Amelie's review of <cite>Mind Games</cite>, by Teri Terry."
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-mind-games-genre.jpg
 genre-alt: Mind Games
 ---

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Mark the centenary of late Suffolk-based author Penelope Fitzgerald's birth by discovering her books"
 date: 2016-12-17
 author: brandon-king
-category: staff-picks
+category: fiction
 excerpt: "17 December marks the centenary of author Penelope Fitzgerald's birth. Why not try her novel <cite>The Bookshop</cite>, inspired by her experiences of living and working in Southwold, or one of her other titles?"
 featured-image: /images/featured/featured-penelope-fitzgerald.jpg
 featured-alt: Penelope Fitzgerald

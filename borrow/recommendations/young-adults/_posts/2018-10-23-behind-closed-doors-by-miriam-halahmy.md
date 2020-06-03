@@ -8,7 +8,7 @@ excerpt: "<cite>Behind Closed Doors</cite> is gritty and moving."
 featured-image: /images/featured/featured-behind-closed-doors.jpg
 featured-alt: "Behind Closed Doors"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-behind-closed-doors-genre.jpg
 genre-alt: "Behind Closed Doors"
 ---

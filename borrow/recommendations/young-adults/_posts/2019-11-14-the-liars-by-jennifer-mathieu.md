@@ -8,7 +8,7 @@ excerpt: "<cite>The Liars</cite> is a brilliant, addictive read full of secrets,
 featured-image: /images/featured/featured-the-liars.jpg
 featured-alt: "The Liars"
 breadcrumb: young-adult
-genre: crime-and-thriller
+category: fiction
 genre-image: /images/featured/featured-the-liars-genre.jpg
 genre-alt: "The Liars"
 ---

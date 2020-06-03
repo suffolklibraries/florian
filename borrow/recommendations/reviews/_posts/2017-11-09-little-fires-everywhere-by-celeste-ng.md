@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Little Fires Everywhere by Celeste Ng"
 date: 2017-11-09
 author: alice-violett
-category: staff-picks
+category: fiction
 excerpt: '<cite>Little Fires Everywhere</cite> features a rich narrative, a compelling, emotionally-involving story, and interesting, sympathetic and complex characters.'
 featured-image: /images/featured/featured-little-fires-everywhere.jpg
 featured-alt: "Little Fires Everywhere"

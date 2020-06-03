@@ -8,7 +8,7 @@ excerpt: "<cite>Landscape with Invisible Hand</cite> will appeal to fans of retr
 featured-image: /images/featured/featured-landscape-with-invisible-hand.jpg
 featured-alt: "Landscape with Invisible Hand"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-landscape-with-invisible-hand-genre.jpg
 genre-alt: "Landscape with Invisible Hand"
 ---

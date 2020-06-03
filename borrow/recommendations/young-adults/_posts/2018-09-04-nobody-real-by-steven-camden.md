@@ -8,7 +8,7 @@ excerpt: "<cite>Nobody Real</cite> deals with growing up, making decisions about
 featured-image: /images/featured/featured-nobody-real.jpg
 featured-alt: "Nobody Real"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-nobody-real-genre.jpg
 genre-alt: "Nobody Real"
 ---

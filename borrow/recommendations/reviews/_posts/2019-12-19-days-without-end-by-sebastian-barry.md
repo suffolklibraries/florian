@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Days Without End by Sebastian Barry"
 date: 2019-12-19
 author: sue-orton
-category: staff-picks
+category: fiction
 excerpt: '<cite>Days Without End</cite> is a truly memorable story of a life spent trying to survive.'
 featured-image: /images/featured/featured-days-without-end.jpg
 featured-alt: "Days Without End"

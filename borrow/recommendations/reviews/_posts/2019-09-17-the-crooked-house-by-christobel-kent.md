@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Crooked House by Christobel Kent"
 date: 2019-09-17
 author: sue-orton
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Crooked House</cite> is a deeply engrossing and hugely enjoyable thriller.'
 featured-image: /images/featured/featured-the-crooked-house.jpg
 featured-alt: "The Crooked House"

@@ -8,7 +8,7 @@ excerpt: "<cite>Whiteout</cite> has everything you could want in a YA horror."
 featured-image: /images/featured/featured-whiteout.jpg
 featured-alt: "Whiteout"
 breadcrumb: young-adult
-genre: crime-and-thriller
+category: fiction
 genre-image: /images/featured/featured-whiteout-genre.jpg
 genre-alt: "Whiteout"
 ---

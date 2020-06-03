@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Muse by Jessie Burton"
 date: 2018-05-15
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Muse</cite> is very interesting read that gives insights into very different historical times and places.'
 featured-image: /images/featured/featured-the-muse.jpg
 featured-alt: "The Muse"

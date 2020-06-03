@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Burial Rites by Hannah Kent
 date: 2017-01-03
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: "The Borrowers book group found <cite>Burial Rites</cite> 'beautifully descriptive', and 'poignant'"
 featured-image: /images/featured/featured-burial-rites.jpg
 featured-alt: Burial Rites

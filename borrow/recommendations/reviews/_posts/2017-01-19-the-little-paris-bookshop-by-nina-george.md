@@ -3,7 +3,7 @@ layout: sidebar-right
 title: The Little Paris Bookshop by Nina George
 date: 2017-01-19
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: "The Borrowers book group find <cite>The Little Paris Bookshop</cite> intense and thought-provoking."
 featured-image: /images/featured/featured-little-paris-bookshop.jpg
 featured-alt: The Little Paris Bookshop

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "This Must Be the Place by Maggie O'Farrell"
 date: 2018-10-09
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: '<cite>This Must Be the Place</cite> features likeable characters and beautiful descriptions.'
 featured-image: /images/featured/featured-this-must-be-the-place.jpg
 featured-alt: "This Must Be the Place"

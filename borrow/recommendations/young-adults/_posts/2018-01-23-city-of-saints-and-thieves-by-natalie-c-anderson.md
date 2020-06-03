@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-city-of-saints-and-thieves.jpg
 featured-alt: "Wonder Woman: Warbringer"
 featured-link-text: "Read library volunteer Emily's review of <cite>City of Saints & Thieves</cite>, by Natalie C. Anderson."
 breadcrumb: young-adult
-genre: crime-and-thriller
+category: fiction
 genre-image: /images/featured/featured-city-of-saints-and-thieves-genre.jpg
 genre-alt: "City of Saints & Thieves"
 ---

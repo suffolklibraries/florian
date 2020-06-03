@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-colin-fischer.jpg
 featured-alt: Colin Fischer
 featured-link-text: "Read Emma's review of <cite>Colin Fischer</cite>, by Ashley Edward Miller & Zack Stentz."
 breadcrumb: young-adult
-genre: crime-and-thriller
+category: fiction
 genre-image: /images/featured/featured-colin-fischer-genre.jpg
 genre-alt: "Colin Fischer"
 ---

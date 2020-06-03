@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-goodbye-days.jpg
 featured-alt: Goodbye Days
 featured-link-text: "Read Woodbridge Library volunteer Emily's review of <cite>Goodbye Days</cite>, by Jeff Zentner."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-goodbye-days-genre.jpg
 genre-alt: Goodbye Days
 ---

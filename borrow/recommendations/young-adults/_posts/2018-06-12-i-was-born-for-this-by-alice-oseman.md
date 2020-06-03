@@ -8,7 +8,7 @@ excerpt: "<cite>I Was Born For This</cite> is a beautifully written, very charac
 featured-image: /images/featured/featured-i-was-born-for-this.jpg
 featured-alt: "I Was Born for This"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-i-was-born-for-this-genre.jpg
 genre-alt: "I Was Born for This"
 ---

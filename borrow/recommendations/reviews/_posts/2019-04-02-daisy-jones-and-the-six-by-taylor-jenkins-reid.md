@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Daisy Jones & The Six by Taylor Jenkins Reid"
 date: 2019-04-02
 author: eleanor-easton
-category: staff-picks
+category: fiction
 excerpt: '<cite>Daisy Jones & The Six</cite> explores emotions and relationships using a cast of believable characters.'
 featured-image: /images/featured/featured-daisy-jones-and-the-six.jpg
 featured-alt: "Daisy Jones & The Six"

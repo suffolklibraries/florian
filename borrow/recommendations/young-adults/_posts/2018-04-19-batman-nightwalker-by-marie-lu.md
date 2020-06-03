@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-batman-nightwalker.jpg
 featured-alt: "Batman: Nightwalker"
 featured-link-text: "Read library volunteer Emily's review of <cite>Batman: Nightwalker</cite> by Marie Lu."
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-batman-nightwalker-genre.jpg
 genre-alt: "Batman: Nightwalker"
 ---

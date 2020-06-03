@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Words in My Hand by Guinevere Glasfurd"
 date: 2018-10-30
 author: chantry-journeys
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Words in My Hand</cite> is convincing and unputdownable, with a moving ending'
 featured-image: /images/featured/featured-the-words-in-my-hand.jpg
 featured-alt: "The Words in My Hand"

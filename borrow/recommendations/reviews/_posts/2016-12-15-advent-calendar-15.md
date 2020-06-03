@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "<cite>A Body in Barcelona</cite>, by Jason Webster"
 date: 2016-12-15
 author: jo-dixon
-category: staff-picks
+category: fiction
 excerpt: "Stock team member Jo Dixon recommends <cite>A Body in Barcelona</cite>, by Jason Webster."
 featured-image: /images/featured/featured-body-in-barcelona.jpg
 featured-alt: A Body in Barcelona

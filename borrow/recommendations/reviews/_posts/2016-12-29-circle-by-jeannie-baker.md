@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Circle by Jeannie Baker
 date: 2016-12-29
 author: jacky-offord
-category: staff-picks
+category: fiction
 excerpt: "<cite>Circle</cite> provides a 'stunning', 'meticulously collaged' and 'seamless' account of the godwit's annual migration."
 featured-image: /images/featured/featured-circle.jpg
 featured-alt: Circle

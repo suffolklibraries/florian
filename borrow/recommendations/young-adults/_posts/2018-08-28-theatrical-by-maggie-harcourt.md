@@ -8,7 +8,7 @@ excerpt: "<cite>Theatrical</cite> is a beautifully written novel about family, l
 featured-image: /images/featured/featured-theatrical.jpg
 featured-alt: "Theatrical"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-theatrical-genre.jpg
 genre-alt: "Theatrical"
 ---

@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-goodbye-perfect.jpg
 featured-alt: "Goodbye, perfect"
 featured-link-text: "Read library volunteer Emily's review of <cite>Goodbye, Perfect</cite> by Sara Barnard."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-goodbye-perfect-genre.jpg
 genre-alt: "Goodbye, Perfect"
 ---

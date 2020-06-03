@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Mrs Hemingway by Naomi Wood
 date: 2016-05-03 08:27:00+00:00
 author: helen-scrivener
-category: staff-picks
+category: fiction
 excerpt: Woodbridge Library Manager Helen Scrivener reviews a book based on Ernest Hemingway's marriages.
 breadcrumb: staff-picks
 genre: historical

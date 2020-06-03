@@ -8,7 +8,7 @@ excerpt: "<cite>All Out</cite> is an enjoyable and imaginative collection of sho
 featured-image: /images/featured/featured-all-out.jpg
 featured-alt: "All Out: the no-longer secret stories of queer teens throughout the ages"
 breadcrumb: young-adult
-genre: historical
+category: fiction
 genre-image: /images/featured/featured-all-out-genre.jpg
 genre-alt: "All Out: the no-longer secret stories of queer teens throughout the ages"
 ---

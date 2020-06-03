@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "<cite>The Last of the Spirits</cite>, by Chris Priestley"
 date: 2016-12-19
 author: chris-howard
-category: staff-picks
+category: fiction
 excerpt: "Lakenheath Library manager Chris Howard recommends <cite>The Last of the Spirits</cite>, by Chris Priestley."
 featured-image: /images/featured/featured-last-of-spirits.jpg
 featured-alt: The Last of the Spirits

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "<cite>The BFG</cite>"
 date: 2016-12-06
 author: kate-bacon
-category: staff-picks
+category: fiction
 excerpt: "Bookstart administrator Kate Bacon recommends the film <cite>The BFG</cite>."
 featured-image: /images/featured/featured-the-bfg.jpg
 featured-alt: The BFG

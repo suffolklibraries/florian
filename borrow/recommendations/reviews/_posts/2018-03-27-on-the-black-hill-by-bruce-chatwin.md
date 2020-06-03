@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "On the Black Hill by Bruce Chatwin"
 date: 2018-03-27
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: '<cite>On the Black Hill</cite> is a slow read, but engaging and thought provoking.'
 featured-image: /images/featured/featured-on-the-black-hill.jpg
 featured-alt: "On the Black Hill"

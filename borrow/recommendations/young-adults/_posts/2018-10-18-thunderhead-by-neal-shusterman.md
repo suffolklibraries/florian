@@ -8,7 +8,7 @@ excerpt: "<cite>Thunderhead</cite> is a phenomenal and gripping addition to the 
 featured-image: /images/featured/featured-thunderhead.jpg
 featured-alt: "Thunderhead"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-thunderhead-genre.jpg
 genre-alt: "Thunderhead"
 ---

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Ross Poldark by Winston Graham
 date: 2017-01-10
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: "The Borrowers book group found <cite>Ross Poldark</cite> well written and steeped in historical context."
 featured-image: /images/featured/featured-ross-poldark-2.jpg
 featured-alt: Ross Poldark

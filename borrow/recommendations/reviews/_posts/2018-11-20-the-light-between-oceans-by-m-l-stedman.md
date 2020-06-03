@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Light Between Oceans by M. L. Stedman"
 date: 2018-11-20
 author: chantry-journeys
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Light Between Oceans</cite> is a moving read with sympathetic characters.'
 featured-image: /images/featured/featured-the-light-between-oceans.jpg
 featured-alt: "The Light Between Oceans"

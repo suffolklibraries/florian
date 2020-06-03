@@ -8,7 +8,7 @@ excerpt: "<cite>Floored</cite> is unique and heartwarming, with distinctive, rea
 featured-image: /images/featured/featured-floored.jpg
 featured-alt: "Floored"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-floored-genre.jpg
 genre-alt: "Floored"
 ---

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Yes no maybe so by Aisha Saeed and Becky Albertalli"
 date: 2020-05-05
 author: rose-gant
-category: staff-picks
+category: fiction
 excerpt: '<cite>Yes no maybe so</cite> is a beautiful story about love, friendship, hope and the importance of fighting for what you believe in. '
 featured-image: /images/featured/featured-yes-no-maybe-so.jpg
 featured-alt: "Yes no maybe so by Aisha Saeed and Becky Albertalli"

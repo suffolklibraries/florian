@@ -8,7 +8,7 @@ excerpt: "<cite>The List of Real Things</cite> is a touching read about life, lo
 featured-image: /images/featured/featured-the-list-of-real-things.jpg
 featured-alt: "The List of Real Things"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-the-list-of-real-things-genre.jpg
 genre-alt: "The List of Real Things"
 ---

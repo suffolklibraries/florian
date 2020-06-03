@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-blackbird.jpg
 featured-alt: "Blackbird"
 featured-link-text: "Read library volunteer Emily's review of <cite>Blackbird</cite>, by N. D. Gomes."
 breadcrumb: young-adult
-genre: crime-and-thriller
+category: fiction
 genre-image: /images/featured/featured-blackbird-genre.jpg
 genre-alt: "Blackbird"
 ---

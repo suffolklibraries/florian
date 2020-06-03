@@ -3,7 +3,7 @@ layout: sidebar-right
 title: The Zig Zag Girl by Elly Griffiths
 date: 2016-12-01
 author: bev-dann
-category: staff-picks
+category: fiction
 excerpt: "Murder mystery <cite>The Zig Zag Girl</cite> offers interesting insights into life on the variety circuit in the 1950s"
 featured-image: /images/featured/featured-zig-zag-girl.jpg
 featured-alt: The Zig Zag Girl

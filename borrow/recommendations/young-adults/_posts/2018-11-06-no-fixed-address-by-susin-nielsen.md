@@ -8,7 +8,7 @@ excerpt: "<cite>No Fixed Address</cite> is a heart-wrenching, cute, wonderful re
 featured-image: /images/featured/featured-no-fixed-address.jpg
 featured-alt: "No Fixed Address"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-no-fixed-address-genre.jpg
 genre-alt: "No Fixed Address"
 ---

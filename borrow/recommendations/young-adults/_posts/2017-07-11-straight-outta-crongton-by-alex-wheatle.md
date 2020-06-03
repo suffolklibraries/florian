@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-straight-outta-crongton.jpg
 featured-alt: Straight Outta Crongton
 featured-link-text: "Read Rachael's review of <cite>Straight Outta Crongton</cite>, by Alex Wheatle."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-straight-outta-crongton-genre.jpg
 genre-alt: Straight Outta Crongton
 ---

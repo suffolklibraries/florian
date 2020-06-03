@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "No Baggage: a minimalist tale of love and wandering by Clara Bensen"
 date: 2017-05-04
 author: natasha-catchpole
-category: staff-picks
+category: fiction
 excerpt: 'Natasha found <cite>No Baggage</cite> a refreshing and lighthearted modern travelogue'
 featured-image: /images/featured/featured-no-baggage.jpg
 featured-alt: "No Baggage: a minimalist tale of love and wandering"

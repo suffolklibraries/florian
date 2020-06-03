@@ -8,7 +8,7 @@ excerpt: "<cite>All the Lonely People</cite> is a brutally real, heart-wrenching
 featured-image: /images/featured/featured-all-the-lonely-people.jpg
 featured-alt: "All the Lonely People"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-all-the-lonely-people-genre.jpg
 genre-alt: "All the Lonely People"
 ---

@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-i-am-traitor.jpg
 featured-alt: I Am Traitor
 featured-link-text: "Read library volunteer Amelie's review of <cite>I Am Traitor</cite>, by Sif Sigfúsdóttir."
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-i-am-traitor-genre.jpg
 genre-alt: I Am Traitor
 ---

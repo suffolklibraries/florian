@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "<cite>Elizabeth Is Missing</cite>, by Emma Healey"
 date: 2016-12-18
 author: audrey-woodley
-category: staff-picks
+category: fiction
 excerpt: "Haverhill Library library and information advisor Audrey Woodley recommends <cite>Elizabeth Is Missing</cite>, by Emma Healey."
 featured-image: /images/featured/featured-elizabeth-is-missing.jpg
 featured-alt: Elizabeth Is Missing

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Less Than Angels by Barbara Pym"
 date: 2017-07-27
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: '<cite>Less Than Angels</cite> is very well-written and features astute observations and laugh-out-loud humour'
 featured-image: /images/featured/featured-less-than-angels.jpg
 featured-alt: "Less Than Angels"

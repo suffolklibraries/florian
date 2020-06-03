@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Paying Guests by Sarah Waters"
 date: 2017-04-13
 author: chantry-journeys
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Paying Guests</cite> is a "ripping yarn" with a likeable main character.'
 featured-image: /images/featured/featured-the-paying-guests.jpg
 featured-alt: "The Paying Guests"

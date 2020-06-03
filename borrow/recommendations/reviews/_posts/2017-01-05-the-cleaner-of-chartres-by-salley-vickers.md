@@ -3,7 +3,7 @@ layout: sidebar-right
 title: The Cleaner of Chartres by Salley Vickers
 date: 2017-01-05
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: "The Borrowers book group found <cite>The Cleaner of Chartres</cite> 'a delightful read'"
 featured-image: /images/featured/featured-cleaner-of-chartres.jpg
 featured-alt: The Cleaner of Chartres

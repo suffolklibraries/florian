@@ -8,7 +8,7 @@ excerpt: "<cite>Stranger</cite> will keep you hooked right until the last page."
 featured-image: /images/featured/featured-stranger.jpg
 featured-alt: "Stranger"
 breadcrumb: young-adult
-genre: historical
+category: fiction
 genre-image: /images/featured/featured-stranger-genre.jpg
 genre-alt: "Stranger"
 ---

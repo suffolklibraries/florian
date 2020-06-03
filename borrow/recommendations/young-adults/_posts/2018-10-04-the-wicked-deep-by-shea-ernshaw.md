@@ -8,7 +8,7 @@ excerpt: "<cite>The Wicked Deep</cite> is dark, eerie and atmospheric."
 featured-image: /images/featured/featured-the-wicked-deep.jpg
 featured-alt: "The Wicked Deep"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-the-wicked-deep-genre.jpg
 genre-alt: "The Wicked Deep"
 ---

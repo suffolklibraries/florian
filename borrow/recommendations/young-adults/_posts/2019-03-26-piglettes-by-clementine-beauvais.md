@@ -8,7 +8,7 @@ excerpt: "<cite>Piglettes</cite> is funny, uplifting and inspiring."
 featured-image: /images/featured/featured-piglettes.jpg
 featured-alt: "Piglettes"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-piglettes-genre.jpg
 genre-alt: "Piglettes"
 ---

@@ -8,7 +8,7 @@ excerpt: "<cite>With the Fire on High</cite> is a wonderful story with a determi
 featured-image: /images/featured/featured-with-the-fire-on-high.jpg
 featured-alt: "With the Fire on High"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-with-the-fire-on-high-genre.jpg
 genre-alt: "With the Fire on High"
 ---

@@ -8,7 +8,7 @@ excerpt: "<cite>Odd One Out</cite> is a well-written, entertaining, and tender s
 featured-image: /images/featured/featured-odd-one-out.jpg
 featured-alt: "Odd One Out"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-odd-one-out-genre.jpg
 genre-alt: "Odd One Out"
 ---

@@ -8,7 +8,7 @@ excerpt: "<cite>Only Love Can Break Your Heart</cite> is a quick and enjoyable r
 featured-image: /images/featured/featured-only-love-can-break-your-heart.jpg
 featured-alt: "Only Love Can Break Your Heart"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-only-love-can-break-your-heart-genre.jpg
 genre-alt: "Only Love Can Break Your Heart"
 ---

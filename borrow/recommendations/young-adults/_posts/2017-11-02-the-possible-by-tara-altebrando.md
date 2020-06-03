@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-possible.jpg
 featured-alt: The Possible
 featured-link-text: "Read Ann's review of <cite>The Possible</cite>, by Tara Altebrando."
 breadcrumb: young-adult
-genre: crime-and-thriller
+category: fiction
 genre-image: /images/featured/featured-the-possible-genre.jpg
 genre-alt: The Possible
 ---

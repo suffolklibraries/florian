@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Gone: a girl, a violin, a life unstrung by Min Kym"
 date: 2017-05-30
 author: alice-violett
-category: staff-picks
+category: fiction
 excerpt: "<cite>Gone: a girl, a violin, a life unstrung</cite> is a well-rounded autobiography of love and loss, endings and beginnings, sadness and hope."
 featured-image: /images/featured/featured-gone.jpg
 featured-alt: "Gone: a girl, a violin, a life unstrung"

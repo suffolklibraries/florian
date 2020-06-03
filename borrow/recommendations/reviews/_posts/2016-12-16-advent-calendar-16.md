@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "<cite>Mindfulness in Eight Weeks</cite>, by Michael Chaskalson"
 date: 2016-12-16
 author: helen-kerridge
-category: staff-picks
+category: fiction
 excerpt: "Library and information advisor Helen Kerridge recommends <cite>Mindfulness in Eight Weeks</cite>, by Michael Chaskalson."
 featured-image: /images/featured/featured-mindfulness-eight-weeks.jpg
 featured-alt: Mindfulness in Eight Weeks

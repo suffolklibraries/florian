@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-perfect-ahern.jpg
 featured-alt: Perfect
 featured-link-text: "Read Emma's review of <cite>Perfect</cite>, by Cecelia Ahern."
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-perfect-genre.jpg
 genre-alt: Perfect
 ---

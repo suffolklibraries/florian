@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "I am China by Xiaolu Guo"
 date: 2016-08-23 09:00:00+00:00
 author: alexandra-carter
-category: staff-picks
+category: fiction
 excerpt: Alexandra Carter from the Woodbridge Library Readers’ Circle reviews Xialou Guo's novel about a translator.
 breadcrumb: staff-picks
 genre: literary-fiction

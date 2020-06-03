@@ -8,7 +8,7 @@ excerpt: '<cite>Perfectly Preventable Deaths</cite> is thrilling, dark and twist
 featured-image: /images/featured/featured-perfectly-preventable-deaths.jpg
 featured-alt: "Perfectly Preventable Deaths"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-perfectly-preventable-deaths-genre.jpg
 genre-alt: "Perfectly Preventable Deaths"
 ---

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Sea House by Esther Freud"
 date: 2019-12-03
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Sea House</cite> is well-written and enjoyable, with a familiar setting.'
 featured-image: /images/featured/featured-the-sea-house.jpg
 featured-alt: "The Sea House"

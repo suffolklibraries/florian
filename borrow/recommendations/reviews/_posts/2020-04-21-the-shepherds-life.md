@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Shepherd’s Life: A Tale of the Lake District by James Rebanks"
 date: 2020-04-21
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Shepherd’s Life: A Tale of the Lake District</cite> offers an alternative insight into the attractions and life of the Lake District and an honest view of continuing a six hundred year old family tradition of farming.'
 featured-image: /images/featured/featured-tale-of-lake-district.jpg
 featured-alt: "The Shepherd’s Life: A Tale of the Lake District by James Rebanks"

@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-daughter-of-the-burning-city.jpg
 featured-alt: "Daughter of the Burning City"
 featured-link-text: "Read library volunteer Emily's review of <cite>Daughter of the Burning City</cite>, by Amanda Foody."
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-daughter-of-the-burning-city-genre.jpg
 genre-alt: "Daughter of the Burning City"
 ---

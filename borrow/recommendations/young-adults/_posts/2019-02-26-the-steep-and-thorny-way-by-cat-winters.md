@@ -8,7 +8,7 @@ excerpt: "<cite>The Steep & Thorny Way</cite> is packed with emotion and twists.
 featured-image: /images/featured/featured-the-steep-and-thorny-way.jpg
 featured-alt: "The Steep & Thorny Way"
 breadcrumb: young-adult
-genre: historical
+category: fiction
 genre-image: /images/featured/featured-the-steep-and-thorny-way-genre.jpg
 genre-alt: "The Steep & Thorny Way"
 ---

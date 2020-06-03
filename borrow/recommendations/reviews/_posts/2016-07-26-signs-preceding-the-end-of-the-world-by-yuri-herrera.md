@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Signs Preceding the End of the World by Yuri Herrera"
 date: 2016-07-26 09:00:00+00:00
 author: richard-baker
-category: staff-picks
+category: fiction
 excerpt: Library and information advisor at Woodbridge, Richard Baker, reviews one of the Brave New Reads.
 breadcrumb: staff-picks
 genre: literary-fiction

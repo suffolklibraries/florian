@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "<cite>The Tailor of Gloucester</cite>, by Beatrix Potter"
 date: 2016-12-10
 author: charlotte-clark
-category: staff-picks
+category: fiction
 excerpt: "Southwold Library manager Charlotte Clark recommends <cite>The Tailor of Gloucester</cite>, by Beatrix Potter."
 featured-image: /images/featured/featured-tailor-of-gloucester.jpg
 featured-alt: The Tailor of Gloucester

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: The Garden of Evening Mists by Tan Twan Eng
 date: 2017-01-17
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: "The Borrowers book group find <cite>The Garden of Evening Mists</cite> a beautifully written book to be savoured rather than rushed."
 featured-image: /images/featured/featured-garden-evening-mists.jpg
 featured-alt: The Garden of Evening Mists

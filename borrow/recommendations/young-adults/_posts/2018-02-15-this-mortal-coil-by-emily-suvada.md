@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-this-mortal-coil.jpg
 featured-alt: This Mortal Coil
 featured-link-text: "Read Amélie's review of <cite>This Mortal Coil</cite>, by Emily Suvada."
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-this-mortal-coil-genre.jpg
 genre-alt: "This Mortal Coil"
 ---

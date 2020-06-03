@@ -8,7 +8,7 @@ excerpt: "<cite>The Exact Opposite of Okay</cite> introduces teenage readers to 
 featured-image: /images/featured/featured-the-exact-opposite-of-okay.jpg
 featured-alt: "The Exact Opposite of Okay"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-the-exact-opposite-of-okay-genre.jpg
 genre-alt: "The Exact Opposite of Okay"
 ---

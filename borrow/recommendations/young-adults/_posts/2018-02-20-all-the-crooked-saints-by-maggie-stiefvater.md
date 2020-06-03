@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-all-the-crooked-saints.jpg
 featured-alt: "All the Crooked Saints"
 featured-link-text: "Read Kate's review of <cite>All the Crooked Saints</cite>, by Maggie Stiefvater"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-all-the-crooked-saints-genre.jpg
 genre-alt: "All the Crooked Saints"
 ---

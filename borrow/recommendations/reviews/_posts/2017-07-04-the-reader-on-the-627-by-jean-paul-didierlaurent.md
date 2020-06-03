@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Reader on the 6.27 by Jean-Paul Didierlaurent"
 date: 2017-07-04
 author: chantry-journeys
-category: staff-picks
+category: fiction
 excerpt: 'Chantry Journeys book group found <cite>The Reader on the 6.27</cite> a larger-than-life, unique, original and absolutely delightful story.'
 featured-image: /images/featured/featured-the-reader-on-the-627.jpg
 featured-alt: "The Reader on the 6.27"

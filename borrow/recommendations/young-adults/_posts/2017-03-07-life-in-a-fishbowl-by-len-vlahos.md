@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-life-in-a-fishbowl.jpg
 featured-alt: Life in a Fishbowl
 featured-link-text: "Read library volunteer Emily's review of <cite>Life in a Fishbowl</cite>, by Len Vlahos."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-life-in-a-fishbowl-genre.jpg
 genre-alt: Life in a Fishbowl
 ---

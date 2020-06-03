@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-double-digit.jpg
 featured-alt: Double Digit
 featured-link-text: "Read Emma's review of <cite>Double Digit</cite>, by Annabel Monaghan."
 breadcrumb: young-adult
-genre: crime-and-thriller
+category: fiction
 genre-image: /images/featured/featured-double-digit-genre.jpg
 genre-alt: Double Digit
 ---

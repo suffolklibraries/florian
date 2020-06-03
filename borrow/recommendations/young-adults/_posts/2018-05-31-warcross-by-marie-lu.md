@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-warcross.jpg
 featured-alt: "Warcross"
 featured-link-text: "Read library volunteer Emily's review of <cite>Warcross</cite> by Marie Lu."
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-warcross-genre.jpg
 genre-alt: "Warcross"
 ---

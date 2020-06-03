@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "<cite>The Bubble Boy</cite>, by Stewart Foster"
 date: 2016-12-08
 author: krystal-vittles
-category: staff-picks
+category: fiction
 excerpt: "Libraries innovation and development manager Krystal Vittles recommends <cite>The Bubble Boy</cite>, by Stewart Foster."
 featured-image: /images/featured/featured-bubble-boy.jpg
 featured-alt: The Bubble Boy

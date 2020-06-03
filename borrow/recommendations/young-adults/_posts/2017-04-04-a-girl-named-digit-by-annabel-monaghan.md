@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-a-girl-named-digit.jpg
 featured-alt: A Girl Named Digit
 featured-link-text: "Read Emma's review of <cite>A Girl Named Digit</cite>, by Annabel Monaghan."
 breadcrumb: young-adult
-genre: crime-and-thriller
+category: fiction
 genre-image: /images/featured/featured-a-girl-named-digit-genre.jpg
 genre-alt: A Girl Named Digit
 ---

@@ -8,7 +8,7 @@ excerpt: "<cite>The Weight of a Thousand Feathers</cite> is a heart-breaking, be
 featured-image: /images/featured/featured-the-weight-of-a-thousand-feathers.jpg
 featured-alt: "The Weight of a Thousand Feathers"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-the-weight-of-a-thousand-feathers-genre.jpg
 genre-alt: "The Weight of a Thousand Feathers"
 ---

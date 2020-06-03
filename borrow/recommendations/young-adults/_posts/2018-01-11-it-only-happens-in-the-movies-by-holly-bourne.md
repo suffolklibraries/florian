@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-it-only-happens-in-the-movies.jpg
 featured-alt: It Only Happens in the Movies
 featured-link-text: "Read Kate's review of <cite>It Only Happens in the Movies</cite>, by Holly Bourne."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-it-only-happens-in-the-movies-genre.jpg
 genre-alt: It Only Happens in the Movies
 ---

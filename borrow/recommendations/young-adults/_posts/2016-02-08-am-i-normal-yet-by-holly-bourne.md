@@ -6,7 +6,7 @@ author: matt-shenton
 age-range: young-adult
 excerpt: Literacy ambassador Matt Shenton reviews a YA novel addressing OCD.
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-am-i-normal-yet-genre.jpg
 genre-alt: Am I Normal Yet?
 ---

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Force of Nature by Jane Harper"
 date: 2019-05-02
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: '<cite>Force of Nature</cite> is a rattling good tale which really keeps you guessing.'
 featured-image: /images/featured/featured-force-of-nature.jpg
 featured-alt: "Force of Nature"

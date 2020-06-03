@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Just Mercy: a story of justice and redemption by Bryan Stevenson"
 date: 2019-09-10
 author: chantry-journeys
-category: staff-picks
+category: fiction
 excerpt: '<cite>Just Mercy</cite> is well-written, harrowing and unforgettable.'
 featured-image: /images/featured/featured-just-mercy.jpg
 featured-alt: "Just Mercy"

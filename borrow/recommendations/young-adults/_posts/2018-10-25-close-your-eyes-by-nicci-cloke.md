@@ -8,7 +8,7 @@ excerpt: "<cite>Close Your Eyes</cite> is a gripping thriller full of twists and
 featured-image: /images/featured/featured-close-your-eyes.jpg
 featured-alt: "Close Your Eyes"
 breadcrumb: young-adult
-genre: crime-and-thriller
+category: fiction
 genre-image: /images/featured/featured-close-your-eyes-genre.jpg
 genre-alt: "Close Your Eyes"
 ---

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Last Pilot by Benjamin Johncock"
 date: 2016-07-05 14:22:00+00:00
 author: sophie-green
-category: staff-picks
+category: fiction
 excerpt: Woodbridge Library assistant manager Sophie Green reviews one of the Brave New Reads.
 breadcrumb: staff-picks
 ---

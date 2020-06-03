@@ -8,7 +8,7 @@ excerpt: "<cite>D. O. G. S.</cite> is a dark, thrilling addition to what is beco
 featured-image: /images/featured/featured-dogs.jpg
 featured-alt: "D. O. G. S."
 breadcrumb: young-adult
-genre: crime-and-thriller
+category: fiction
 genre-image: /images/featured/featured-dogs-genre.jpg
 genre-alt: "D. O. G. S."
 ---

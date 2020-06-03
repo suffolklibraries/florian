@@ -8,7 +8,7 @@ excerpt: "<cite>Fierce Fragile Hearts</cite> is a heartbreaking and utterly beau
 featured-image: /images/featured/featured-fierce-fragile-hearts.jpg
 featured-alt: "Fierce Fragile Hearts"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-fierce-fragile-hearts-genre.jpg
 genre-alt: "Fierce Fragile Hearts"
 ---

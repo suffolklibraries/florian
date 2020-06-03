@@ -8,7 +8,7 @@ excerpt: "<cite>The Belles</cite> is a phenomenal, dark and twisted destruction 
 featured-image: /images/featured/featured-the-belles.jpg
 featured-alt: "The Belles"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-the-belles-genre.jpg
 genre-alt: "The Belles"
 ---

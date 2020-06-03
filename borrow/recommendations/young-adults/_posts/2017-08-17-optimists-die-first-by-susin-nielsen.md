@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-optimists-die-first.jpg
 featured-alt: Optimists Die First
 featured-link-text: "Read Woodbridge Library volunteer Emily's review of <cite>Optimists Die First</cite>, by Susin Nielsen."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-optimists-die-first-genre.jpg
 genre-alt: Optimists Die First
 ---

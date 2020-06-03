@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Bitter Orange by Claire Fuller"
 date: 2019-12-31
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: '<cite>Bitter Orange</cite> is an off-kilter quick and easy read that prompted lots of discussion.'
 featured-image: /images/featured/featured-bitter-orange.jpg
 featured-alt: "Bitter Orange"

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Station Eleven by Emily St. John Mandel
 date: 2016-01-12 09:24:47+00:00
 author: helen-scrivener
-category: staff-picks
+category: fiction
 excerpt: Woodbridge Library manager Helen Scrivener reviews <cite>Station Eleven</cite> by Emily St. John Mandel.
 breadcrumb: staff-picks
 genre: sci-fi-and-fantasy

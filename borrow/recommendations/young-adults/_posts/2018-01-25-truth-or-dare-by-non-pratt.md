@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-truth-or-dare.jpg
 featured-alt: Truth or Dare
 featured-link-text: "Read Emma's review of <cite>Truth or Dare</cite>, by Non Pratt."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-truth-or-dare-genre.jpg
 genre-alt: "Truth or Dare"
 ---

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Longbourn by Jo Baker"
 date: 2018-04-24
 author: chantry-journeys
-category: staff-picks
+category: fiction
 excerpt: '<cite>Longbourn</cite> is a delightful, entertaining and very clever novel.'
 featured-image: /images/featured/featured-longbourn.jpg
 featured-alt: "Longbourn"

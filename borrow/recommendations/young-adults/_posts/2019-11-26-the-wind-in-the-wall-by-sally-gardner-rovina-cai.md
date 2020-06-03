@@ -8,7 +8,7 @@ excerpt: "<cite>The Wind in the Wall</cite> is a charming fairy tale with beauti
 featured-image: /images/featured/featured-the-wind-in-the-wall.jpg
 featured-alt: "The Wind in the Wall"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-the-wind-in-the-wall-genre.jpg
 genre-alt: "The Wind in the Wall"
 ---

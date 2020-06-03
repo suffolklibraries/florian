@@ -3,7 +3,7 @@ layout: sidebar-right
 title: The Narrow Road to the Deep North by Richard Flanagan
 date: 2015-06-18 13:33:45+00:00
 author: helen-scrivener
-category: staff-picks
+category: fiction
 excerpt: Woodbridge Library manager Helen Scrivener reviews the 2014 Man Booker Prize winner, <cite>The narrow road to the deep north</cite>.
 breadcrumb: staff-picks
 genre: historical

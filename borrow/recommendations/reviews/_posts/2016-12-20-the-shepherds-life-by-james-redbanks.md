@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Shepherd's Life: a tale of the Lake District by James Rebanks"
 date: 2016-12-20
 author: helen-scrivener
-category: staff-picks
+category: fiction
 excerpt: "Helen is impressed by Rebanks' realistic viewpoint and various talents."
 featured-image: /images/featured/featured-the-shepherds-life.jpg
 featured-alt: The Shepherd's Life

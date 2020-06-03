@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-stranger-than-fanfiction.jpg
 featured-alt: Stranger Than Fanfiction
 featured-link-text: "Read Woodbridge Library volunteer Emily's review of <cite>Stranger Than Fanfiction</cite>, by Chris Colfer."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-stranger-than-fanfiction-genre.jpg
 genre-alt: Stranger Than Fanfiction
 ---

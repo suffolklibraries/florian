@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-lines-we-cross.jpg
 featured-alt: The Lines We Cross
 featured-link-text: "Read library volunteer Emily's review of <cite>The Lines We Cross</cite>, by Karen Abdel-Fattah."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-the-lines-we-cross-genre.jpg
 genre-alt: The Lines We Cross
 ---

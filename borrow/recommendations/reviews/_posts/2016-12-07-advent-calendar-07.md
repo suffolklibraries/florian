@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "<cite>The Book Thief</cite>, by Markus Zusak."
 date: 2016-12-07
 author: tanya-collins
-category: staff-picks
+category: fiction
 excerpt: "library and information advisor Tanya Collins recommends <cite>The Book Thief</cite>, by Markus Zusak."
 featured-image: /images/featured/featured-book-thief.jpg
 featured-alt: The Book Thief

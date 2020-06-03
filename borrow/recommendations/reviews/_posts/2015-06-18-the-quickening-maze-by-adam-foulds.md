@@ -3,7 +3,7 @@ layout: sidebar-right
 title: The Quickening Maze by Adam Foulds
 date: 2015-06-18 11:57:27+00:00
 author: helen-scrivener
-category: staff-picks
+category: fiction
 excerpt: Woodbridge Library manager Helen Scrivener reviews <cite>The quickening maze</cite>, a novel about the poets John Clare and Alfred Tennyson.
 breadcrumb: staff-picks
 genre: historical

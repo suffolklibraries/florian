@@ -8,7 +8,7 @@ excerpt: '<cite>Birthday</cite> is an emotionally-charged story of self-discover
 featured-image: /images/featured/featured-birthday.jpg
 featured-alt: "Birthday"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-birthday-genre.jpg
 genre-alt: "Birthday"
 ---

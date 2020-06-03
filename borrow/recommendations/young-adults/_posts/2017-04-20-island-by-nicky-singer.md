@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-island.jpg
 featured-alt: Island
 featured-link-text: "Read Newmarket Library manager Kate's review of <cite>Island</cite>, by Nicky Singer."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-island-genre.jpg
 genre-alt: Island
 ---

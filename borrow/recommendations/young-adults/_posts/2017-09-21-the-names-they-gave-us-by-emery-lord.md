@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-names-they-gave-us.jpg
 featured-alt: The Names They Gave Us
 featured-link-text: "Read Woodbridge Library volunteer Emily's review of <cite>The Names They Gave Us</cite>, by Emery Lord."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-the-names-they-gave-us-genre.jpg
 genre-alt: The Names They Gave Us
 ---

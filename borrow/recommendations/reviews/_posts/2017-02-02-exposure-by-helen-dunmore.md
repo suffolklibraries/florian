@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Exposure by Helen Dunmore
 date: 2017-02-02
 author: chantry-journeys
-category: staff-picks
+category: fiction
 excerpt: "Chantry Journeys book group found that <cite>Exposure</cite> sparked a discussion on changing attitudes to sexuality over the last 50 years."
 featured-image: /images/featured/featured-exposure.jpg
 featured-alt: Exposure

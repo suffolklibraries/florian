@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Raptor: A Journey Through Birds by James MacDonald Lockhart"
 date: 2016-09-12
 author: helen-haynes
-category: staff-picks
+category: fiction
 excerpt: "Helen reviews a hymn to the magnificent buzzards and kestrels of the British Isles."
 breadcrumb: staff-picks
 ---

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Fishermen by Chigozie Obioma"
 date: 2019-05-16
 author: chantry-journeys
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Fishermen</cite> is a touching story of ambition, love, brutality, superstition and revenge that provides insights into an unfamiliar world and a different culture.'
 featured-image: /images/featured/featured-the-fishermen.jpg
 featured-alt: "The Fishermen"

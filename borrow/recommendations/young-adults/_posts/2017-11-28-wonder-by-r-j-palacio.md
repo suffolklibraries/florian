@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-wonder.jpg
 featured-alt: Wonder
 featured-link-text: "Read Emma's review of <cite>Wonder</cite>, by R. J. Palacio."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-wonder-genre.jpg
 genre-alt: Wonder
 ---

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "I Let You Go by Clare Mackintosh"
 date: 2017-05-18
 author: chantry-journeys
-category: staff-picks
+category: fiction
 excerpt: 'Chantry Journeys book group found <cite>I Let You Go</cite> enjoyable and unputdownable.'
 featured-image: /images/featured/featured-i-let-you-go.jpg
 featured-alt: "I Let You Go"

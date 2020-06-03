@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-my-name-is-victoria.jpg
 featured-alt: My Name is Victoria
 featured-link-text: "Read Emma's review of <cite>My Name is Victoria</cite>, by Lucy Worsley."
 breadcrumb: young-adult
-genre: historical
+category: fiction
 genre-image: /images/featured/featured-my-name-is-victoria-genre.jpg
 genre-alt: My Name is Victoria
 ---

@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-wing-jones.jpg
 featured-alt: Wing Jones
 featured-link-text: "Read Emma's review of <cite>Wing Jones</cite>, by Katherine Webber."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-wing-jones-genre.jpg
 genre-alt: Wing Jones
 ---

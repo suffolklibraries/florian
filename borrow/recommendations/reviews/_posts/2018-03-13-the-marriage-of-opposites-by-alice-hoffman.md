@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Marriage of Opposites by Alice Hoffman"
 date: 2018-03-13
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Marriage of Opposites</cite> has a beautiful and interesting setting, strong characters and well-defined relationships.'
 featured-image: /images/featured/featured-marriage-of-opposites.jpg
 featured-alt: "The Marriage of Opposites"

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Quality of Silence by Rosamund Lupton"
 date: 2018-02-01
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Quality of Silence</cite> is thrilling and beautifully expressive.'
 featured-image: /images/featured/featured-quality-of-silence.jpg
 featured-alt: "The Quality of Silence"

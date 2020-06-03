@@ -8,7 +8,7 @@ excerpt: "<cite>On a Scale of One to Ten</cite> is raw, dark and stunning."
 featured-image: /images/featured/featured-on-a-scale-of-one-to-ten.jpg
 featured-alt: "On a Scale of One to Ten"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-on-a-scale-of-one-to-ten-genre.jpg
 genre-alt: "On a Scale of One to Ten"
 ---

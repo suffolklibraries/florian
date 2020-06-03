@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Watchmaker of Filigree Street by Natasha Pulley"
 date: 2018-03-06
 author: chantry-journeys
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Watchmaker of Filigree Street</cite> is a charming magic realist novel, with gothic undertones and a historical setting.'
 featured-image: /images/featured/featured-watchmaker-of-filigree-street.jpg
 featured-alt: "The Watchmaker of Filigree Street"

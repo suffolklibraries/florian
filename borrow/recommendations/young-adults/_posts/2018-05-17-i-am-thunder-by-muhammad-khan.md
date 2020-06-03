@@ -8,7 +8,7 @@ excerpt: "<cite>I Am Thunder</cite> is timely, diverse and has a powerful messag
 featured-image: /images/featured/featured-i-am-thunder.jpg
 featured-alt: "I Am Thunder"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-i-am-thunder-genre.jpg
 genre-alt: "I Am Thunder"
 ---

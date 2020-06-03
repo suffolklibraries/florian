@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-la-belle-sauvage.jpg
 featured-alt: "The Book of Dust Volume 1: La Belle Sauvage"
 featured-link-text: "Read Kate's review of <cite>The Book of Dust Volume 1: La Belle Sauvage</cite>, by Philip Pullman"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-la-belle-sauvage-genre.jpg
 genre-alt: "The Book of Dust Volume 1: La Belle Sauvage"
 ---

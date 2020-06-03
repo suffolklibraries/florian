@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-longbow-girl.jpg
 featured-alt: Longbow Girl
 featured-link-text: "Read library customer Amelie's review of <cite>Longbow Girl</cite>, by Angela Davies."
 breadcrumb: young-adult
-genre: historical
+category: fiction
 genre-image: /images/featured/featured-longbow-girl-genre.jpg
 genre-alt: Longbow Girl
 ---

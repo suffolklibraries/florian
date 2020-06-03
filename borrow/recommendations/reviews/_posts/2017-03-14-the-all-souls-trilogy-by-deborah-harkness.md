@@ -3,7 +3,7 @@ layout: sidebar-right
 title: The All Souls trilogy by Deborah Harkness
 date: 2017-03-14
 author: andrea-salt
-category: staff-picks
+category: fiction
 excerpt: 'Book club member Andrea found the <cite>All Souls</cite> series "spellbinding".'
 featured-image: /images/featured/featured-all-souls.jpg
 featured-alt: The All Souls trilogy

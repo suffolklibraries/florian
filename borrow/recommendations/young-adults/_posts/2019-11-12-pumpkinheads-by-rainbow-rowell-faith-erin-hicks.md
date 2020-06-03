@@ -8,7 +8,7 @@ excerpt: "<cite>Pumpkinheads</cite> is a cute and cosy read that is perfect for 
 featured-image: /images/featured/featured-pumpkinheads.jpg
 featured-alt: "Pumpkinheads"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-pumpkinheads-genre.jpg
 genre-alt: "Pumpkinheads"
 ---

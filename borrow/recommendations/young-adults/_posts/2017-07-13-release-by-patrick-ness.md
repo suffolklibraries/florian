@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-release.jpg
 featured-alt: Release
 featured-link-text: "Read Kate's review of <cite>Release</cite>, by Patrick Ness."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-release-genre.jpg
 genre-alt: Release
 ---

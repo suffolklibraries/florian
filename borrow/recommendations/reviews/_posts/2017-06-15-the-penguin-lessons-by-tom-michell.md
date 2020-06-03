@@ -3,7 +3,7 @@ layout: sidebar-right
 title: The Penguin Lessons by Tom Michell
 date: 2017-06-15
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: "The Borrowers book group found <cite>The Penguin Lessons</cite> charming, amusing and interesting."
 featured-image: /images/featured/featured-the-penguin-lessons.jpg
 featured-alt: The Penguin Lessons

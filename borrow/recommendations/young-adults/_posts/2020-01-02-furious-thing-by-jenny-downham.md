@@ -8,7 +8,7 @@ excerpt: "<cite>Furious Thing</cite> is an emotionally gripping, intensely power
 featured-image: /images/featured/featured-furious-thing.jpg
 featured-alt: "Furious Thing"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-furious-thing-genre.jpg
 genre-alt: "Furious Thing"
 ---

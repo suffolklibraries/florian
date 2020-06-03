@@ -8,7 +8,7 @@ excerpt: "<cite>I Stop Somewhere</cite> is a dark but enthralling and essential 
 featured-image: /images/featured/featured-i-stop-somewhere.jpg
 featured-alt: "I Stop Somewhere"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-i-stop-somewhere-genre.jpg
 genre-alt: "I Stop Somewhere"
 ---

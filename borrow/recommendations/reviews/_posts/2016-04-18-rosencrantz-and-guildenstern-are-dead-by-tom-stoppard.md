@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Rosencrantz and Guildenstern are Dead by Tom Stoppard
 date: 2016-04-18 08:27:00+00:00
 author: harriet-avery
-category: staff-picks
+category: fiction
 excerpt: Library and information advisor, Harriet Avery from Felixstowe Library, reviews this <cite>Hamlet</cite>-inspired play published in 1966 in honour of Felixstowe Library's 50th anniversary.
 breadcrumb: staff-picks
 ---

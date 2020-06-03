@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-wonder-woman-warbringer.jpg
 featured-alt: "Wonder Woman: Warbringer"
 featured-link-text: "Read library volunteer Emily's review of <cite>Wonder Woman: Warbringer</cite>, by Leigh Bardugo."
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-wonder-woman-warbringer-genre.jpg
 genre-alt: "Wonder Woman: Warbringer"
 ---

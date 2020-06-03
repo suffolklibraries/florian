@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-here-i-stand.jpg
 featured-alt: Here I Stand
 featured-link-text: "Read Emma's review of <cite>Here I Stand: stories that stand for freedom</cite>, edited by Amnesty International UK."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-here-i-stand-genre.jpg
 genre-alt: "Here I Stand: stories that stand for freedom"
 ---

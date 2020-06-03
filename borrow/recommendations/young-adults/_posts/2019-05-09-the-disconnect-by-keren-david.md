@@ -8,7 +8,7 @@ excerpt: "<cite>The Disconnect</cite> is a short, thought-provoking read."
 featured-image: /images/featured/featured-the-disconnect.jpg
 featured-alt: "The Disconnect"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-the-disconnect-genre.jpg
 genre-alt: "The Disconnect"
 ---

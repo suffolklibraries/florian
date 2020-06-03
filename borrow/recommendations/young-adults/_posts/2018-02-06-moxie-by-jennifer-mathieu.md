@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-moxie.jpg
 featured-alt: "Moxie"
 featured-link-text: "Read library volunteer Emily's review of <cite>Moxie</cite>, by Jennifer Mathieu."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-moxie-genre.jpg
 genre-alt: "Moxie"
 ---

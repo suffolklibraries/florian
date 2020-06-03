@@ -8,7 +8,7 @@ excerpt: "<cite>Dear Martin</cite> is an extremely powerful read which examines 
 featured-image: /images/featured/featured-dear-martin.jpg
 featured-alt: "Dear Martin"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-dear-martin-genre.jpg
 genre-alt: "Dear Martin"
 ---

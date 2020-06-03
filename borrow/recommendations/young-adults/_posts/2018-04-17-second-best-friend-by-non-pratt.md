@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-second-best-friend.jpg
 featured-alt: Second Best Friend
 featured-link-text: "Read Emma's review of <cite>Second Best Friend</cite>, by Non Pratt."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-second-best-friend-genre.jpg
 genre-alt: "Second Best Friend"
 ---

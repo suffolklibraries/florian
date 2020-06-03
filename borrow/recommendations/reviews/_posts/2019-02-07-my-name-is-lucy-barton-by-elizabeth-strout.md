@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "My Name is Lucy Barton by Elizabeth Strout"
 date: 2019-02-07
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: '<cite>My Name is Lucy Barton</cite> is a beautifully written gem of a book.'
 featured-image: /images/featured/featured-my-name-is-lucy-barton.jpg
 featured-alt: "My Name is Lucy Barton"

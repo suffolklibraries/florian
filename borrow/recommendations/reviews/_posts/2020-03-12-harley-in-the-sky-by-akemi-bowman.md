@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Harley in the Sky by Akemi Dawn Bowman"
 date: 2020-03-12
 author: emily-mitchell
-category: staff-picks
+category: fiction
 excerpt: '<cite>Harley in the Sky</cite> was a memorable and completely entrancing read that just cemented Bowman’s status as a phenomenal writer.'
 featured-image: /images/featured/featured-harley-in-the-sky.jpg
 featured-alt: "Harley in the Sky"

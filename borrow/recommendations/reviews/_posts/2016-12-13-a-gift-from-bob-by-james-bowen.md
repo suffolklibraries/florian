@@ -3,7 +3,7 @@ layout: sidebar-right
 title: A Gift From Bob by James Bowen
 date: 2016-12-13
 author: gill-mason
-category: staff-picks
+category: fiction
 excerpt: "Have tissues at the ready for this instalment of the 'sensitive and moving' rags-to-riches tale of James and his superstar cat."
 featured-image: /images/featured/featured-gift-from-bob.jpg
 featured-alt: A Gift From Bob

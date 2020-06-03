@@ -8,7 +8,7 @@ excerpt: "<cite>The Places I’ve Cried in Public</cite> is a beautiful story of
 featured-image: /images/featured/featured-the-places-ive-cried-in-public.jpg
 featured-alt: "The Places I've Cried in Public"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-the-places-ive-cried-in-public-genre.jpg
 genre-alt: "The Places I've Cried in Public"
 ---

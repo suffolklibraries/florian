@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-last-days-of-archie-maxwell.jpg
 featured-alt: "The Last Days of Archie Maxwell"
 featured-link-text: "Read library volunteer Emily's review of <cite>The Last Days of Archie Maxwell</cite>, by Annabel Pitcher."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-the-last-days-of-archie-maxwell-genre.jpg
 genre-alt: "The Last Days of Archie Maxwell"
 ---

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Hours Before Dawn by Celia Fremlin"
 date: 2019-08-29
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Hours Before Dawn</cite> is a menacing and very cleverly written psychological thriller.'
 featured-image: /images/featured/featured-the-hours-before-dawn.jpg
 featured-alt: "The Hours Before Dawn"

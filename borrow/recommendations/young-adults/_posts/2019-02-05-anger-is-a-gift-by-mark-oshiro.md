@@ -8,7 +8,7 @@ excerpt: "<cite>Anger is a Gift</cite> is devastating, addictive and raw."
 featured-image: /images/featured/featured-anger-is-a-gift.jpg
 featured-alt: "Anger is a Gift"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-anger-is-a-gift-genre.jpg
 genre-alt: "Anger is a Gift"
 ---

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Disclaimer by Renee Knight
 date: 2015-12-08 10:30:29+00:00
 author: amanda-king
-category: staff-picks
+category: fiction
 excerpt: Amanda King, manager of Bungay Library reviews this thriller.
 breadcrumb: staff-picks
 genre: crime-and-thriller

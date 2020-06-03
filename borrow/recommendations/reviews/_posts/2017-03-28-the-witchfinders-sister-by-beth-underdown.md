@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Witchfinder's Sister by Beth Underdown"
 date: 2017-03-28
 author: alice-violett
-category: staff-picks
+category: fiction
 excerpt: "Alice found <cite>The Witchfinder's Sister</cite> a well-researched, convincing and accomplished first novel."
 featured-image: /images/featured/featured-the-witchfinders-sister.jpg
 featured-alt: "The Witchfinder's Sister"

@@ -8,7 +8,7 @@ excerpt: "<cite>American Panda</cite> is a cute contemporary which is diverse, b
 featured-image: /images/featured/featured-american-panda.jpg
 featured-alt: "American Panda"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-american-panda-genre.jpg
 genre-alt: "American Panda"
 ---

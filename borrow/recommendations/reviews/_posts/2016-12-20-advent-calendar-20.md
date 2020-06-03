@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "<cite>A Place Called Winter</cite>, by Patrick Gale"
 date: 2016-12-20
 author: theo-clarke
-category: staff-picks
+category: fiction
 excerpt: "Library and information advisor Theo Clarke recommends <cite>A Place Called Winter</cite>, by Patrick Gale."
 featured-image: /images/featured/featured-a-place-called-winter.jpg
 featured-alt: A Place Called Winter

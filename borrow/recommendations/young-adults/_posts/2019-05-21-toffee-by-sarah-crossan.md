@@ -8,7 +8,7 @@ excerpt: "<cite>Toffee</cite> is a quick read that nonetheless stays with you lo
 featured-image: /images/featured/featured-toffee.jpg
 featured-alt: "Toffee"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-toffee-genre.jpg
 genre-alt: "Toffee"
 ---

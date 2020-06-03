@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-same-difference.jpg
 featured-alt: Same Difference
 featured-link-text: "Read Emma's review of <cite>Same Difference</cite>, by Siobhan Vivian."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-same-difference-genre.jpg
 genre-alt: Same Difference
 ---

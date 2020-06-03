@@ -6,7 +6,7 @@ author: emily-mitchell
 age-range: young-adult
 excerpt: <cite>The Ever Never Handbook</cite> provides an irreverent and imaginative take on fairytales.
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-ever-never-handbook-genre.jpg
 genre-alt: The Ever Never Handbook
 ---

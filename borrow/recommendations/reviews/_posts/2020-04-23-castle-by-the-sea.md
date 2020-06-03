@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Our Castle by the Sea by Lucy Strange"
 date: 2020-04-23
 author: imogen-tink
-category: staff-picks
+category: fiction
 excerpt: '<cite>Our Castle by the Sea</cite> is a thunderingly good tale of intrigue and adventure. '
 featured-image: /images/featured/featured-castle-by-the-sea.jpg
 featured-alt: "Our Castle by the Sea by Lucy Strange"

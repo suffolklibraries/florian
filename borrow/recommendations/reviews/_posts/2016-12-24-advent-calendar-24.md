@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "<cite>The Ladybird Book of the Meeting</cite>, by Jason Hazeley &amp; Joel Morris"
 date: 2016-12-24
 author: alison-wheeler
-category: staff-picks
+category: fiction
 excerpt: "Chief executive officer Alison Wheeler recommends <cite>The Ladybird Book of the Meeting</cite>, by Jason Hazeley &amp; Joel Morris."
 featured-image: /images/featured/featured-ladybird-meeting.jpg
 featured-alt: The Ladybird Book of the Meeting

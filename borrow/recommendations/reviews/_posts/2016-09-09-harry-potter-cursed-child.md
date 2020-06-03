@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Harry Potter and the Cursed Child by JK Rowling and J Thorne
 date: 2016-09-09
 author: helen-haynes
-category: staff-picks
+category: fiction
 excerpt: Helen reviews the latest in the Harry Potter series, a play combining the past and present.
 breadcrumb: staff-picks
 ---

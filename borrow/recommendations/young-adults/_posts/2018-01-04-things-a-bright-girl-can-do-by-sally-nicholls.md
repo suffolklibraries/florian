@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-things-a-bright-girl-can-do.jpg
 featured-alt: Things a Bright Girl Can Do
 featured-link-text: "Read library volunteer Amelie's review of <cite>Things a Bright Girl Can Do</cite>, by Sally Nicholls."
 breadcrumb: young-adult
-genre: historical
+category: fiction
 genre-image: /images/featured/featured-things-a-bright-girl-can-do-genre.jpg
 genre-alt: Things a Bright Girl Can Do
 ---

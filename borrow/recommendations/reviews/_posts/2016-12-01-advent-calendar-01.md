@@ -3,7 +3,7 @@ layout: sidebar-right
 title: '<cite>The Secret Diary of Hendrik Groen, 83 &frac14;</cite>, by Anonymous.'
 date: 2016-12-01
 author: jo-dixon
-category: staff-picks
+category: fiction
 excerpt: "Stock team member Jo Dixon recommends <cite>The Secret Diary of Hendrik Groen, 83 &frac14;</cite>, by an anonymous Dutch author."
 featured-image: /images/featured/featured-secret-diary.jpg
 featured-alt: The Secret Diary of Hendrik Groen, 83 &frac14;

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Crooked Heart by Lissa Evans"
 date: 2018-08-14
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: '<cite>Crooked Heart</cite> is heartwarming, moving and very funny.'
 featured-image: /images/featured/featured-crooked-heart.jpg
 featured-alt: "Crooked Heart"

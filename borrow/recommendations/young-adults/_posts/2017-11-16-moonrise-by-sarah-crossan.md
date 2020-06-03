@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-moonrise.jpg
 featured-alt: Moonrise
 featured-link-text: "Read library volunteer Emily's review of <cite>Moonrise</cite>, by Sarah Crossan."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-moonrise-genre.jpg
 genre-alt: Moonrise
 ---

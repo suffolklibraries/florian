@@ -8,7 +8,7 @@ excerpt: "<cite>The Beautiful</cite> is a stunning and sumptuous blend of romanc
 featured-image: /images/featured/featured-the-beautiful.jpg
 featured-alt: "The Beautiful"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-the-beautiful-genre.jpg
 genre-alt: "The Beautiful"
 ---

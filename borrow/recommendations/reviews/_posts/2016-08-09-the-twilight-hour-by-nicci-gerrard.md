@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Twilight Hour by Nicci Gerrard"
 date: 2016-08-09 09:00:00+00:00
 author: gill-mason
-category: staff-picks
+category: fiction
 excerpt: Library and information advisor at Felixstowe, Gill Mason, reviews Nicci Gerrard's novel about a woman with a dark past.
 breadcrumb: staff-picks
 genre: literary-fiction

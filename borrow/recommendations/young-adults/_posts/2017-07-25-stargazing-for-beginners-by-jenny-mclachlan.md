@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-stargazing-for-beginners.jpg
 featured-alt: Stargazing for Beginners
 featured-link-text: "Read Kate's review of <cite>Stargazing for Beginners</cite>, by Jenny McLachlan."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-stargazing-for-beginners-genre.jpg
 genre-alt: Stargazing for Beginners
 ---

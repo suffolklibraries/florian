@@ -8,7 +8,7 @@ excerpt: "<cite>The Twisted Tree</cite> is atmospheric, thrilling and terrifying
 featured-image: /images/featured/featured-the-twisted-tree.jpg
 featured-alt: "The Twisted Tree"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-the-twisted-tree-genre.jpg
 genre-alt: "The Twisted Tree"
 ---

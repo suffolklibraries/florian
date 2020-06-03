@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-treatment.jpg
 featured-alt: The Treatment
 featured-link-text: "Read Emma's review of <cite>The Treatment</cite>, by C. L. Taylor."
 breadcrumb: young-adult
-genre: crime-and-thriller
+category: fiction
 genre-image: /images/featured/featured-the-treatment-genre.jpg
 genre-alt: "The Treatment"
 ---

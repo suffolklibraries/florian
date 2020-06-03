@@ -8,7 +8,7 @@ excerpt: "<cite>The Smoke Thieves</cite> is a thrilling read with magic, excitin
 featured-image: /images/featured/featured-the-smoke-thieves.jpg
 featured-alt: "The Smoke Thieves"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-the-smoke-thieves-genre.jpg
 genre-alt: "The Smoke Thieves"
 ---

@@ -8,7 +8,7 @@ excerpt: "<cite>Starfish</cite> shows an honest perspective of failure and what 
 featured-image: /images/featured/featured-starfish.jpg
 featured-alt: "Starfish"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-starfish-genre.jpg
 genre-alt: "Starfish"
 ---

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "<cite>Ticket To Ride: Europe</cite>"
 date: 2016-12-14
 author: andrew-miller
-category: staff-picks
+category: fiction
 excerpt: "Library and information advisor Andrew Miller recommends the board game <cite>Ticket To Ride: Europe</cite>, which is available to hire from the branch's Board Games Library."
 featured-image: /images/featured/featured-ticket-to-ride-europe.jpg
 featured-alt: "Ticket To Ride: Europe"

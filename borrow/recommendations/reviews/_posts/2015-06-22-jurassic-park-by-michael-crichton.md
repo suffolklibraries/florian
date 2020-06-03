@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Jurassic Park by Michael Crichton
 date: 2015-06-22 08:55:08+00:00
 author: kate-ashton
-category: staff-picks
+category: fiction
 excerpt: Haverhill Library assistant manager Kate Ashton reviews <cite>Jurassic Park</cite>.
 breadcrumb: staff-picks
 genre: sci-fi-and-fantasy

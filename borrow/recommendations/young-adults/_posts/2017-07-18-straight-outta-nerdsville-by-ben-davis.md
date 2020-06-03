@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-straight-outta-nerdsville.jpg
 featured-alt: Straight Outta Nerdsville
 featured-link-text: "Read Kate's review of <cite>Straight Outta Nerdsville</cite>, by Ben Davis."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-straight-outta-nerdsville-genre.jpg
 genre-alt: Straight Outta Nerdsville
 ---

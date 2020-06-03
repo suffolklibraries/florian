@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Foxlowe by Eleanor Wasserberg"
 date: 2017-06-27
 author: alice-violett
-category: staff-picks
+category: fiction
 excerpt: '<cite>Foxlowe</cite> is an evocative, absorbing page-turner of a book.'
 featured-image: /images/featured/featured-foxlowe.jpg
 featured-alt: "Foxlowe"

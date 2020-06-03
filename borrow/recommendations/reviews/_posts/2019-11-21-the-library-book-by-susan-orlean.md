@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Library Book by Susan Orlean"
 date: 2019-11-21
 author: sue-orton
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Library Book</cite> is an unusual and fascinating read.'
 featured-image: /images/featured/featured-the-library-book.jpg
 featured-alt: "The Library Book"

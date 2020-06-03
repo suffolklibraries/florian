@@ -8,7 +8,7 @@ excerpt: "<cite>Neverworld Wake</cite> is a thought-provoking and original myste
 featured-image: /images/featured/featured-neverworld-wake.jpg
 featured-alt: "Neverworld Wake"
 breadcrumb: young-adult
-genre: crime-and-thriller
+category: fiction
 genre-image: /images/featured/featured-neverworld-wake-genre.jpg
 genre-alt: "Neverworld Wake"
 ---

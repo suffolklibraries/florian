@@ -8,7 +8,7 @@ excerpt: '<cite>Alex in Wonderland</cite> is both funny and deep.'
 featured-image: /images/featured/featured-alex-in-wonderland.jpg
 featured-alt: "Alex in Wonderland"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-alex-in-wonderland-genre.jpg
 genre-alt: "Alex in Wonderland"
 ---

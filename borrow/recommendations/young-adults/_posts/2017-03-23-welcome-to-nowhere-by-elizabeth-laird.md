@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-welcome-to-nowhere.jpg
 featured-alt: Welcome To Nowhere
 featured-link-text: "Read library volunteer Emily's review of <cite>Welcome To Nowhere</cite>, by Elizabeth Laird."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-welcome-to-nowhere-genre.jpg
 genre-alt: Welcome to Nowhere
 ---

@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-they-both-die-at-the-end.jpg
 featured-alt: They Both Die at the End
 featured-link-text: "Read library volunteer Emily's review of <cite>They Both Die at the End</cite>, by Adam Silvera."
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-they-both-die-at-the-end-genre.jpg
 genre-alt: They Both Die at the End
 ---

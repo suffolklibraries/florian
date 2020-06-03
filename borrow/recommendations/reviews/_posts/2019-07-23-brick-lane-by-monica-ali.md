@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Brick Lane by Monica Ali"
 date: 2019-07-23
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: '<cite>Brick Lane</cite> is a powerful, enjoyable, well-written book that sparked a lot of discussion.'
 featured-image: /images/featured/featured-brick-lane.jpg
 featured-alt: "Brick Lane"

@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-making-of-mollie.jpg
 featured-alt: The Making of Mollie
 featured-link-text: "Read library volunteer Emily's review of <cite>The Making of Mollie</cite>, by Anna Carey."
 breadcrumb: young-adult
-genre: historical
+category: fiction
 genre-image: /images/featured/featured-making-of-mollie-genre.jpg
 genre-alt: The Making of Mollie
 ---

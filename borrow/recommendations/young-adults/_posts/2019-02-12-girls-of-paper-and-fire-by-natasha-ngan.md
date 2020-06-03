@@ -8,7 +8,7 @@ excerpt: "<cite>Girls of Paper and Fire</cite> is spellbinding and heartbreaking
 featured-image: /images/featured/featured-girls-of-paper-and-fire.jpg
 featured-alt: "Girls of Paper and Fire"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-girls-of-paper-and-fire-genre.jpg
 genre-alt: "Girls of Paper and Fire"
 ---

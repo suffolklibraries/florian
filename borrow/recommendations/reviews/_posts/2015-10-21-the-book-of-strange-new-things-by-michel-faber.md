@@ -3,7 +3,7 @@ layout: sidebar-right
 title: The Book of Strange New Things by Michel Faber
 date: 2015-10-21 10:05:10+00:00
 author: helen-scrivener
-category: staff-picks
+category: fiction
 excerpt: Woodbridge Library manager Helen Scrivener reviews <cite>The Book of Strange New Things</cite>, a futuristic sci-fi novel.
 breadcrumb: staff-picks
 genre: sci-fi-and-fantasy

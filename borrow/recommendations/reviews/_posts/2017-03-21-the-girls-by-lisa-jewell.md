@@ -3,7 +3,7 @@ layout: sidebar-right
 title: The Girls by Lisa Jewell
 date: 2017-03-21
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: 'The Borrowers found <cite>The Girls</cite> provided a lot of points for discussion.'
 featured-image: /images/featured/featured-the-girls.jpg
 featured-alt: The Girls

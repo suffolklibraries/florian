@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-curious-incident.jpg
 featured-alt: The Curious Incident of the Dog in the Night-time
 featured-link-text: "Read teenage library customer Olivia's review of <cite>The Curious Incident of the Dog in the Night-time</cite>, by Mark Haddon."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-the-curious-incident-genre.jpg
 genre-alt: The Curious Incident of the Dog in the Night-time
 ---

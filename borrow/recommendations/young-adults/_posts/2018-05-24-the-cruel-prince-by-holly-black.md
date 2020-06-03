@@ -8,7 +8,7 @@ excerpt: "<cite>The Cruel Prince</cite> is intriguing, atmospheric and really da
 featured-image: /images/featured/featured-the-cruel-prince.jpg
 featured-alt: "The Cruel Prince"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-the-cruel-prince-genre.jpg
 genre-alt: "The Cruel Prince"
 ---

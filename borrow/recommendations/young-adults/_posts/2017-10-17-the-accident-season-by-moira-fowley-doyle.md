@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-accident-season.jpg
 featured-alt: The Accident Season
 featured-link-text: "Read library volunteer Emily's review of <cite>The Accident Season</cite>, by Moïra Fowley-Doyle."
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-the-accident-season-genre.jpg
 genre-alt: The Accident Season
 ---

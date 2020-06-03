@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Blue Monday by Nicci French
 date: 2015-06-18 13:41:02+00:00
 author: charlotte-clark
-category: staff-picks
+category: fiction
 excerpt: Southwold Library manager Charlotte Clark reviews the thriller, <cite>Blue Monday</cite> by crime-writing couple Nicci French.
 breadcrumb: staff-picks
 genre: crime-and-thriller

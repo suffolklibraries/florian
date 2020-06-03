@@ -8,7 +8,7 @@ excerpt: "<cite>The Hazel Wood</cite> is a mesmerizing, intriguing debut that wi
 featured-image: /images/featured/featured-the-hazel-wood.jpg
 featured-alt: "The Hazel Wood"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-the-hazel-wood-genre.jpg
 genre-alt: "The Hazel Wood"
 ---

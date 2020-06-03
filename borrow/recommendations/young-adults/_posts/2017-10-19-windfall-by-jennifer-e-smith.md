@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-windfall.jpg
 featured-alt: Windfall
 featured-link-text: "Read Kate's review of <cite>Windfall</cite>, by Jennifer E. Smith."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-windfall-genre.jpg
 genre-alt: Windfall
 ---

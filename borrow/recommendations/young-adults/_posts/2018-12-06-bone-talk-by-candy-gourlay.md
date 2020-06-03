@@ -8,7 +8,7 @@ excerpt: "<cite>Bone Talk</cite> promises a gripping tale, evocative description
 featured-image: /images/featured/featured-bone-talk.jpg
 featured-alt: "Bone Talk"
 breadcrumb: young-adult
-genre: historical
+category: fiction
 genre-image: /images/featured/featured-bone-talk-genre.jpg
 genre-alt: "Bone Talk"
 ---

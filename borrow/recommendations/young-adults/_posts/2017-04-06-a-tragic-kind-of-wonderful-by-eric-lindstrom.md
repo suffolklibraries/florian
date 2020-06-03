@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-a-tragic-kind-of-wonderful.jpg
 featured-alt: A Tragic Kind of Wonderful
 featured-link-text: "Read library volunteer Emily's review of <cite>A Tragic Kind of Wonderful</cite>, by Eric Lindstrom."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-a-tragic-kind-of-wonderful-genre.jpg
 genre-alt: A Tragic Kind of Wonderful
 ---

@@ -8,7 +8,7 @@ excerpt: '<cite>Stepsister</cite> is an original, addictive take on the story of
 featured-image: /images/featured/featured-stepsister.jpg
 featured-alt: "Stepsister"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-stepsister-genre.jpg
 genre-alt: "Stepsister"
 ---

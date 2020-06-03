@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "<cite>Tales of Horror and the Supernatural</cite>, by Arthur Machen"
 date: 2016-12-22
 author: leon-paternoster
-category: staff-picks
+category: fiction
 excerpt: "Deputy head of IT Leon Paternoster recommends <cite>Tales of Horror and the Supernatural</cite>, by Arthur Machen."
 featured-image: /images/featured/featured-tales-of-horror.jpg
 featured-alt: Tales of Horror and the Supernatural

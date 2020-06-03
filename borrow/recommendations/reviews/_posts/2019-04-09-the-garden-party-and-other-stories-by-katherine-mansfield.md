@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Garden Party and other stories by Katherine Mansfield"
 date: 2019-04-09
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Garden Party and other stories</cite> features very descriptive and well-written tales of class domination and division.'
 featured-image: /images/featured/featured-the-garden-party.jpg
 featured-alt: "The Garden Party and other stories"

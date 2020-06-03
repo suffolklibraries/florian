@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-challenge.jpg
 featured-alt: The Challenge
 featured-link-text: "Read Woodbridge Library volunteer Emily's review of <cite>The Challenge</cite>, by Tom Hoyle."
 breadcrumb: young-adult
-genre: crime-and-thriller
+category: fiction
 genre-image: /images/featured/featured-the-challenge-genre.jpg
 genre-alt: The Challenge
 ---

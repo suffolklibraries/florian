@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "<cite>A Visit From St Nicholas</cite>, by Clement C. Moore."
 date: 2016-12-09
 author: gill-turner
-category: staff-picks
+category: fiction
 excerpt: "Bury St Edmunds Library assistant manager Gill Turner recommends <cite>A Visit From St Nicholas</cite>, by Clement C. Moore."
 featured-image: /images/featured/featured-night-before-xmas.jpg
 featured-alt: The Night Before Christmas

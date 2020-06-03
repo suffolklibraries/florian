@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Stranger Diaries by Elly Griffiths"
 date: 2019-06-04
 author: sue-orton
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Stranger Diaries</cite> is a thoroughly enjoyable read featuring likeable and enigmatic characters and sinister goings-on.'
 featured-image: /images/featured/featured-the-stranger-diaries.jpg
 featured-alt: "The Stranger Diaries"

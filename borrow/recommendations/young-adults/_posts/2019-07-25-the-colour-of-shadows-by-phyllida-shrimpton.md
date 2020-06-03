@@ -8,7 +8,7 @@ excerpt: '<cite>The Colour of Shadows</cite> carries important messages and expl
 featured-image: /images/featured/featured-the-colour-of-shadows.jpg
 featured-alt: "The Colour of Shadows"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-the-colour-of-shadows-genre.jpg
 genre-alt: "The Colour of Shadows"
 ---

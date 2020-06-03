@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-hate-u-give.jpg
 featured-alt: The Hate U Give
 featured-link-text: "Read Woodbridge Library volunteer Emily's review of <cite>The Hate U Give</cite>, by Angie Thomas."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-the-hate-u-give-genre.jpg
 genre-alt: The Hate U Give
 ---

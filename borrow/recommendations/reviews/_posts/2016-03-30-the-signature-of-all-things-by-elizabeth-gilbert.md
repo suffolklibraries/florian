@@ -3,7 +3,7 @@ layout: sidebar-right
 title: The Signature of All Things by Elizabeth Gilbert
 date: 2016-03-30 14:07:24+00:00
 author: helen-scrivener
-category: staff-picks
+category: fiction
 excerpt: Woodbridge Library manager Helen Scrivener reviews this sweeping saga.
 breadcrumb: staff-picks
 genre: literary-fiction

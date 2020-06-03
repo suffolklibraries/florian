@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "<cite>The Outrun</cite>, by Amy Liptrot"
 date: 2016-12-21
 author: paul-howarth
-category: staff-picks
+category: fiction
 excerpt: "Stock and content manager Paul Howarth recommends <cite>The Outrun</cite>, by Amy Liptrot."
 featured-image: /images/featured/featured-the-outrun.jpg
 featured-alt: The Outrun

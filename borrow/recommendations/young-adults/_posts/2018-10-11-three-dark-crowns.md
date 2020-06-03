@@ -8,7 +8,7 @@ excerpt: "<cite>Three Dark Crowns</cite> is a deliciously dark, incredibly compe
 featured-image: /images/featured/featured-three-dark-crowns.jpg
 featured-alt: "Three Dark Crowns"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-three-dark-crowns-genre.jpg
 genre-alt: "Three Dark Crowns"
 ---

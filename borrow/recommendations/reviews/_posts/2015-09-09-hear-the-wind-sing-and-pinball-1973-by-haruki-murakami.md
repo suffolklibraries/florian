@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Hear the Wind Sing and Pinball, 1973 by Haruki Murakami
 date: 2015-09-09 12:46:21+00:00
 author: matt-shenton
-category: staff-picks
+category: fiction
 excerpt: Literacy ambassador Matt Shenton reviews <cite>Hear the wind sing and Pinball, 1973</cite> by Haruki Murakami - two newly translated stories from over 30 years ago.
 breadcrumb: staff-picks
 genre: literary-fiction

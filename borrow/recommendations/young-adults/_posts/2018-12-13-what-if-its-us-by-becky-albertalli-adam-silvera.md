@@ -8,7 +8,7 @@ excerpt: "<cite>What If It's Us</cite> is a super cosy, easy read."
 featured-image: /images/featured/featured-what-if-its-us.jpg
 featured-alt: "What If It's Us"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-what-if-its-us-genre.jpg
 genre-alt: "What If It's Us"
 ---

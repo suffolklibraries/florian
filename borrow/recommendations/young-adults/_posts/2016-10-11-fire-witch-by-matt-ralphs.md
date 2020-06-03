@@ -6,7 +6,7 @@ author: emily-mitchell
 age-range: young-adult
 excerpt: Emily reviews the second book in Matt Ralphs' Fire Girl series.
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-fire-witch-genre.jpg
 genre-alt: Fire Witch
 ---

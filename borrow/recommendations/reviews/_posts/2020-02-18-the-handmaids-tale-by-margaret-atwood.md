@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Handmaid's Tale by Margaret Atwood"
 date: 2020-02-18
 author: kesgrave-book-group-1
-category: staff-picks
+category: fiction
 excerpt: "<cite>The Handmaid's Tale</cite> is a compelling, well-written book that sparked lots of discussion."
 featured-image: /images/featured/featured-the-handmaids-tale.jpg
 featured-alt: "The Handmaid's Tale"

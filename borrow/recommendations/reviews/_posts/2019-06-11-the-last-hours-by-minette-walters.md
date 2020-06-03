@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Last Hours by Minette Walters"
 date: 2019-06-11
 author: sue-orton
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Last Hours</cite> is interesting and well-researched.'
 featured-image: /images/featured/featured-the-last-hours.jpg
 featured-alt: "The Last Hours"

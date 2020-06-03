@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-charisma.jpg
 featured-alt: Charisma
 featured-link-text: "Read Emma's review of <cite>Charisma</cite>, by Jeanne Ryan."
 breadcrumb: young-adult
-genre: crime-and-thriller
+category: fiction
 genre-image: /images/featured/featured-charisma-genre.jpg
 genre-alt: Charisma
 ---

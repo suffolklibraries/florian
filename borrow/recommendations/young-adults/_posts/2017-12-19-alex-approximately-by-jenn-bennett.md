@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-alex-approximately.jpg
 featured-alt: "Alex, Approximately"
 featured-link-text: "Read Rachael's review of <cite>Alex, Approximately</cite>, by Jenn Bennett."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-alex-approximately-genre.jpg
 genre-alt: "Alex, Approximately"
 ---

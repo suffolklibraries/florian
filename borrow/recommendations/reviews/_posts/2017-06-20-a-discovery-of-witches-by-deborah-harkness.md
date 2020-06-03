@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "A Discovery of Witches by Deborah Harkness"
 date: 2017-06-20
 author: chantry-journeys
-category: staff-picks
+category: fiction
 excerpt: '<cite>A Discovery of Witches</cite> provoked lively discussion among members of the Chantry Journeys reading group'
 featured-image: /images/featured/featured-a-discovery-of-witches.jpg
 featured-alt: "A Discovery of Witches"

@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-genuine-fraud.jpg
 featured-alt: Genuine Fraud
 featured-link-text: "Read library volunteer Emily's review of <cite>Genuine Fraud</cite>, by E. Lockhart."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-genuine-fraud-genre.jpg
 genre-alt: Genuine Fraud
 ---

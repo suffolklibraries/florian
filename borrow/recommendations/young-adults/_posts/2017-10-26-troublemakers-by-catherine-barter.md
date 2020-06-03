@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-troublemakers.jpg
 featured-alt: Troublemakers
 featured-link-text: "Read Kate's review of <cite>Troublemakers</cite>, by Catherine Barter."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-troublemakers-genre.jpg
 genre-alt: Troublemakers
 ---

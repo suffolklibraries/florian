@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-undercover-princess.jpg
 featured-alt: Undercover Princess
 featured-link-text: "Read Amélie's review of <cite>Undercover Princess</cite>, by Connie Glynn."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-undercover-princess-genre.jpg
 genre-alt: "Undercover Princess"
 ---

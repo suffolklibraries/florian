@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "A Line Made By Walking by Sara Baume"
 date: 2017-12-12
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: '<cite>A Line Made By Walking</cite> is original and unusual, disturbing and challenging.'
 featured-image: /images/featured/featured-a-line-made-by-walking.jpg
 featured-alt: "A Line Made By Walking"

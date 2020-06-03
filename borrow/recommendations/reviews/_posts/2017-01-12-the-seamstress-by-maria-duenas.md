@@ -3,7 +3,7 @@ layout: sidebar-right
 title: The Seamstress by Maria Duenas
 date: 2017-01-12
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: "Off for some winter sun? The Borrowers recommend this long and absorbing novel for the beach."
 featured-image: /images/featured/featured-the-seamstress.jpg
 featured-alt: The Seamstress

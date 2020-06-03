@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-one-of-us-is-lying.jpg
 featured-alt: One of Us is Lying
 featured-link-text: "Read library volunteer Emily's review of <cite>One of Us is Lying</cite>, by Karen M. McManus."
 breadcrumb: young-adult
-genre: crime-and-thriller
+category: fiction
 genre-image: /images/featured/featured-one-of-us-is-lying-genre.jpg
 genre-alt: One of Us is Lying
 ---

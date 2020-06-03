@@ -8,7 +8,7 @@ excerpt: "<cite>All the Things We Never Said</cite> is heart-wrenching, gripping
 featured-image: /images/featured/featured-all-the-things-we-never-said.jpg
 featured-alt: "All the Things We Never Said"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-all-the-things-we-never-said-genre.jpg
 genre-alt: "All the Things We Never Said"
 ---

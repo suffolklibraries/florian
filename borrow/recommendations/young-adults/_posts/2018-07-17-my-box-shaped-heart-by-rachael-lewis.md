@@ -8,7 +8,7 @@ excerpt: "<cite>My Box-Shaped Heart</cite> is an easy, inspiring, uplifting, ado
 featured-image: /images/featured/featured-my-box-shaped-heart.jpg
 featured-alt: "My Box-Shaped Heart"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-my-box-shaped-heart-genre.jpg
 genre-alt: "My Box-Shaped Heart"
 ---

@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Sunrise by Victoria Hislop"
 date: 2019-06-06
 author: sue-orton
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Sunrise</cite> is an extraordinary story on many levels.'
 featured-image: /images/featured/featured-the-sunrise.jpg
 featured-alt: "The Sunrise"

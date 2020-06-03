@@ -8,7 +8,7 @@ excerpt: '<cite>Flying Tips for Flightless Birds</cite> is a story about friends
 featured-image: /images/featured/featured-flying-tips-for-flightless-birds.jpg
 featured-alt: Flying Tips for Flightless Birds
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-flying-tips-for-flightless-birds-genre.jpg
 genre-alt: "Flying Tips for Flightless Birds"
 ---

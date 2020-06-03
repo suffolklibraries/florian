@@ -8,7 +8,7 @@ excerpt: '<cite>The Secret Commonwealth</cite> is full of drama, tension and wel
 featured-image: /images/featured/featured-the-secret-commonwealth.jpg
 featured-alt: "The Book of Dust Volume 2: The Secret Commonwealth"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-the-secret-commonwealth-genre.jpg
 genre-alt: "The Book of Dust Volume 2: The Secret Commonwealth"
 ---

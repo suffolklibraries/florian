@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "<cite>The Polar Express</cite>"
 date: 2016-12-11
 author: alison-catchpole
-category: staff-picks
+category: fiction
 excerpt: "Gainsborough Library staff member Alison Catchpole recommends <cite>The Polar Express</cite>."
 featured-image: /images/featured/featured-polar-express.jpg
 featured-alt: The Polar Express

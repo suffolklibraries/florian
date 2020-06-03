@@ -8,7 +8,7 @@ excerpt: "<cite>Monsters</cite> is funny, moving, tragic and heartbreaking."
 featured-image: /images/featured/featured-monsters.jpg
 featured-alt: "Monsters"
 breadcrumb: young-adult
-genre: historical
+category: fiction
 genre-image: /images/featured/featured-monsters-genre.jpg
 genre-alt: "Monsters"
 ---

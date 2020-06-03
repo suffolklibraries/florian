@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-dollmaker-of-krakow.jpg
 featured-alt: The Dollmaker of Krakow
 featured-link-text: "Read library volunteer Emily's review of <cite>The Dollmaker of Krakow</cite>, by R. M. Romero."
 breadcrumb: young-adult
-genre: historical
+category: fiction
 genre-image: /images/featured/featured-dollmaker-of-krakow-genre.jpg
 genre-alt: The Dollmaker of Krakow
 ---

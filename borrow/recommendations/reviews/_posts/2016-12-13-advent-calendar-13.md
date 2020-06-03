@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "<cite>I'll Be Home For Christmas</cite>, by various authors"
 date: 2016-12-13
 author: debra-rowe
-category: staff-picks
+category: fiction
 excerpt: "Library and information advisor Debra Rowe recommends <cite>I'll Be Home For Christmas</cite>, by various authors."
 featured-image: /images/featured/featured-home-for-christmas.jpg
 featured-alt: I'll Be Home For Christmas

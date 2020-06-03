@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-i-have-no-secrets.jpg
 featured-alt: I Have No Secrets
 featured-link-text: "Read Woodbridge Library volunteer Emily's review of <cite>I Have No Secrets</cite>, by Penny Joelson."
 breadcrumb: young-adult
-genre: crime-and-thriller
+category: fiction
 genre-image: /images/featured/featured-i-have-no-secrets-genre.jpg
 genre-alt: I Have No Secrets
 ---

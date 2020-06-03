@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "This is going to hurt: Secret diaries of a junior doctor by Adam Kay"
 date: 2020-03-05
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: "<cite>Secret diaries of a junior doctor</cite> is an entertaining read with it’s laugh-out-loud parts and very readable style of writing."
 featured-image: /images/featured/featured-secret-diaries-junior-doctor.jpg
 featured-alt: "This is going to hurt: Secret diaries of a junior doctor"

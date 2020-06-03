@@ -8,7 +8,7 @@ excerpt: "<cite>The Cure for Dreaming</cite> will appeal to those interested in 
 featured-image: /images/featured/featured-the-cure-for-dreaming.jpg
 featured-alt: "The Cure for Dreaming"
 breadcrumb: young-adult
-genre: historical
+category: fiction
 genre-image: /images/featured/featured-the-cure-for-dreaming-genre.jpg
 genre-alt: "The Cure for Dreaming"
 ---

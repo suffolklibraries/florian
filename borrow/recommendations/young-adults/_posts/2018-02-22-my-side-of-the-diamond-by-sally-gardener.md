@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-my-side-of-the-diamond.jpg
 featured-alt: My Side of the Diamond
 featured-link-text: "Read Amélie's review of <cite>My Side of the Diamond</cite>, by Sally Gardener."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-my-side-of-the-diamond-genre.jpg
 genre-alt: "My Side of the Diamond"
 ---

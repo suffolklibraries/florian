@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Reason I Jump by Naoki Higashida"
 date: 2017-10-31
 author: natasha-catchpole
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Reason I Jump</cite> is the most important book Natasha has read this year.'
 featured-image: /images/featured/featured-the-reason-i-jump.jpg
 featured-alt: "The Reason I Jump"

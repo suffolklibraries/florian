@@ -8,7 +8,7 @@ excerpt: "Emma loved <cite>Simon vs. the Homo Sapiens Agenda</cite> and recommen
 featured-image: /images/featured/featured-simon-vs-the-homo-sapiens-agenda.jpg
 featured-alt: "Simon vs. the Homo Sapiens Agenda"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-simon-vs-the-homo-sapiens-agenda-genre.jpg
 genre-alt: "Simon vs. the Homo Sapiens Agenda"
 ---

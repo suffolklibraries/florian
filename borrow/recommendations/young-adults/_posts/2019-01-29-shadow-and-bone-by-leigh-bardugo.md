@@ -8,7 +8,7 @@ excerpt: "<cite>Shadow and Bone</cite> is a fast-paced, exciting novel packed wi
 featured-image: /images/featured/featured-shadow-and-bone.jpg
 featured-alt: "Shadow and Bone"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-shadow-and-bone-genre.jpg
 genre-alt: "Shadow and Bone"
 ---

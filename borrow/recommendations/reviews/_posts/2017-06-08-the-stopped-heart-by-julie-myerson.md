@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Stopped Heart by Julie Myerson"
 date: 2017-06-08
 author: alice-violett
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Stopped Heart</cite> is an eerie and resonant novel with masterfully-created characters and skilful plotting.'
 featured-image: /images/featured/featured-the-stopped-heart.jpg
 featured-alt: "The Stopped Heart"

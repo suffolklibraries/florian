@@ -8,7 +8,7 @@ excerpt: "<cite>The Electrical Venus</cite> is an intriguing, enjoyable tale fro
 featured-image: /images/featured/featured-the-electrical-venus.jpg
 featured-alt: "The Electrical Venus"
 breadcrumb: young-adult
-genre: historical
+category: fiction
 genre-image: /images/featured/featured-the-electrical-venus-genre.jpg
 genre-alt: "The Electrical Venus"
 ---

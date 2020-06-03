@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-because-you-love-to-hate-me.jpg
 featured-alt: Orbiting Jupiter
 featured-link-text: "Read Emily's review of <cite>Because You Love to Hate Me: 13 tales of villainy</cite>, edited by Ameriie."
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-because-you-love-to-hate-me-genre.jpg
 genre-alt: Because You Love to Hate Me
 ---

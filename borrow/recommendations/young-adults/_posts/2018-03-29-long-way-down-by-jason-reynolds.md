@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-long-way-down.jpg
 featured-alt: "Long Way Down"
 featured-link-text: "Read library volunteer Emily's review of <cite>Long Way Down</cite>, by Jason Reynolds."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-long-way-down-genre.jpg
 genre-alt: "Long Way Down"
 ---

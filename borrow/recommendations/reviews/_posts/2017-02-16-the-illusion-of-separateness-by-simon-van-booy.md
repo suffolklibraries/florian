@@ -3,7 +3,7 @@ layout: sidebar-right
 title: The Illusion of Separateness by Simon van Booy
 date: 2017-02-16
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: 'The Borrowers book group found <cite>The Illusion of Separateness</cite> "a very unusual and intense book" that is "poignantly and beautifully written."'
 featured-image: /images/featured/featured-illusion-of-separateness.jpg
 featured-alt: The Illusion of Separateness

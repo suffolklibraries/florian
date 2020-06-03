@@ -8,7 +8,7 @@ excerpt: "<cite>Bookshop Girl</cite> is a short, sweet story with a smart and de
 featured-image: /images/featured/featured-bookshop-girl.jpg
 featured-alt: "Bookshop Girl"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-bookshop-girl-genre.jpg
 genre-alt: "Bookshop Girl"
 ---

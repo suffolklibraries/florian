@@ -3,7 +3,7 @@ layout: sidebar-right
 title: Room by Emma Donoghue
 date: 2017-03-16
 author: andrea-salt
-category: staff-picks
+category: fiction
 excerpt: 'Andrea found <cite>Room</cite> well-written and profoundly affecting.'
 featured-image: /images/featured/featured-room-book.jpg
 featured-alt: Room

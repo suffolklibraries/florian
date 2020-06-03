@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-witchborn.jpg
 featured-alt: "Witchborn"
 featured-link-text: "Read library volunteer Emily's review of <cite>Witchborn</cite>, by Nicholas Bowling."
 breadcrumb: young-adult
-genre: historical
+category: fiction
 genre-image: /images/featured/featured-witchborn-genre.jpg
 genre-alt: "Witchborn"
 ---

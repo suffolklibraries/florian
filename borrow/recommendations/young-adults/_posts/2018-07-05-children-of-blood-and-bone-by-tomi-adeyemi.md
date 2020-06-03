@@ -8,7 +8,7 @@ excerpt: "<cite>Children of Blood and Bone</cite> is gripping, awesome and effor
 featured-image: /images/featured/featured-children-of-blood-and-bone.jpg
 featured-alt: "Children of Blood and Bone"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-children-of-blood-and-bone-genre.jpg
 genre-alt: "Children of Blood and Bone"
 ---

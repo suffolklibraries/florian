@@ -8,7 +8,7 @@ excerpt: "<cite>Are We All Lemmings and Snowflakes?</cite> is heart-warming, rel
 featured-image: /images/featured/featured-are-we-all-lemmings-and-snowflakes.jpg
 featured-alt: "Are We All Lemmings and Snowflakes?"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-are-we-all-lemmings-and-snowflakes-genre.jpg
 genre-alt: "Are We All Lemmings and Snowflakes?"
 ---

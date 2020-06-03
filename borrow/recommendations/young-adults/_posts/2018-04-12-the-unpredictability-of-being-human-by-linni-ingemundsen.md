@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-unpredictability-of-being-human.jpg
 featured-alt: "The Unpredictability of Being Human"
 featured-link-text: "Read library volunteer Emily's review of <cite>The Unpredictability of Being Human</cite> by Linni Ingemundsen."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-unpredictability-of-being-human-genre.jpg
 genre-alt: "The Unpredictability of Being Human"
 ---

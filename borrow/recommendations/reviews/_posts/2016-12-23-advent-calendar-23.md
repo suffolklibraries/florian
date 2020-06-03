@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "<cite>The Girl With No Name</cite>, by Diney Costeloe"
 date: 2016-12-23
 author: alice-violett
-category: staff-picks
+category: fiction
 excerpt: "Web content editor Alice Violett recommends <cite>The Girl With No Name</cite>, by Diney Costeloe."
 featured-image: /images/featured/featured-girl-with-no-name.jpg
 featured-alt: The Girl With No Name

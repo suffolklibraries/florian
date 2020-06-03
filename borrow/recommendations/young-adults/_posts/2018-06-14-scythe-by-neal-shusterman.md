@@ -8,7 +8,7 @@ excerpt: "<cite>Scythe</cite> is a brilliant, engrossing, clever series opener t
 featured-image: /images/featured/featured-scythe.jpg
 featured-alt: "Scythe"
 breadcrumb: young-adult
-genre: sci-fi-and-fantasy
+category: fiction
 genre-image: /images/featured/featured-scythe-genre.jpg
 genre-alt: "Scythe"
 ---

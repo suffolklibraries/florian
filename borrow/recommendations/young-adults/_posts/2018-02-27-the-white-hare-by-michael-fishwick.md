@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-white-hare.jpg
 featured-alt: The White Hare
 featured-link-text: "Read Emma's review of <cite>The White Hare</cite>, by Michael Fishwick."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-the-white-hare-genre.jpg
 genre-alt: "The White Hare"
 ---

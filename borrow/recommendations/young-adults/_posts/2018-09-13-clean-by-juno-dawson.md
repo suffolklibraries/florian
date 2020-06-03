@@ -8,7 +8,7 @@ excerpt: "<cite>Clean</cite> is a raw, powerful and gritty story."
 featured-image: /images/featured/featured-clean.jpg
 featured-alt: "Clean"
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-clean-genre.jpg
 genre-alt: "Clean"
 ---

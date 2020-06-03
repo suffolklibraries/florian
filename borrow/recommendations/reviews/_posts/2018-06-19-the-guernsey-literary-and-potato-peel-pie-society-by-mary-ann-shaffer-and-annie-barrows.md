@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "The Guernsey Literary & Potato Peel Pie Society by Mary Ann Shaffer & Annie Barrows"
 date: 2018-06-19
 author: the-borrowers
-category: staff-picks
+category: fiction
 excerpt: '<cite>The Guernsey Literary & Potato Peel Pie Society</cite> is a wonderful book: uplifting, funny, and with a love story which ends happily.'
 featured-image: /images/featured/featured-the-guernsey-literary-and-potato-peel-pie-society.jpg
 featured-alt: "The Guernsey Literary & Potato Peel Pie Society"

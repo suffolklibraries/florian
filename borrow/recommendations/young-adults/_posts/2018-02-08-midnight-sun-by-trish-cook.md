@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-midnight-sun.jpg
 featured-alt: Midnight Sun
 featured-link-text: "Read Emma's review of <cite>Midnight Sun</cite>, by Trish Cook."
 breadcrumb: young-adult
-genre: literary-fiction
+category: fiction
 genre-image: /images/featured/featured-midnight-sun-genre.jpg
 genre-alt: "Midnight Sun"
 ---

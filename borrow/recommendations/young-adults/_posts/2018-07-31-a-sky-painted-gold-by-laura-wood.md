@@ -8,7 +8,7 @@ excerpt: "<cite>A Sky Painted Gold</cite> is a stunning, addictive read that evo
 featured-image: /images/featured/featured-a-sky-painted-gold.jpg
 featured-alt: "A Sky Painted Gold"
 breadcrumb: young-adult
-genre: historical
+category: fiction
 genre-image: /images/featured/featured-a-sky-painted-gold-genre.jpg
 genre-alt: "A Sky Painted Gold"
 ---

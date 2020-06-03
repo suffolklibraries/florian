@@ -3,7 +3,7 @@ layout: sidebar-right
 title: "Atonement by Ian McEwan"
 date: 2019-01-15
 author: chantry-journeys
-category: staff-picks
+category: fiction
 excerpt: '<cite>Atonement</cite> is a brilliant and harrowing read.'
 featured-image: /images/featured/featured-atonement.jpg
 featured-alt: "Atonement"
