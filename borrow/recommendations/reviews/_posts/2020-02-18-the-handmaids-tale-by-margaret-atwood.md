@@ -8,7 +8,7 @@ excerpt: "<cite>The Handmaid's Tale</cite> is a compelling, well-written book th
 featured-image: /images/featured/featured-the-handmaids-tale.jpg
 featured-alt: "The Handmaid's Tale"
 breadcrumb: staff-picks
-genre: sci-fi-and-fantasy
+sci-fi-and-fantasy
 genre-image: /images/featured/featured-the-handmaids-tale-genre.jpg
 genre-alt: "The Handmaid's Tale"
 ---

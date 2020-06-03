@@ -6,7 +6,7 @@ author: amanda-king
 category: fiction
 excerpt: Bungay Library manager Amanda King reviews a compelling thriller.
 breadcrumb: staff-picks
-genre: crime-and-thriller
+crime-and-thriller
 genre-image: /images/featured/featured-the-kind-worth-killing-genre.jpg
 genre-alt: The Kind Worth Killing
 ---

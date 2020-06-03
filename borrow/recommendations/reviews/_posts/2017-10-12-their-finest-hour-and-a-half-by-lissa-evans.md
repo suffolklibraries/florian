@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-their-finest-hour-and-a-half.jpg
 featured-alt: "Their Finest Hour and a Half"
 featured-link-text: "Read Kate's review of <cite>Their Finest Hour and a Half</cite>"
 breadcrumb: staff-picks
-genre: historical
+historical
 genre-image: /images/featured/featured-their-finest-hour-and-a-half-genre.jpg
 genre-alt: 'Their Finest Hour and a Half'
 ---

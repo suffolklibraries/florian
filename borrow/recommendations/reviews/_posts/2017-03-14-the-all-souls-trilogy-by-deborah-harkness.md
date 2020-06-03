@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-all-souls.jpg
 featured-alt: The All Souls trilogy
 featured-link-text: "Check out Andrea's review of the <cite>All Souls</cite> series"
 breadcrumb: staff-picks
-genre: sci-fi-and-fantasy
+sci-fi-and-fantasy
 genre-image: /images/featured/featured-shadow-of-night-genre.jpg
 genre-alt: Shadow of Night
 ---

@@ -6,7 +6,7 @@ author: helen-scrivener
 category: fiction
 excerpt: Woodbridge Library manager Helen Scrivener reviews <cite>Station Eleven</cite> by Emily St. John Mandel.
 breadcrumb: staff-picks
-genre: sci-fi-and-fantasy
+sci-fi-and-fantasy
 genre-image: /images/featured/featured-station-eleven-genre.jpg
 genre-alt: Station Eleven
 ---

@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-watchmaker-of-filigree-street.jpg
 featured-alt: "The Watchmaker of Filigree Street"
 featured-link-text: "Read Chantry Journeys book group's review of <cite>The Watchmaker of Filigree Street</cite>"
 breadcrumb: staff-picks
-genre: historical
+historical
 genre-image: /images/featured/featured-watchmaker-of-filigree-street-genre.jpg
 genre-alt: The Watchmaker of Filigree Street
 ---

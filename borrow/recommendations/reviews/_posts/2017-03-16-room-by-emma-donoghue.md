@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-room-book.jpg
 featured-alt: Room
 featured-link-text: "Check out Andrea's review of <cite>Room</cite>"
 breadcrumb: staff-picks
-genre: literary-fiction
+literary-fiction
 genre-image: /images/featured/featured-room-genre.jpg
 ---
 

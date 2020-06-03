@@ -8,7 +8,7 @@ excerpt: '<cite>The Sunrise</cite> is an extraordinary story on many levels.'
 featured-image: /images/featured/featured-the-sunrise.jpg
 featured-alt: "The Sunrise"
 breadcrumb: staff-picks
-genre: historical
+historical
 genre-image: /images/featured/featured-the-sunrise-genre.jpg
 genre-alt: "The Sunrise"
 ---

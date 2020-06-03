@@ -8,7 +8,7 @@ excerpt: '<cite>Brick Lane</cite> is a powerful, enjoyable, well-written book th
 featured-image: /images/featured/featured-brick-lane.jpg
 featured-alt: "Brick Lane"
 breadcrumb: staff-picks
-genre: literary-fiction
+literary-fiction
 genre-image: /images/featured/featured-brick-lane-genre.jpg
 genre-alt: "Brick Lane"
 ---

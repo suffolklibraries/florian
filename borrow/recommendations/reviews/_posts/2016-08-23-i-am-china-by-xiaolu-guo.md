@@ -6,7 +6,7 @@ author: alexandra-carter
 category: fiction
 excerpt: Alexandra Carter from the Woodbridge Library Readers’ Circle reviews Xialou Guo's novel about a translator.
 breadcrumb: staff-picks
-genre: literary-fiction
+literary-fiction
 genre-image: /images/featured/featured-i-am-china-genre.jpg
 genre-alt: I am China
 ---

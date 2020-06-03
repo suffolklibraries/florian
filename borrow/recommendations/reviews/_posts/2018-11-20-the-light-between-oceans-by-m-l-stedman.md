@@ -8,7 +8,7 @@ excerpt: '<cite>The Light Between Oceans</cite> is a moving read with sympatheti
 featured-image: /images/featured/featured-the-light-between-oceans.jpg
 featured-alt: "The Light Between Oceans"
 breadcrumb: staff-picks
-genre: historical
+historical
 genre-image: /images/featured/featured-the-light-between-oceans-genre.jpg
 genre-alt: "The Light Between Oceans"
 ---

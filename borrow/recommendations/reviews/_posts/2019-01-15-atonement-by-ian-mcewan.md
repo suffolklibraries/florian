@@ -8,7 +8,7 @@ excerpt: '<cite>Atonement</cite> is a brilliant and harrowing read.'
 featured-image: /images/featured/featured-atonement.jpg
 featured-alt: "Atonement"
 breadcrumb: staff-picks
-genre: historical
+historical
 genre-image: /images/featured/featured-atonement-genre.jpg
 genre-alt: "Atonement"
 ---

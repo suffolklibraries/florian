@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-paying-guests.jpg
 featured-alt: "The Paying Guests"
 featured-link-text: "Read Chantry Journeys book group's review of <cite>The Paying Guests</cite>"
 breadcrumb: staff-picks
-genre: historical
+historical
 genre-image: /images/featured/featured-the-paying-guests-genre.jpg
 ---
 

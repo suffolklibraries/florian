@@ -8,7 +8,7 @@ excerpt: '<cite>The Last Hours</cite> is interesting and well-researched.'
 featured-image: /images/featured/featured-the-last-hours.jpg
 featured-alt: "The Last Hours"
 breadcrumb: staff-picks
-genre: historical
+historical
 genre-image: /images/featured/featured-the-last-hours-genre.jpg
 genre-alt: "The Last Hours"
 ---

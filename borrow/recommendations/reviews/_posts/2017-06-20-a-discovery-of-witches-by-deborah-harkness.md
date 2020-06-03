@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-a-discovery-of-witches.jpg
 featured-alt: "A Discovery of Witches"
 featured-link-text: "Read Chantry Journeys book group's review of <cite>A Discovery of Witches</cite>"
 breadcrumb: staff-picks
-genre: sci-fi-and-fantasy
+sci-fi-and-fantasy
 genre-image: /images/featured/featured-a-discovery-of-witches-genre.jpg
 genre-alt: A Discovery of Witches
 ---

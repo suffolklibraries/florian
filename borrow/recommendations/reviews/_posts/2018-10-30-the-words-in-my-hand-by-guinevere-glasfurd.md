@@ -8,7 +8,7 @@ excerpt: '<cite>The Words in My Hand</cite> is convincing and unputdownable, wit
 featured-image: /images/featured/featured-the-words-in-my-hand.jpg
 featured-alt: "The Words in My Hand"
 breadcrumb: staff-picks
-genre: historical
+historical
 genre-image: /images/featured/featured-the-words-in-my-hand-genre.jpg
 genre-alt: "The Words in My Hand"
 ---

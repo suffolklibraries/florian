@@ -8,7 +8,7 @@ excerpt: '<cite>The Muse</cite> is very interesting read that gives insights int
 featured-image: /images/featured/featured-the-muse.jpg
 featured-alt: "The Muse"
 breadcrumb: staff-picks
-genre: historical
+historical
 genre-image: /images/featured/featured-the-muse-genre.jpg
 genre-alt: "The Muse"
 ---

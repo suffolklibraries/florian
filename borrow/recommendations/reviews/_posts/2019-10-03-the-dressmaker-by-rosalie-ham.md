@@ -8,7 +8,7 @@ excerpt: '<cite>The Dressmaker</cite> is well-written, blends humour and sadness
 featured-image: /images/featured/featured-the-dressmaker.jpg
 featured-alt: "The Dressmaker"
 breadcrumb: staff-picks
-genre: historical
+historical
 genre-image: /images/featured/featured-the-dressmaker-genre.jpg
 genre-alt: "The Dressmaker"
 ---

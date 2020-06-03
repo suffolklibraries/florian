@@ -8,7 +8,7 @@ excerpt: '<cite>This Must Be the Place</cite> features likeable characters and b
 featured-image: /images/featured/featured-this-must-be-the-place.jpg
 featured-alt: "This Must Be the Place"
 breadcrumb: staff-picks
-genre: literary-fiction
+literary-fiction
 genre-image: /images/featured/featured-this-must-be-the-place-genre.jpg
 genre-alt: "This Must Be the Place"
 ---

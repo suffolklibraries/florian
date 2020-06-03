@@ -8,7 +8,7 @@ excerpt: '<cite>The Guernsey Literary & Potato Peel Pie Society</cite> is a wond
 featured-image: /images/featured/featured-the-guernsey-literary-and-potato-peel-pie-society.jpg
 featured-alt: "The Guernsey Literary & Potato Peel Pie Society"
 breadcrumb: staff-picks
-genre: historical
+historical
 genre-image: /images/featured/featured-the-guernsey-literary-and-potato-peel-pie-society-genre.jpg
 genre-alt: "The Guernsey Literary & Potato Peel Pie Society"
 ---

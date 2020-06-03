@@ -6,7 +6,7 @@ author: gill-mason
 category: fiction
 excerpt: Library and information advisor at Felixstowe, Gill Mason, reviews Nicci Gerrard's novel about a woman with a dark past.
 breadcrumb: staff-picks
-genre: literary-fiction
+literary-fiction
 genre-image: /images/featured/featured-the-twilight-hour-genre.jpg
 genre-alt: The Twilight Hour
 ---

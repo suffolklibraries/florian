@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-stopped-heart.jpg
 featured-alt: "The Stopped Heart"
 featured-link-text: "Read web content editor Alice's review of <cite>The Stopped Heart</cite>"
 breadcrumb: staff-picks
-genre: literary-fiction
+literary-fiction
 genre-image: /images/featured/featured-the-stopped-heart-genre.jpg
 genre-alt: The Stopped Heart
 ---

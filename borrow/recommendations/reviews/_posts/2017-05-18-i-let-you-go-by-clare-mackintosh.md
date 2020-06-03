@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-i-let-you-go.jpg
 featured-alt: "I Let You Go"
 featured-link-text: "Read Chantry Journeys book group's review of <cite>I Let You Go</cite>"
 breadcrumb: staff-picks
-genre: crime-and-thriller
+crime-and-thriller
 genre-image: /images/featured/featured-i-let-you-go-genre.jpg
 genre-alt: I Let You Go
 ---

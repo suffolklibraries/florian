@@ -6,7 +6,7 @@ author: helen-scrivener
 category: fiction
 excerpt: Woodbridge Library manager Helen Scrivener reviews this sweeping saga.
 breadcrumb: staff-picks
-genre: literary-fiction
+literary-fiction
 genre-image: /images/featured/featured-the-signature-of-all-things-genre.jpg
 genre-alt: The Signature of All Things
 ---

@@ -8,7 +8,7 @@ excerpt: '<cite>The Fishermen</cite> is a touching story of ambition, love, brut
 featured-image: /images/featured/featured-the-fishermen.jpg
 featured-alt: "The Fishermen"
 breadcrumb: staff-picks
-genre: literary-fiction
+literary-fiction
 genre-image: /images/featured/featured-the-fishermen-genre.jpg
 genre-alt: "The Fishermen"
 ---

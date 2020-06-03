@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-witchfinders-sister.jpg
 featured-alt: "The Witchfinder's Sister"
 featured-link-text: "Read Alice's review of <cite>The Witchfinder's Sister</cite>"
 breadcrumb: staff-picks
-genre: historical
+historical
 genre-image: /images/featured/featured-the-witchfinders-sister-genre.jpg
 ---
 

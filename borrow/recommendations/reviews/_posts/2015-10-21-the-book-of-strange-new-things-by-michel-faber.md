@@ -6,7 +6,7 @@ author: helen-scrivener
 category: fiction
 excerpt: Woodbridge Library manager Helen Scrivener reviews <cite>The Book of Strange New Things</cite>, a futuristic sci-fi novel.
 breadcrumb: staff-picks
-genre: sci-fi-and-fantasy
+sci-fi-and-fantasy
 genre-image: /images/featured/featured-the-book-of-strange-new-things-genre.jpg
 genre-alt: The Book of Strange New Things
 ---

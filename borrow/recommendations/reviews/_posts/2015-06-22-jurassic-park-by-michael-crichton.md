@@ -6,7 +6,7 @@ author: kate-ashton
 category: fiction
 excerpt: Haverhill Library assistant manager Kate Ashton reviews <cite>Jurassic Park</cite>.
 breadcrumb: staff-picks
-genre: sci-fi-and-fantasy
+sci-fi-and-fantasy
 genre-image: /images/featured/featured-jurassic-park-genre.jpg
 genre-alt: Jurassic Park
 ---

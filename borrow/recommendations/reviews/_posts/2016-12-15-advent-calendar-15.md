@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-body-in-barcelona.jpg
 featured-alt: A Body in Barcelona
 tag: advent
 breadcrumb: staff-picks
-genre: crime-and-thriller
+crime-and-thriller
 genre-image: /images/featured/featured-body-in-barcelona-genre.jpg
 genre-alt: A Body in Barcelona
 ---

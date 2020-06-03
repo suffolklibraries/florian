@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-book-thief.jpg
 featured-alt: The Book Thief
 tag: advent
 breadcrumb: staff-picks
-genre: historical
+historical
 genre-image: /images/featured/featured-book-thief-genre.jpg
 genre-alt: The Book Thief
 ---

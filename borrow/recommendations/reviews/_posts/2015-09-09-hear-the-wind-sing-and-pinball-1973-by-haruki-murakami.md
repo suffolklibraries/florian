@@ -6,7 +6,7 @@ author: matt-shenton
 category: fiction
 excerpt: Literacy ambassador Matt Shenton reviews <cite>Hear the wind sing and Pinball, 1973</cite> by Haruki Murakami - two newly translated stories from over 30 years ago.
 breadcrumb: staff-picks
-genre: literary-fiction
+literary-fiction
 genre-image: /images/featured/featured-hear-the-wind-sing-and-pinball-1973-genre.jpg
 genre-alt: Hear the wind sing and Pinball, 1973
 ---

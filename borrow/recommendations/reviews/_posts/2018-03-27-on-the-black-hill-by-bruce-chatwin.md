@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-on-the-black-hill.jpg
 featured-alt: "On the Black Hill"
 featured-link-text: "Read The Borrowers' review of <cite>On the Black Hill</cite>"
 breadcrumb: staff-picks
-genre: historical
+historical
 genre-image: /images/featured/featured-on-the-black-hill-genre.jpg
 genre-alt: "On the Black Hill"
 ---

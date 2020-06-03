@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-marriage-of-opposites.jpg
 featured-alt: "The Marriage of Opposites"
 featured-link-text: "Read The Borrowers' review of <cite>The Marriage of Opposites</cite>"
 breadcrumb: staff-picks
-genre: historical
+historical
 genre-image: /images/featured/featured-marriage-of-opposites-genre.jpg
 genre-alt: 'The Marriage of Opposites'
 ---

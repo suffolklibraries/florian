@@ -8,7 +8,7 @@ excerpt: '<cite>Force of Nature</cite> is a rattling good tale which really keep
 featured-image: /images/featured/featured-force-of-nature.jpg
 featured-alt: "Force of Nature"
 breadcrumb: staff-picks
-genre: crime-and-thriller
+crime-and-thriller
 genre-image: /images/featured/featured-force-of-nature-genre.jpg
 genre-alt: "Force of Nature"
 ---

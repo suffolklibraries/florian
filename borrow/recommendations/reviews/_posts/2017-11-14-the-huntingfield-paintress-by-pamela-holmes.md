@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-huntingfield-paintress.jpg
 featured-alt: "The Huntingfield Paintress"
 featured-link-text: "Read The Borrowers' review of <cite>The Huntingfield Paintress</cite>"
 breadcrumb: staff-picks
-genre: historical
+historical
 genre-image: /images/featured/featured-the-huntingfield-paintress-genre.jpg
 genre-alt: 'The Huntingfield Paintress'
 ---

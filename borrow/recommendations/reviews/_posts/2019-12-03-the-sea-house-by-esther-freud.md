@@ -8,7 +8,7 @@ excerpt: '<cite>The Sea House</cite> is well-written and enjoyable, with a famil
 featured-image: /images/featured/featured-the-sea-house.jpg
 featured-alt: "The Sea House"
 breadcrumb: staff-picks
-genre: historical
+historical
 genre-image: /images/featured/featured-the-sea-house-genre.jpg
 genre-alt: "The Sea House"
 ---

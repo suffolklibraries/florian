@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-secret-diary.jpg
 featured-alt: The Secret Diary of Hendrik Groen, 83 &frac14;
 tag: advent
 breadcrumb: staff-picks
-genre: literary-fiction
+literary-fiction
 genre-image: /images/featured/featured-secret-diary-genre.jpg
 genre-alt: The Secret Diary of Hendrik Groen, 83 &frac14;
 ---

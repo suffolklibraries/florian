@@ -8,7 +8,7 @@ excerpt: '<cite>The Stranger Diaries</cite> is a thoroughly enjoyable read featu
 featured-image: /images/featured/featured-the-stranger-diaries.jpg
 featured-alt: "The Stranger Diaries"
 breadcrumb: staff-picks
-genre: crime-and-thriller
+crime-and-thriller
 genre-image: /images/featured/featured-the-stranger-diaries-genre.jpg
 genre-alt: "The Stranger Diaries"
 ---

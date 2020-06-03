@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-longbourn.jpg
 featured-alt: "Longbourn"
 featured-link-text: "Read Chantry Journeys book group's review of <cite>Longbourn</cite>"
 breadcrumb: staff-picks
-genre: historical
+historical
 genre-image: /images/featured/featured-longbourn-genre.jpg
 genre-alt: Longbourn
 ---

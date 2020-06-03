@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-bubble-boy.jpg
 featured-alt: The Bubble Boy
 tag: advent
 breadcrumb: staff-picks
-genre: literary-fiction
+literary-fiction
 genre-image: /images/featured/featured-bubble-boy-genre.jpg
 genre-alt: The Bubble Boy
 ---

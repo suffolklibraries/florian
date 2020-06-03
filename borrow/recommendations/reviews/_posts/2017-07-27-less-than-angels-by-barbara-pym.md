@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-less-than-angels.jpg
 featured-alt: "Less Than Angels"
 featured-link-text: "Read The Borrowers book group's review of <cite>Less Than Angels</cite>"
 breadcrumb: staff-picks
-genre: literary-fiction
+literary-fiction
 genre-image: /images/featured/featured-less-than-angels-genre.jpg
 genre-alt: Less Than Angels
 ---
