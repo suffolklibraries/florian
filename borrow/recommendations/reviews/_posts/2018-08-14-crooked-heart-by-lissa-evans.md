@@ -8,7 +8,7 @@ excerpt: '<cite>Crooked Heart</cite> is heartwarming, moving and very funny.'
 featured-image: /images/featured/featured-crooked-heart.jpg
 featured-alt: "Crooked Heart"
 breadcrumb: staff-picks
-historical
+
 genre-image: /images/featured/featured-crooked-heart-genre.jpg
 genre-alt: "Crooked Heart"
 ---

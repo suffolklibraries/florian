@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-tenderness-of-wolves.jpg
 featured-alt: "The Tenderness of Wolves"
 featured-link-text: "Read Chantry Journeys book group's review of <cite>The Tenderness of Wolves</cite>"
 breadcrumb: staff-picks
-crime-and-thriller
+
 genre-image: /images/featured/featured-the-tenderness-of-wolves-genre.jpg
 genre-alt: 'The Tenderness of Wolves'
 ---

@@ -8,7 +8,7 @@ excerpt: '<cite>The Sunrise</cite> is an extraordinary story on many levels.'
 featured-image: /images/featured/featured-the-sunrise.jpg
 featured-alt: "The Sunrise"
 breadcrumb: staff-picks
-historical
+
 genre-image: /images/featured/featured-the-sunrise-genre.jpg
 genre-alt: "The Sunrise"
 ---
@@ -27,4 +27,4 @@ In <cite>The Sunrise</cite>, Victoria Hislop portrays the conflict on the island
 
 The plotting is very clever, taking in the impact of the invasion on The Sunrise's wealthy owners, Savvas and Aphroditi Papacosta, as well as their employees' families, the Georgious and the Okkans.
 
-All of these characters are wonderfully well-developed, but the well-researched historical context is even more absorbing, conveying a huge sense of place and culture. <cite>The Sunrise</cite> is an extraordinary story on many levels.
+All of these characters are wonderfully well-developed, but the well-researched  context is even more absorbing, conveying a huge sense of place and culture. <cite>The Sunrise</cite> is an extraordinary story on many levels.

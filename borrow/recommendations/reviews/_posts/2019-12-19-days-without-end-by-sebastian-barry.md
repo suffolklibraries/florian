@@ -8,7 +8,7 @@ excerpt: '<cite>Days Without End</cite> is a truly memorable story of a life spe
 featured-image: /images/featured/featured-days-without-end.jpg
 featured-alt: "Days Without End"
 breadcrumb: staff-picks
-historical
+
 genre-image: /images/featured/featured-days-without-end-genre.jpg
 genre-alt: "Days Without End"
 ---

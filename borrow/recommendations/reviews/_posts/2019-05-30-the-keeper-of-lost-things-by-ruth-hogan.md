@@ -8,7 +8,7 @@ excerpt: '<cite>The Keeper of Lost Things</cite> is a charming and enjoyable, qu
 featured-image: /images/featured/featured-the-keeper-of-lost-things.jpg
 featured-alt: "The Keeper of Lost Things"
 breadcrumb: staff-picks
-literary-fiction
+
 genre-image: /images/featured/featured-the-keeper-of-lost-things-genre.jpg
 genre-alt: "The Keeper of Lost Things"
 ---

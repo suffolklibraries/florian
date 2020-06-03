@@ -6,7 +6,7 @@ author: richard-baker
 category: fiction
 excerpt: Library and information advisor at Woodbridge, Richard Baker, reviews one of the Brave New Reads.
 breadcrumb: staff-picks
-literary-fiction
+
 genre-image: /images/featured/featured-signs-preceding-the-end-of-the-world-genre.jpg
 genre-alt: Signs Preceding the End of the World
 ---

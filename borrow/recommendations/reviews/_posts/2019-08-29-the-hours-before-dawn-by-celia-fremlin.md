@@ -8,7 +8,7 @@ excerpt: '<cite>The Hours Before Dawn</cite> is a menacing and very cleverly wri
 featured-image: /images/featured/featured-the-hours-before-dawn.jpg
 featured-alt: "The Hours Before Dawn"
 breadcrumb: staff-picks
-crime-and-thriller
+
 genre-image: /images/featured/featured-the-hours-before-dawn-genre.jpg
 genre-alt: "The Hours Before Dawn"
 ---

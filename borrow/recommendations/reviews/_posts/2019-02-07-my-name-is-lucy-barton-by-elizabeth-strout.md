@@ -8,7 +8,7 @@ excerpt: '<cite>My Name is Lucy Barton</cite> is a beautifully written gem of a 
 featured-image: /images/featured/featured-my-name-is-lucy-barton.jpg
 featured-alt: "My Name is Lucy Barton"
 breadcrumb: staff-picks
-literary-fiction
+
 genre-image: /images/featured/featured-my-name-is-lucy-barton-genre.jpg
 genre-alt: "My Name is Lucy Barton"
 ---

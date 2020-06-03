@@ -6,7 +6,7 @@ author: helen-scrivener
 category: fiction
 excerpt: Woodbridge Library manager Helen Scrivener reviews the 2014 Man Booker Prize winner, <cite>The narrow road to the deep north</cite>.
 breadcrumb: staff-picks
-historical
+
 genre-image: /images/featured/featured-the-narrow-road-to-the-deep-north-genre.jpg
 genre-alt: The Narrow Road to the Deep North
 ---

@@ -8,7 +8,7 @@ excerpt: '<cite>Snap</cite> is a fast-moving, enjoyable read featuring likeable 
 featured-image: /images/featured/featured-snap.jpg
 featured-alt: "Snap"
 breadcrumb: staff-picks
-crime-and-thriller
+
 genre-image: /images/featured/featured-snap-genre.jpg
 genre-alt: "Snap"
 ---

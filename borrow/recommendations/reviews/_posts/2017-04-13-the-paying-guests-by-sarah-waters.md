@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-paying-guests.jpg
 featured-alt: "The Paying Guests"
 featured-link-text: "Read Chantry Journeys book group's review of <cite>The Paying Guests</cite>"
 breadcrumb: staff-picks
-historical
+
 genre-image: /images/featured/featured-the-paying-guests-genre.jpg
 ---
 
@@ -21,4 +21,4 @@ In the aftermath of the First World War, a genteel widow and her daughter France
 
 We felt particularly sympathetic towards the character of Frances, with her dislike of pretense and her need to disguise her sexual orientation. We thought that the author's decision to write the book in the third person, despite Frances being in every scene, heightened the character's sense of isolation. By contrast, we found Lilian an annoying, less sympathetic character.
 
-Overall, <cite>The Paying Guests</cite> is a ripping yarn. The small cast of characters inhabit a thoroughly convincing historical setting and the book provoked a lively discussion.
+Overall, <cite>The Paying Guests</cite> is a ripping yarn. The small cast of characters inhabit a thoroughly convincing  setting and the book provoked a lively discussion.

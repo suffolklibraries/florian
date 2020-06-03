@@ -8,7 +8,7 @@ excerpt: '<cite>Bitter Orange</cite> is an off-kilter quick and easy read that p
 featured-image: /images/featured/featured-bitter-orange.jpg
 featured-alt: "Bitter Orange"
 breadcrumb: staff-picks
-literary-fiction
+
 genre-image: /images/featured/featured-bitter-orange-genre.jpg
 genre-alt: "Bitter Orange"
 ---

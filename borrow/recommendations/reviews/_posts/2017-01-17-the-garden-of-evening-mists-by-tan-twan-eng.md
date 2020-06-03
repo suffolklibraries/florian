@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-garden-evening-mists.jpg
 featured-alt: The Garden of Evening Mists
 featured-link-text: "Read The Borrowers book group's review of <cite>The Garden of Evening Mists</cite>, by Tan Twan Eng."
 breadcrumb: staff-picks
-historical
+
 genre-image: /images/featured/featured-garden-evening-mists-genre.jpg
 genre-alt: The Garden of Evening Mists
 ---

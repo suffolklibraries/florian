@@ -4,11 +4,11 @@ title: "The Muse by Jessie Burton"
 date: 2018-05-15
 author: the-borrowers
 category: fiction
-excerpt: '<cite>The Muse</cite> is very interesting read that gives insights into very different historical times and places.'
+excerpt: '<cite>The Muse</cite> is very interesting read that gives insights into very different  times and places.'
 featured-image: /images/featured/featured-the-muse.jpg
 featured-alt: "The Muse"
 breadcrumb: staff-picks
-historical
+
 genre-image: /images/featured/featured-the-muse-genre.jpg
 genre-alt: "The Muse"
 ---
@@ -27,4 +27,4 @@ There are so many different intertwined plots that there is almost another novel
 
 There are many themes in this book and undercurrents: relationships and the complexity between them; secrets and betrayals within families; self-belief and the lack of it, and the role of women, particularly the female artist. As the main character Odelle arrives from Trinidad in 1967, the book also reveals the pervasiveness of racism at that time. The strong female characters carry the story while the male characters are portrayed as flawed and weak.
 
-<cite>The Muse</cite> is very interesting read that gives insights into very different historical times and places. The story keeps you reading and guessing right up to the twist at the end.
+<cite>The Muse</cite> is very interesting read that gives insights into very different  times and places. The story keeps you reading and guessing right up to the twist at the end.

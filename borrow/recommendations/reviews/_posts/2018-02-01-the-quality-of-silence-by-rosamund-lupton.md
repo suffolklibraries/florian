@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-quality-of-silence.jpg
 featured-alt: "The Quality of Silence"
 featured-link-text: "Read The Borrowers' review of <cite>The Quality of Silence</cite>"
 breadcrumb: staff-picks
-crime-and-thriller
+
 genre-image: /images/featured/featured-quality-of-silence-genre.jpg
 genre-alt: 'A Line Made By Walking'
 ---

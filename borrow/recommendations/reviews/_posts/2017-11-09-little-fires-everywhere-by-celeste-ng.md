@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-little-fires-everywhere.jpg
 featured-alt: "Little Fires Everywhere"
 featured-link-text: "Read Alice's review of <cite>Little Fires Everywhere</cite>"
 breadcrumb: staff-picks
-literary-fiction
+
 genre-image: /images/featured/featured-little-fires-everywhere-genre.jpg
 genre-alt: 'Little Fires Everywhere'
 ---

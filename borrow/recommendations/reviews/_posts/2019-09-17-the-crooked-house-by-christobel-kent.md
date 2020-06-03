@@ -8,7 +8,7 @@ excerpt: '<cite>The Crooked House</cite> is a deeply engrossing and hugely enjoy
 featured-image: /images/featured/featured-the-crooked-house.jpg
 featured-alt: "The Crooked House"
 breadcrumb: staff-picks
-crime-and-thriller
+
 genre-image: /images/featured/featured-the-crooked-house-genre.jpg
 genre-alt: " The Crooked House"
 ---

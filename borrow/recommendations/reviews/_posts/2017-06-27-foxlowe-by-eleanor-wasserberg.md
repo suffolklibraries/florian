@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-foxlowe.jpg
 featured-alt: "Foxlowe"
 featured-link-text: "Read Alice's review of <cite>Foxlowe</cite>"
 breadcrumb: staff-picks
-literary-fiction
+
 genre-image: /images/featured/featured-foxlowe-genre.jpg
 genre-alt: Foxlowe
 ---

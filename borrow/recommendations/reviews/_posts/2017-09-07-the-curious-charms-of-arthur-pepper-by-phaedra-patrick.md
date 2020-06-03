@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-curious-charms-of-arthur-pepper.jp
 featured-alt: "The Curious Charms of Arthur Pepper"
 featured-link-text: "Read The Borrowers book group's review of <cite>The Curious Charms of Arthur Pepper</cite>"
 breadcrumb: staff-picks
-literary-fiction
+
 genre-image: /images/featured/featured-the-curious-charms-of-arthur-pepper-genre.jpg
 genre-alt: 'The Curious Charms of Arthur Pepper'
 ---

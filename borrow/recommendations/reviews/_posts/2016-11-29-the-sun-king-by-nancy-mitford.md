@@ -21,4 +21,4 @@ She explains Louis’ insistence on absolute supremacy in government matters, wh
 
 The Sun King died in 1715. He was succeeded by his 5-year-old grandson, Louis XV, since 5 of his 6 heirs died in infancy and the remaining Dauphin died just 4 years before Louis himself.
 
-A different Louis to the TV drama perhaps, but I recommend this book to those interested in European history and also to those who like historical novels; Nancy Mitford’s love of drama almost makes you forget the characters were real.
+A different Louis to the TV drama perhaps, but I recommend this book to those interested in European history and also to those who like  novels; Nancy Mitford’s love of drama almost makes you forget the characters were real.

@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-huntingfield-paintress.jpg
 featured-alt: "The Huntingfield Paintress"
 featured-link-text: "Read The Borrowers' review of <cite>The Huntingfield Paintress</cite>"
 breadcrumb: staff-picks
-historical
+
 genre-image: /images/featured/featured-the-huntingfield-paintress-genre.jpg
 genre-alt: 'The Huntingfield Paintress'
 ---
@@ -26,6 +26,6 @@ An enjoyable read, this book is a fictionalised account of the true story of Mil
 
 This story is enriched with some lovely characters, not least William, her husband, who unfailingly supported her through this enormous and challenging venture as well as paying for all the paint and gold leaf.
 
-Mildred was also an engaging character, and this combined with the local and historical settings to producing a story with real read-on factor. The omissions in proof reading could be slightly distracting, however.
+Mildred was also an engaging character, and this combined with the local and  settings to producing a story with real read-on factor. The omissions in proof reading could be slightly distracting, however.
 
 This is a good story made the more enjoyable by being based on a real person who lived in Suffolk. It was an inspiration to see for ourselves the wonderful painted roof and visit the church, which is open daily to the public.

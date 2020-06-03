@@ -8,7 +8,7 @@ excerpt: '<cite>The Garden Party and other stories</cite> features very descript
 featured-image: /images/featured/featured-the-garden-party.jpg
 featured-alt: "The Garden Party and other stories"
 breadcrumb: staff-picks
-literary-fiction
+
 genre-image: /images/featured/featured-the-garden-party-genre.jpg
 genre-alt: "The Garden Party and other stories"
 ---

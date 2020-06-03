@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-the-bean-trees.jpg
 featured-alt: "The Bean Trees"
 featured-link-text: "Read The Borrowers book group's review of <cite>The Bean Trees</cite>"
 breadcrumb: staff-picks
-literary-fiction
+
 genre-image: /images/featured/featured-the-bean-trees-genre.jpg
 ---
 

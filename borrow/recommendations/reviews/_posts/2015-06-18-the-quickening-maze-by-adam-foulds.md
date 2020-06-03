@@ -6,7 +6,7 @@ author: helen-scrivener
 category: fiction
 excerpt: Woodbridge Library manager Helen Scrivener reviews <cite>The quickening maze</cite>, a novel about the poets John Clare and Alfred Tennyson.
 breadcrumb: staff-picks
-historical
+
 genre-image: /images/featured/featured-the-quickening-maze-genre.jpg
 genre-alt: The Quickening Maze
 ---

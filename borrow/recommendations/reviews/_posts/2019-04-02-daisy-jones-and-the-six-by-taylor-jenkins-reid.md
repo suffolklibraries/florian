@@ -8,7 +8,7 @@ excerpt: '<cite>Daisy Jones & The Six</cite> explores emotions and relationships
 featured-image: /images/featured/featured-daisy-jones-and-the-six.jpg
 featured-alt: "Daisy Jones & The Six"
 breadcrumb: staff-picks
-historical
+
 genre-image: /images/featured/featured-daisy-jones-and-the-six-genre.jpg
 genre-alt: "Daisy Jones & The Six"
 ---

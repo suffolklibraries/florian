@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-a-place-called-winter.jpg
 featured-alt: A Place Called Winter
 tag: advent
 breadcrumb: staff-picks
-historical
+
 genre-image: /images/featured/featured-a-place-called-winter-genre.jpg
 genre-alt: A Place Called Winter
 ---

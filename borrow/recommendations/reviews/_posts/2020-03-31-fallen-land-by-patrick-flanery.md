@@ -8,7 +8,7 @@ excerpt: '<cite>Fallen Land</cite> is a tragic, unforgettable tale.'
 featured-image: /images/featured/featured-fallen-land.jpg
 featured-alt: "Fallen Land"
 breadcrumb: staff-picks
-crime-and-thriller
+
 genre-image: /images/featured/featured-fallen-land-genre.jpg
 genre-alt: "Fallen Land"
 ---

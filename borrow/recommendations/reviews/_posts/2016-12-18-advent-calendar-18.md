@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-elizabeth-is-missing.jpg
 featured-alt: Elizabeth Is Missing
 tag: advent
 breadcrumb: staff-picks
-literary-fiction
+
 genre-image: /images/featured/featured-elizabeth-is-missing-genre.jpg
 genre-alt: Elizabeth is Missing
 ---

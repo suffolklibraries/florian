@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-exposure.jpg
 featured-alt: Exposure
 featured-link-text: "Read Chantry Journeys book group's review of <cite>Exposure</cite>, by Helen Dunmore."
 breadcrumb: staff-picks
-historical
+
 genre-image: /images/featured/featured-exposure-genre.jpg
 genre-alt: Exposure
 ---

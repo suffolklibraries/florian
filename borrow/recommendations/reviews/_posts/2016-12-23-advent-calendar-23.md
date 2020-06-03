@@ -9,7 +9,7 @@ featured-image: /images/featured/featured-girl-with-no-name.jpg
 featured-alt: The Girl With No Name
 tag: advent
 breadcrumb: staff-picks
-historical
+
 genre-image: /images/featured/featured-girl-with-no-name-genre.jpg
 genre-alt: The Girl With No Name
 ---
